@@ -25,7 +25,8 @@ reproducible candidate list — without silently narrowing or forcing a match.
 ## Knowledge base
 
 Read before acting: `screening/fund-criteria-checklist.md`,
-`screening/widen-search-playbook.md`, `_shared/data-source-crosswalk.md`.
+`screening/widen-search-playbook.md`, `_shared/data-source-crosswalk.md`,
+`_shared/citation-standards.md`.
 
 ## Operating rules
 

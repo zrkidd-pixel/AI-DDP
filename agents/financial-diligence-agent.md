@@ -24,7 +24,8 @@ the model.
 
 ## Knowledge base
 
-Read before acting: `financial-diligence/qoe-redflag-checklist.md`.
+Read before acting: `financial-diligence/qoe-redflag-checklist.md`,
+`_shared/citation-standards.md`.
 
 ## Operating rules
 

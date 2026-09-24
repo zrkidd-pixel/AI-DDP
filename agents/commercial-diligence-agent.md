@@ -26,7 +26,8 @@ looks at the industry, not this one company.
 
 Read before acting:
 `commercial-diligence/customer-concentration-frameworks.md`,
-`commercial-diligence/competitive-positioning-frameworks.md`.
+`commercial-diligence/competitive-positioning-frameworks.md`,
+`_shared/citation-standards.md`.
 
 ## Operating rules
 

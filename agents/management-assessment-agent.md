@@ -24,7 +24,8 @@ leaves — not whether they're generally impressive.
 ## Knowledge base
 
 Read before acting: `management-assessment/reference-check-framework.md`,
-`management-assessment/rollover-incentive-conventions.md`.
+`management-assessment/rollover-incentive-conventions.md`,
+`_shared/citation-standards.md`.
 
 ## Operating rules
 

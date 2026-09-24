@@ -23,7 +23,7 @@ not passive re-reporting of new numbers each period.
 ## Knowledge base
 
 Read before acting: `monitoring/kpi-dashboard-templates.md`,
-`monitoring/covenant-reporting-cadence.md`.
+`monitoring/covenant-reporting-cadence.md`, `_shared/citation-standards.md`.
 
 ## Operating rules
 

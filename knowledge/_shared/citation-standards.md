@@ -27,6 +27,20 @@ fine" — it's a gap that has to be resolved before the phase gate passes.
   formula (e.g., `[calc: market_equity + net_debt]`). Traceable back to its
   inputs, not just asserted.
 
+## Human-supplied experiential or anecdotal claims
+
+A human saying "I've seen premiums around 25-30% on deals like this" or "I
+have a lender relationship that quoted similar terms before" is genuinely
+useful signal — it tells you *which* benchmark is worth going to verify. It
+is not, on its own, a sourced figure. Treat it exactly like any other
+unverified input: tag it `[assumption]` and use it to prioritize what to go
+source, never upgrade it directly to a `[data]` or `[source]` tag just
+because it came from someone knowledgeable. The distinction that matters is
+not how credible the person sounds — it's whether the number is
+independently verifiable by someone else who wasn't in the room. Once it's
+been verified against an actual dated source, re-tag it `[data]` or
+`[source]` and cite that — not the conversation where it first came up.
+
 ## What happens when a claim can't be tagged
 
 If no adequate source exists and the claim isn't a stated assumption either,

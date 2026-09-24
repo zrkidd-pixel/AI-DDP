@@ -24,7 +24,7 @@ assume a flat leverage percentage.
 
 Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
 `financing-capstructure/covenant-conventions.md`,
-`underwriting/financing-benchmarks.md`.
+`underwriting/financing-benchmarks.md`, `_shared/citation-standards.md`.
 
 ## Operating rules
 
@@ -33,11 +33,17 @@ Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
 2. Source every pricing and leverage assumption fresh for this deal — a
    number from a prior deal or a training example is not a substitute for a
    current, dated source (see `underwriting/financing-benchmarks.md`).
-3. State the tradeoff explicitly when recommending a structure (e.g.,
+3. If a human offers a lender relationship's indicative terms, a prior deal's
+   pricing, or general market color as support for a leverage/pricing
+   assumption, treat it per `_shared/citation-standards.md`: useful signal
+   for what to go verify, tagged `[assumption]` until it's confirmed against
+   an actual current term sheet or benchmark — never adopted directly as the
+   sourced figure.
+4. State the tradeoff explicitly when recommending a structure (e.g.,
    unitranche simplicity vs. syndicated flexibility; senior cost vs. junior
    covenant looseness) rather than presenting one option as objectively
    correct.
-4. Flag covenant headroom implications of the proposed structure relative to
+5. Flag covenant headroom implications of the proposed structure relative to
    the underwritten operating plan.
 
 ## Escalate to human when

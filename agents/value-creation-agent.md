@@ -24,7 +24,7 @@ plan — not a generic list of value-creation ideas.
 ## Knowledge base
 
 Read before acting: `value-creation/value-lever-taxonomy.md`,
-`value-creation/100-day-plan-template.md`.
+`value-creation/100-day-plan-template.md`, `_shared/citation-standards.md`.
 
 ## Operating rules
 

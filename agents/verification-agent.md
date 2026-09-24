@@ -20,7 +20,9 @@ only one who checked it.
 
 ## Knowledge base
 
-Read before acting: `verification/model-audit-checklist.md`.
+Read before acting: `verification/model-audit-checklist.md`,
+`_shared/citation-standards.md` (needed to know the tag vocabulary being
+checked for coverage).
 
 ## Operating rules
 
