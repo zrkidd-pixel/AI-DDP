@@ -1,8 +1,7 @@
 # Fund Mandate Template
 
-Referenced by: every agent, as the first thing checked before any work begins.
-This is the AI-DDP equivalent of AI-DLC's `org.md` — the fixed context every
-phase inherits rather than re-deriving.
+Referenced by: every agent, as the first thing checked before any work
+begins — the fixed context every phase inherits rather than re-deriving.
 
 **This file must be filled in per fund/deal before Screening starts.** An agent
 that finds placeholder values below should treat that as a blocking gap, not a

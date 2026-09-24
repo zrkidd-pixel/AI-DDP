@@ -44,7 +44,7 @@ tool call and Codex is told why via stderr; exit code 0 allows it.
 
 Also wires `SessionStart` to print current phase/gate status at the start of
 every session, so a resumed session doesn't lose track of where the deal
-stands — the AI-DDP counterpart to AI-DLC's `aidlc-session-start.ts`.
+stands.
 
 ## Approving a gate
 

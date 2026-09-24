@@ -50,8 +50,7 @@ its own gate by scripting a call to this file.
 ## SessionStart: automatic status on resume
 
 The snippet also wires a `SessionStart` hook that prints the current
-phase/gate status at the start of every session — this is the AI-DDP
-counterpart to AI-DLC's `aidlc-session-start.ts`. You (or Claude) shouldn't
+phase/gate status at the start of every session. You (or Claude) shouldn't
 have to remember to ask "what phase are we in" after closing and reopening a
 session; it's surfaced automatically.
 

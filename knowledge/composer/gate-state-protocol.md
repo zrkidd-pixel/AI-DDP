@@ -1,8 +1,7 @@
 # Gate & State Protocol
 
 Referenced by: Composer (this is closer to a configuration/orchestration
-reference than a domain-knowledge file, and is the AI-DDP counterpart to
-AI-DLC's `conductor.md`)
+reference than a domain-knowledge file)
 
 ## The Composer's job
 
@@ -47,7 +46,6 @@ gate at all.
 
 Every phase transition, every gate approval (and who approved it, and when),
 and every re-underwrite trigger is logged to a persistent, append-only record
-tied to this specific deal/engagement — mirroring AI-DLC's own audit-trail
-principle. The log is the traceability artifact a firm would actually want to
-be able to produce later: not just "what did the AI conclude," but "what was
-approved, by whom, and when, at each step."
+tied to this specific deal/engagement. The log is the traceability artifact a
+firm would actually want to be able to produce later: not just "what did the
+AI conclude," but "what was approved, by whom, and when, at each step."

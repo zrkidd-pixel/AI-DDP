@@ -1,8 +1,7 @@
 # Citation Standards
 
 Referenced by: every agent producing a claim; enforced at the Thesis gate by
-the Verification Agent. This is the AI-DDP equivalent of AI-DLC's
-claim-sources sensor, rewritten for PE work instead of code.
+the Verification Agent.
 
 ## The rule
 
