@@ -1,0 +1,13 @@
+# Per-engagement runtime state should never live inside the framework repo
+# itself -- engagements are separate directories per README.md's own
+# convention. This guards against someone accidentally running `init` at
+# the repo root and committing deal-specific state into the framework repo.
+.aiddp/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

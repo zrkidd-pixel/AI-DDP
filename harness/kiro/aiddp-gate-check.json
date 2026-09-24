@@ -1,0 +1,20 @@
+{
+  "hooks": [
+    {
+      "name": "aiddp-gate-check",
+      "trigger": "PreToolUse",
+      "action": {
+        "type": "command",
+        "command": "python /absolute/path/to/AI-DDP/engine/aiddp_gate.py --root . hook-pretooluse"
+      }
+    },
+    {
+      "name": "aiddp-session-status",
+      "trigger": "SessionStart",
+      "action": {
+        "type": "command",
+        "command": "python /absolute/path/to/AI-DDP/engine/aiddp_gate.py --root . hook-sessionstart"
+      }
+    }
+  ]
+}
