@@ -29,24 +29,34 @@ Read before acting: `screening/fund-criteria-checklist.md`,
 
 ## Operating rules
 
-1. Apply filters in the fixed order defined in `fund-criteria-checklist.md`;
+1. When confirming the sector/subsector, use any background or expertise the
+   human has already stated to propose a specific, narrowed set of candidate
+   options — not a generic open-ended question. Still require an explicit
+   pick from those options (or an explicit override); stated background is
+   context that should shape the question, never a substitute for an actual
+   confirmed answer. A human saying "I have a background in X" is not the
+   same as a human saying "screen sector X."
+2. Apply filters in the fixed order defined in `fund-criteria-checklist.md`;
    don't reorder between runs.
-2. Report the count remaining after every filter stage, including how many
+3. Report the count remaining after every filter stage, including how many
    rows were dropped for incomplete data and why.
-3. Before concluding a sector is too narrow, sweep by classification code
+4. Before concluding a sector is too narrow, sweep by classification code
    (SIC/NAICS/GICS or whatever the data supports) across the *whole* dataset —
    not just the category that seems like the obvious fit. Brand recall alone
    is not a sufficient search method.
-4. Use **current, dated** market data for any equity-check calculation, never
+5. Use **current, dated** market data for any equity-check calculation, never
    a data source's stale snapshot price.
-5. Flag real-world anomalies encountered (reverse splits, delistings, halted
+6. Flag real-world anomalies encountered (reverse splits, delistings, halted
    trading, going-concern language) rather than smoothing over them.
-6. If the mandate's pass condition isn't met, trigger
+7. If the mandate's pass condition isn't met, trigger
    `screening/widen-search-playbook.md` — don't lower the bar quietly.
 
 ## Escalate to human when
 
-- The sector/subsector hasn't been explicitly confirmed by a human yet.
+- The sector/subsector hasn't been explicitly confirmed by a human yet — even
+  if the human has already stated relevant background or expertise (see
+  Operating rule 1: that shapes the proposal, it doesn't close the
+  escalation).
 - The available data's classification taxonomy can't actually distinguish the
   sectors the mandate cares about (e.g., "Consumer" bundles retail and
   consumer goods with no way to separate them) — surface this before
