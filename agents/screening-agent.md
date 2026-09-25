@@ -29,7 +29,7 @@ reproducible candidate list — without silently narrowing or forcing a match.
 Read before acting: `screening/fund-criteria-checklist.md`,
 `screening/widen-search-playbook.md`, `_shared/data-source-crosswalk.md`,
 `_shared/citation-standards.md`, `_shared/question-format-guide.md`,
-`extensions/README.md`.
+`extensions/README.md`, `_shared/data-source-directory.md`.
 
 ## Operating rules
 
@@ -63,7 +63,13 @@ Read before acting: `screening/fund-criteria-checklist.md`,
    end up filled in and durable — nothing about asking instead of blocking
    changes that — it just means you do the mechanical file-editing, not the
    human.
-9. As part of that same mandate interview, check the target's known
+9. If the available dataset is too thin to build a real candidate universe
+   (not just too narrow a sector definition — see the widen-search-playbook
+   first), suggest a specific pull per `_shared/data-source-directory.md`
+   — e.g., "a Capital IQ Screener export for [criteria]" or "a PitchBook
+   private-company screen" — rather than asking generically for "more
+   data."
+10. As part of that same mandate interview, check the target's known
    characteristics against `extensions/README.md`'s trigger-condition
    table (non-US operations, LP ESG mandates, distress signals) and ask
    about any that aren't yet resolved. Record the result in the mandate's

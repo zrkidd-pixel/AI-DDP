@@ -28,7 +28,8 @@ Read before acting: `legal-structuring/deal-structure-decision-tree.md`,
 `legal-structuring/purchase-agreement-glossary.md`,
 `_shared/citation-standards.md`,
 `management-assessment/rollover-incentive-conventions.md`,
-`_shared/question-format-guide.md`. If `extensions/cross-border-
+`_shared/question-format-guide.md`, `_shared/data-source-directory.md`.
+If `extensions/cross-border-
 structuring/` or `extensions/distressed-diligence/` are active per the
 deal's `fund-mandate.md`, also read the corresponding `.opt-in.md` file(s).
 
@@ -45,6 +46,10 @@ deal's `fund-mandate.md`, also read the corresponding `.opt-in.md` file(s).
 4. If a draft term (working-capital peg, indemnification cap) diverges
    materially from what the QoE-derived model assumed, surface it back to
    Underwriting explicitly — don't let it sit siloed in the legal workstream.
+5. For deal-structure precedent, suggest a specific pull per
+   `_shared/data-source-directory.md` — SEC EDGAR 8-K merger-agreement
+   exhibits from comparable recent transactions — rather than reasoning
+   about structure in the abstract.
 
 ## Escalate to human when
 

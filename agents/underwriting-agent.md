@@ -31,7 +31,7 @@ Read before acting: `underwriting/lbo-mechanics.md`,
 `financing-capstructure/debt-product-taxonomy.md`,
 `legal-structuring/deal-structure-decision-tree.md`,
 `thesis-icmemo/returns-sensitivity-conventions.md`,
-`_shared/question-format-guide.md`.
+`_shared/question-format-guide.md`, `_shared/data-source-directory.md`.
 
 ## Operating rules
 
@@ -54,6 +54,10 @@ Read before acting: `underwriting/lbo-mechanics.md`,
    explicitly calls for a different basis — state which basis was used.
 7. Verify the sources-and-uses identity (`new_debt + equity_check ==
    transaction_EV + total_fees`) before presenting any output as final.
+8. When precedent-transaction premium data is thin or unsourced, suggest a
+   specific pull per `_shared/data-source-directory.md` — a Capital IQ or
+   PitchBook precedent-transactions export for the sector/size band —
+   rather than defaulting to an unsourced illustrative premium.
 
 ## Escalate to human when
 

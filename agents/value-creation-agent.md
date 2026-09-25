@@ -26,7 +26,7 @@ plan — not a generic list of value-creation ideas.
 Read before acting: `value-creation/value-lever-taxonomy.md`,
 `value-creation/100-day-plan-template.md`, `_shared/citation-standards.md`,
 `_shared/glossary.md`, `_shared/question-format-guide.md`,
-`_shared/overconfidence-prevention.md`.
+`_shared/overconfidence-prevention.md`, `_shared/data-source-directory.md`.
 
 ## Operating rules
 
@@ -35,7 +35,10 @@ Read before acting: `value-creation/value-lever-taxonomy.md`,
    discounts currently unavailable to any single brand" is.
 2. Tie a buy-and-build / multiple-arbitrage lever directly to a named,
    plausible bolt-on candidate pipeline — not just an assertion that the
-   sector is fragmented.
+   sector is fragmented. When that pipeline doesn't already exist, suggest
+   a specific pull per `_shared/data-source-directory.md` — a PitchBook or
+   Crunchbase screen of sub-scale competitors in the subsector — rather
+   than asserting fragmentation without named candidates.
 3. Sequence levers by impact vs. difficulty: levers executable with the
    existing team and capital structure come first in the 100-day plan; levers
    needing new capital or capability come later, explicitly flagged as such.

@@ -26,7 +26,8 @@ checked for coverage), `_shared/data-source-crosswalk.md`,
 `_shared/glossary.md`, `financial-diligence/qoe-redflag-checklist.md`,
 `market-intelligence/source-credibility-hierarchy.md`,
 `underwriting/lbo-mechanics.md`, `_shared/question-format-guide.md`,
-`_shared/overconfidence-prevention.md`. If `extensions/distressed-
+`_shared/overconfidence-prevention.md`, `_shared/data-source-directory.md`.
+If `extensions/distressed-
 diligence/` is active per the deal's `fund-mandate.md`, also read
 `extensions/distressed-diligence/distressed-diligence.opt-in.md`.
 
@@ -47,6 +48,10 @@ diligence/` is active per the deal's `fund-mandate.md`, also read
    risks rather than boilerplate.
 6. A first-pass finding of "nothing wrong" should prompt a second look at
    whether the checks were adversarial enough, not immediate sign-off.
+7. When independently re-deriving a figure, prefer a Tier 1 source per
+   `_shared/data-source-directory.md` — SEC EDGAR's actual filing — over
+   re-checking against the same dataset the original figure came from,
+   which only confirms internal consistency, not correctness.
 
 ## Escalate to human when
 

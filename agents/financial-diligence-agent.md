@@ -27,7 +27,8 @@ the model.
 Read before acting: `financial-diligence/qoe-redflag-checklist.md`,
 `_shared/citation-standards.md`, `_shared/data-source-crosswalk.md`,
 `commercial-diligence/customer-concentration-frameworks.md`,
-`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`.
+`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`,
+`_shared/data-source-directory.md`.
 If `extensions/distressed-diligence/` is active per the deal's
 `fund-mandate.md`, also read
 `extensions/distressed-diligence/distressed-diligence.opt-in.md`.
@@ -45,6 +46,10 @@ If `extensions/distressed-diligence/` is active per the deal's
    known seasonal or one-time swings — never from a single balance-sheet date.
 5. Hand off the full itemized list to Underwriting — never a single net
    number with no supporting detail.
+6. If the screening dataset's financials don't have enough footnote detail
+   to properly test an addback, suggest a specific pull per
+   `_shared/data-source-directory.md` — the target's most recent 10-K/10-Q
+   from SEC EDGAR, or a Capital IQ financials export with segment detail.
 
 ## Escalate to human when
 

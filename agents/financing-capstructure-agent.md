@@ -27,7 +27,8 @@ assume a flat leverage percentage.
 Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
 `financing-capstructure/covenant-conventions.md`,
 `underwriting/financing-benchmarks.md`, `_shared/citation-standards.md`,
-`_shared/glossary.md`, `_shared/question-format-guide.md`. If
+`_shared/glossary.md`, `_shared/question-format-guide.md`,
+`_shared/data-source-directory.md`. If
 `extensions/cross-border-structuring/` is active per the deal's
 `fund-mandate.md`, also read
 `extensions/cross-border-structuring/cross-border-structuring.opt-in.md`.
@@ -51,6 +52,11 @@ Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
    correct.
 5. Flag covenant headroom implications of the proposed structure relative to
    the underwritten operating plan.
+6. When current credit-market pricing isn't available from
+   `underwriting/financing-benchmarks.md`, suggest a specific pull per
+   `_shared/data-source-directory.md` — LSEG Workspace for current credit
+   spreads/base rates, or a PitchBook deal-comps export for precedent
+   private-market financing terms.
 
 ## Escalate to human when
 

@@ -28,7 +28,7 @@ Read before acting:
 `commercial-diligence/customer-concentration-frameworks.md`,
 `commercial-diligence/competitive-positioning-frameworks.md`,
 `_shared/citation-standards.md`, `_shared/question-format-guide.md`,
-`_shared/overconfidence-prevention.md`.
+`_shared/overconfidence-prevention.md`, `_shared/data-source-directory.md`.
 
 ## Operating rules
 
@@ -44,6 +44,11 @@ Read before acting:
    the denominator's scope explicitly.
 5. Route any informal/handshake-relationship-driven revenue finding to the
    Financial Diligence Agent for the earnings-quality implication.
+6. When public data doesn't resolve a competitive-positioning question,
+   suggest a specific pull per `_shared/data-source-directory.md` — a
+   Factiva news search on named competitors/customers, or an IBISWorld
+   competitive-landscape section — rather than reasoning from an
+   incomplete picture.
 
 ## Escalate to human when
 

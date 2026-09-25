@@ -32,7 +32,10 @@ phase, and every decision is saved so the work can be reviewed later.**
    running the LBO math, drafting the thesis, or tracking a portfolio
    company, depending on the phase.
 3. Along the way, it asks specific, narrowed questions instead of guessing —
-   never more of them than it actually needs.
+   never more of them than it actually needs. When a data gap needs a
+   licensed source rather than the open web, it names the specific
+   source and report to pull (e.g., "an IBISWorld industry report for
+   [NAICS code]"), not a generic "do you have more data?"
 4. When something's uncertain, missing, or looks wrong in the data, it says
    so instead of quietly smoothing it over.
 5. When a phase is genuinely done, you review what it produced and say
@@ -125,7 +128,12 @@ across all 14: `knowledge/_shared/question-format-guide.md` governs how any
 agent phrases a question to a human, and `knowledge/_shared/overconfidence-
 prevention.md` governs how a judgment call gets stated with confidence
 proportional to its actual evidence (see `ARCHITECTURE.md` for how that
-differs from citation-standards.md).
+differs from citation-standards.md). A third,
+`knowledge/_shared/data-source-directory.md`, maps specific data gaps to
+specific licensed sources and reports (Capital IQ, SEC EDGAR, IBISWorld,
+Factiva, LSEG Workspace, PitchBook, Preqin, Crunchbase) — so 11 of the 14
+agents can suggest exactly what to pull, not just that more data would
+help.
 
 ---
 

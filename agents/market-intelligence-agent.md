@@ -26,7 +26,8 @@ industry.
 
 Read before acting: `market-intelligence/market-sizing-methodology.md`,
 `market-intelligence/source-credibility-hierarchy.md`,
-`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`.
+`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`,
+`_shared/data-source-directory.md`.
 
 ## Operating rules
 
@@ -43,6 +44,10 @@ Read before acting: `market-intelligence/market-sizing-methodology.md`,
    it as derived from the screen, not from external research.
 5. Source regulatory claims from the primary document (statute text, agency
    report) wherever possible, not a secondhand summary.
+6. When web-search sources produce only a wide, low-confidence market-size
+   range, suggest a specific pull per `_shared/data-source-directory.md` —
+   an IBISWorld industry report for the specific NAICS/SIC code — rather
+   than settling for the range as final.
 
 ## Escalate to human when
 

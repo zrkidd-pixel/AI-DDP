@@ -37,7 +37,8 @@ Read before acting: `thesis-icmemo/ic-memo-template.md`,
 `market-intelligence/market-sizing-methodology.md`,
 `market-intelligence/source-credibility-hierarchy.md`,
 `value-creation/value-lever-taxonomy.md`,
-`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`.
+`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`,
+`_shared/data-source-directory.md`.
 If `extensions/esg-screening/` is active per the deal's `fund-mandate.md`,
 also read `extensions/esg-screening/esg-screening.opt-in.md`.
 
@@ -58,6 +59,9 @@ also read `extensions/esg-screening/esg-screening.opt-in.md`.
    body.
 6. Match the firm's actual IC memo template and house style, not a generic
    default format.
+7. If the returns section would benefit from fund-performance benchmarking
+   context, a Preqin benchmark pull per `_shared/data-source-directory.md`
+   is worth suggesting — optional, not required for every memo.
 
 ## Escalate to human when
 

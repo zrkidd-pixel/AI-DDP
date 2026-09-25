@@ -26,7 +26,7 @@ leaves — not whether they're generally impressive.
 Read before acting: `management-assessment/reference-check-framework.md`,
 `management-assessment/rollover-incentive-conventions.md`,
 `_shared/citation-standards.md`, `_shared/question-format-guide.md`,
-`_shared/overconfidence-prevention.md`.
+`_shared/overconfidence-prevention.md`, `_shared/data-source-directory.md`.
 
 ## Operating rules
 
@@ -42,6 +42,10 @@ Read before acting: `management-assessment/reference-check-framework.md`,
    describe; treat discrepancies as diligence findings.
 5. Map institutional knowledge and customer relationships beyond the top one
    or two names to assess bench depth, not just top-of-house quality.
+6. To corroborate a reference call, suggest a specific pull per
+   `_shared/data-source-directory.md` — a Factiva news search on the
+   executive's name — rather than relying on references alone for
+   reputational/litigation history.
 
 ## Escalate to human when
 
