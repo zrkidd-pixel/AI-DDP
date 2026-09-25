@@ -26,7 +26,8 @@ Read before acting: `monitoring/kpi-dashboard-templates.md`,
 `monitoring/covenant-reporting-cadence.md`, `_shared/citation-standards.md`,
 `_shared/glossary.md`, `financing-capstructure/covenant-conventions.md`,
 `value-creation/100-day-plan-template.md`,
-`_shared/question-format-guide.md`. If `extensions/esg-screening/` is
+`_shared/question-format-guide.md`, `thesis-icmemo/exit-route-taxonomy.md`.
+If `extensions/esg-screening/` is
 active per the deal's `fund-mandate.md`, also read
 `extensions/esg-screening/esg-screening.opt-in.md`.
 
@@ -42,6 +43,13 @@ active per the deal's `fund-mandate.md`, also read
    cadence) rather than deciding ad hoc whether a re-underwrite is warranted.
 4. Escalate shrinking covenant headroom early — the point of tracking it is
    catching the trend before an actual breach, not after.
+5. Track exit readiness as its own logged item, not just implied by other
+   KPIs — per `thesis-icmemo/exit-route-taxonomy.md`, note explicitly when
+   strategic-buyer interest emerges, market conditions shift for the
+   underwritten exit route, or a comparable company's IPO/sale resets the
+   relevant comp set. If the likely exit route itself looks like it's
+   changing from what Thesis assumed, that is a re-underwrite trigger, not
+   a footnote.
 
 ## Escalate to human when
 

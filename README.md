@@ -145,7 +145,14 @@ margin/working-capital levers. A related file,
 what you do to a company after buying it, but why the opportunity exists
 in the first place (distressed, ownership transition, corporate orphan,
 privatization) — used by Thesis to make the "why this deal" rationale
-concrete instead of generic.
+concrete instead of generic. A third,
+`knowledge/thesis-icmemo/exit-route-taxonomy.md`, covers *how the position
+gets realized* — trade sale, IPO, secondary buyout, management buyout,
+recapitalization, or liquidation — each grounded in a real, verified
+transaction example, not a generic description. It feeds both the returns
+section (state which route each return case assumes, not just the
+multiple) and Monitoring (exit readiness is now its own tracked item, not
+just implied by other KPIs).
 
 ---
 

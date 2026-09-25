@@ -24,7 +24,10 @@ Report both **IRR and MOIC** for every case — they capture different things
 different on one metric versus the other, especially if exit timing varies
 across scenarios. State the assumed exit multiple and exit year explicitly for
 every case; a returns table without stated exit assumptions is not
-reproducible or checkable.
+reproducible or checkable. State the assumed exit *route* too, per
+`thesis-icmemo/exit-route-taxonomy.md` — a trade sale, IPO, and secondary
+buyout carry different valuation dynamics and timing risk, not just
+different multiples.
 
 ## Sensitivity analysis
 

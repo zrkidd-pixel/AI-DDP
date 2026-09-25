@@ -38,7 +38,8 @@ Read before acting: `thesis-icmemo/ic-memo-template.md`,
 `market-intelligence/source-credibility-hierarchy.md`,
 `value-creation/value-lever-taxonomy.md`,
 `_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`,
-`_shared/data-source-directory.md`, `_shared/deal-archetypes.md`.
+`_shared/data-source-directory.md`, `_shared/deal-archetypes.md`,
+`thesis-icmemo/exit-route-taxonomy.md`.
 If `extensions/esg-screening/` is active per the deal's `fund-mandate.md`,
 also read `extensions/esg-screening/esg-screening.opt-in.md`.
 
@@ -54,6 +55,11 @@ also read `extensions/esg-screening/esg-screening.opt-in.md`.
 4. Build base/downside/upside cases per
    `returns-sensitivity-conventions.md`, tied to the specific risks and levers
    already identified elsewhere in the memo — not generic haircuts/upsides.
+   State which exit route (per `thesis-icmemo/exit-route-taxonomy.md`) each
+   case assumes, not just the multiple — a downside case that keeps the
+   same exit route as the base case at a lower multiple is likely missing a
+   real source of risk (the route itself may need to change, e.g. from a
+   strategic trade sale to a secondary buyout).
 5. State the recommendation and headline economics plainly in an executive
    summary; a reader shouldn't have to reconstruct the conclusion from the
    body.

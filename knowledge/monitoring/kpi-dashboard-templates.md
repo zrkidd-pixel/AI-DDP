@@ -43,6 +43,20 @@ the reader anything actionable. Version and date every dashboard; a
 Monitoring update should always be diffable against the prior period, not just
 a fresh snapshot.
 
+## Exit readiness (tracked, not just implied by other KPIs)
+
+Per `thesis-icmemo/exit-route-taxonomy.md`, log explicitly, each period:
+- Whether strategic-buyer interest has emerged or receded for the
+  underwritten exit route.
+- Whether public-market conditions (for an IPO route) or credit-market
+  conditions (for a route requiring refinancing) have shifted meaningfully
+  since the thesis was written.
+- Any comparable company's recent IPO, trade sale, or secondary buyout
+  that resets the relevant comp set the exit case was built on.
+A dashboard that tracks operating KPIs but never revisits whether the
+underwritten exit route is still the realistic one is missing a variance
+category, not just a data point.
+
 ## When a KPI trend should trigger action, not just reporting
 
 Define, per KPI, what variance threshold or trend (e.g., two consecutive
