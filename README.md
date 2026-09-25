@@ -8,6 +8,41 @@ The idea in one sentence: **the AI proposes, asks questions, and shows its
 work — but a human has to explicitly approve before it moves to the next
 phase, and every decision is saved so the work can be reviewed later.**
 
+## Table of Contents
+
+- [What using this actually feels like](#what-using-this-actually-feels-like)
+- [Quick start](#quick-start)
+- [The four phases](#the-four-phases)
+- [The 14 agents](#the-14-agents)
+- [Extensions: opt-in depth for situational deals](#extensions-opt-in-depth-for-situational-deals)
+- [Tenets](#tenets)
+- [Repository map](#repository-map)
+- [Troubleshooting](#troubleshooting)
+- [Version control for your deal folder](#version-control-for-your-deal-folder)
+- [What this is not](#what-this-is-not)
+- [Architecture and design notes](#architecture-and-design-notes)
+
+---
+
+## What using this actually feels like
+
+1. You tell your AI assistant to start, naming AI-DDP and which phase you're
+   in (or let it ask, if it's not obvious).
+2. It reads the right rule file and gets to work — screening candidates,
+   running the LBO math, drafting the thesis, or tracking a portfolio
+   company, depending on the phase.
+3. Along the way, it asks specific, narrowed questions instead of guessing —
+   never more of them than it actually needs.
+4. When something's uncertain, missing, or looks wrong in the data, it says
+   so instead of quietly smoothing it over.
+5. When a phase is genuinely done, you review what it produced and say
+   "approved" — or you don't, if it isn't there yet.
+6. The next phase only unlocks once you've actually said so. Nothing moves
+   forward because the AI decided on its own that the work looked ready.
+7. Everything gets written down — every decision, every approval, every gap
+   — in a state file you can open and read at any point, not buried in a
+   chat transcript.
+
 ---
 
 ## Quick start
@@ -56,12 +91,12 @@ every time anything changes, so it's always current; never hand-edit it.
 
 ## The four phases
 
-| Phase | What happens |
-|---|---|
-| **Screening** | Define the mandate and sector, filter candidates against it, flag any data-quality gaps before running numbers. |
-| **Underwriting** | LBO math, comps, and every diligence workstream (financial, commercial, management, legal, financing) running against the finalists. |
-| **Thesis** | Everything above gets synthesized into the actual investment memo and value-creation plan — written *last*, once you know what the numbers say, not in advance. |
-| **Monitoring** | After close: track results against the plan, with defined triggers that send a deal back to Underwriting (or Screening) if something breaks. |
+| Phase | Answers | What happens |
+|---|---|---|
+| **Screening** | *Which target, against what criteria?* | Define the mandate and sector, filter candidates against it, flag any data-quality gaps before running numbers. |
+| **Underwriting** | *Is the deal economically sound, and what are the risks?* | LBO math, comps, and every diligence workstream (financial, commercial, management, legal, financing) running against the finalists. |
+| **Thesis** | *Should we do this, and why?* | Everything above gets synthesized into the actual investment memo and value-creation plan — written *last*, once you know what the numbers say, not in advance. |
+| **Monitoring** | *Is reality tracking the plan?* | After close: track results against the plan, with defined triggers that send a deal back to Underwriting (or Screening) if something breaks. |
 
 Six of the Underwriting stages (Financial Diligence, Commercial Diligence,
 Management Assessment, Financing/Capital Structure, Market Intelligence,
@@ -88,10 +123,9 @@ produces, its specific rules, when it stops to ask a human, and what has to
 be true before it hands off to the next agent. Two house-style rules apply
 across all 14: `knowledge/_shared/question-format-guide.md` governs how any
 agent phrases a question to a human, and `knowledge/_shared/overconfidence-
-prevention.md` governs how a judgment call (management fit, competitive
-durability, market sizing) gets stated with confidence proportional to its
-actual evidence — a different discipline than citation-standards.md, which
-only stops *unsourced* claims, not *overstated but sourced* ones.
+prevention.md` governs how a judgment call gets stated with confidence
+proportional to its actual evidence (see `ARCHITECTURE.md` for how that
+differs from citation-standards.md).
 
 ---
 
@@ -108,11 +142,41 @@ relevant downstream agents pick up the extra depth automatically. See
 
 ---
 
+## Tenets
+
+Principles that shaped every design decision above, made explicit:
+
+- **No duplication.** The source of truth lives in one place. When a rule
+  applies to more than one agent, it goes in one shared knowledge file that
+  every agent it applies to actually references — not restated with
+  slightly different wording in each one.
+- **Ask, and use context to sharpen the question — never to skip it.**
+  Background a human offers narrows what gets asked; it never substitutes
+  for an actual answer to it.
+- **Sourced, or labeled as an assumption — never blended.** Every
+  substantive claim carries a citation tag or an explicit assumption label.
+  Nothing sits in between as an unmarked guess.
+- **Confidence proportional to evidence, not to how confidently it's
+  phrased.** A claim can be fully sourced and still overstated if the
+  underlying evidence is thin — that's checked separately from citation
+  coverage.
+- **Human approval is mechanical, not just polite.** A gate doesn't open
+  because the AI decided the human sounded satisfied. It opens because a
+  human's own keystrokes or literal words were recorded, one of two
+  independently real ways.
+- **Verify before you claim it's real.** Nothing about how a specific tool
+  behaves gets written down as fact until it's checked against that tool's
+  own documentation. Where it couldn't be verified, that's stated
+  explicitly, not guessed around.
+
+---
+
 ## Repository map
 
 ```
 AI-DDP/
   README.md                    <- this file
+  ARCHITECTURE.md               <- how it works underneath, for anyone curious
   CLAUDE.md / AGENTS.md         <- entry points auto-loaded by Claude Code / Codex
   .kiro/steering/ai-ddp.md      <- entry point auto-loaded by Kiro
   agents/                       <- one rule file per agent (14 files)
@@ -129,29 +193,37 @@ AI-DDP/
 
 ---
 
-## Design notes: what's actually enforced, and what isn't
+## Troubleshooting
 
-**Enforced, mechanically:** the four phase gates. `engine/aiddp_gate.py`
-tracks state per deal and physically blocks an AI assistant from writing
-into a later phase's folder until a gate has actually been approved. It
-still cannot approve its own gate — that requirement doesn't go away, it
-just has two legitimate paths now: a real interactive terminal (the AI
-physically can't do this one, since it requires typing the phase name
-back), or `approve --chat`, which the AI runs *only after* you've typed an
-explicit approval in the conversation, never on its own inference. The
-`--chat` path is more convenient, but be clear-eyed about what it's
-actually trading away: the command itself can't verify anything, so the
-guarantee comes entirely from the AI waiting for your literal words rather
-than deciding on its own that the work looks done — a real tradeoff, not a
-loophole nobody noticed.
+| Problem | Likely cause / fix |
+|---|---|
+| A write isn't being blocked when you expected it to be | The hook only reliably catches `Write`/`Edit`-style tool calls with a `file_path` field — a `Bash` command that redirects output into a phase folder isn't intercepted yet. See the "Known limitation" note in `harness/*/README.md`. |
+| The AI seems to have approved its own gate | This should never happen. Open `aiddp-state.md`'s audit log and check the quoted words it recorded as your approval — if there's no real quote, or it doesn't match anything you said, that's a bug in the AI's behavior against its own instructions, not the engine's. |
+| Hooks aren't firing at all in Kiro | Kiro's exact hook field names weren't confirmed when this was built. Scaffold a throwaway hook through Kiro's own UI first and compare its field names against `harness/kiro/README.md` before assuming the shipped config is correct. |
+| `approve` keeps refusing even though you're at a real terminal | Some embedded/IDE terminals don't attach a real TTY to stdin even though they look interactive. Try a plain OS terminal window, or use `approve --chat` instead. |
+| State doesn't seem to be updating | Check you're passing the same `--root <engagement-dir>` every time. State is per-directory — running from the wrong folder silently talks to (or creates) a different engagement. |
+| `aiddp-state.md` looks wrong or stale | Never hand-edit it — it's regenerated from `.aiddp/state.json` on every save. If it looks wrong, the problem is in `state.json` or in what got logged, not in the rendering. |
 
-**Not yet enforced, still just documented:** the finer *within-phase*
-dependencies in `stages/underwriting.md` (for example, that Underwriting's
-core LBO math needs Financial Diligence's and Financing's output first).
-The engine enforces the four big phase boundaries; it doesn't yet check
-those smaller dependencies automatically. That's the natural next step, not
-something built into this version — flagged here rather than left for
-someone to discover the hard way.
+---
+
+## Version control for your deal folder
+
+Commit, once real content exists:
+- `fund-mandate.md` — the record of what was actually agreed for this deal
+- `.aiddp/state.json` and `aiddp-state.md` — the state and its
+  human-readable rendering; both, since the JSON is the actual source of
+  truth and the markdown can't be reconstructed from nothing
+- `.claude/settings.json` / `.codex/hooks.json` — so the hook wiring travels
+  with the deal folder for anyone else who works on it
+- `screening/`, `underwriting/`, `thesis/`, `monitoring/` — the actual work
+  product
+
+Think before committing, specifically because this is deal data, not code:
+if any of the above contains material non-public information, follow your
+firm's actual data-handling policy before pushing it anywhere shared —
+`agents/compliance-mnpi-agent.md` exists precisely because "it's just a
+local git repo" is not the same question as "is this cleared to leave the
+room."
 
 ---
 
@@ -167,3 +239,12 @@ someone to discover the hard way.
 The substance of any real recommendation still depends on real data, real
 diligence, and real human judgment at every gate. This just makes sure that
 judgment actually gets exercised, on the record, before work moves forward.
+
+---
+
+## Architecture and design notes
+
+What's mechanically enforced versus just documented, why the audit trail is
+a rendered file instead of raw JSON, how the parallel Underwriting swarm and
+its conflict-reconciliation actually work, and the verification discipline
+this repo holds itself to — see **[ARCHITECTURE.md](ARCHITECTURE.md)**.
