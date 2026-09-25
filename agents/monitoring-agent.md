@@ -23,7 +23,9 @@ not passive re-reporting of new numbers each period.
 ## Knowledge base
 
 Read before acting: `monitoring/kpi-dashboard-templates.md`,
-`monitoring/covenant-reporting-cadence.md`, `_shared/citation-standards.md`.
+`monitoring/covenant-reporting-cadence.md`, `_shared/citation-standards.md`,
+`_shared/glossary.md`, `financing-capstructure/covenant-conventions.md`,
+`value-creation/100-day-plan-template.md`.
 
 ## Operating rules
 

@@ -24,7 +24,11 @@ finalist set — with every assumption sourced and dated, not assumed.
 
 Read before acting: `underwriting/lbo-mechanics.md`,
 `underwriting/financing-benchmarks.md`, `_shared/glossary.md`,
-`_shared/citation-standards.md`.
+`_shared/citation-standards.md`, `_shared/data-source-crosswalk.md`,
+`financial-diligence/qoe-redflag-checklist.md`,
+`financing-capstructure/debt-product-taxonomy.md`,
+`legal-structuring/deal-structure-decision-tree.md`,
+`thesis-icmemo/returns-sensitivity-conventions.md`.
 
 ## Operating rules
 

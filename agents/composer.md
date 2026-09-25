@@ -21,7 +21,9 @@ does no analysis itself.
 
 ## Knowledge base
 
-Read before acting: `composer/gate-state-protocol.md`.
+Read before acting: `composer/gate-state-protocol.md`,
+`screening/widen-search-playbook.md` (needs to recognize when Screening's
+widen-search action is legitimately in progress vs. stalled).
 
 ## Operating rules
 

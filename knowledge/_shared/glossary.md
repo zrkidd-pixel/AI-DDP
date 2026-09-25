@@ -1,7 +1,10 @@
 # Glossary
 
-Referenced by: all agents. Shared vocabulary so "leverage" or "EV" means the
-same thing in every phase's output.
+Referenced by: Underwriting Agent, Financing / Capital Structure Agent,
+Thesis / IC Memo Agent, Monitoring Agent, Value Creation Agent,
+Verification Agent — the agents that actually work in EV/EBITDA, leverage,
+and returns vocabulary. Shared so "leverage" or "EV" means the same thing in
+every one of their outputs.
 
 - **EV (Enterprise Value):** Market equity + total debt − cash & equivalents.
   Always state whether an EV figure is "current" (today's price, before any

@@ -1,7 +1,9 @@
 # Fund Mandate Template
 
-Referenced by: every agent, as the first thing checked before any work
-begins — the fixed context every phase inherits rather than re-deriving.
+Referenced by: Screening Agent, Underwriting Agent, Financing / Capital
+Structure Agent, and Thesis / IC Memo Agent — the fixed context each of them
+checks before finalizing its own output, rather than re-deriving fund
+parameters independently.
 
 **This file must be filled in per fund/deal before Screening starts.** An agent
 that finds placeholder values below should treat that as a blocking gap, not a
@@ -38,6 +40,8 @@ default to assume.
   sector, and listing fields directly from this file.
 - **Underwriting Agent** checks any proposed leverage against the fund-level
   leverage tolerance before finalizing a recommendation.
+- **Financing / Capital Structure Agent** checks any proposed capital
+  structure's leverage against the same fund-level tolerance.
 - **Thesis / IC Memo Agent** cites this file's target-returns line when framing
   whether a candidate's projected IRR/MOIC clears the bar.
 - Any agent that cannot find a value it needs here should surface that as a gap

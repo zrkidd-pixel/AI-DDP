@@ -26,7 +26,8 @@ economics — never finalize structure or give legal/tax advice itself.
 
 Read before acting: `legal-structuring/deal-structure-decision-tree.md`,
 `legal-structuring/purchase-agreement-glossary.md`,
-`_shared/citation-standards.md`.
+`_shared/citation-standards.md`,
+`management-assessment/rollover-incentive-conventions.md`.
 
 ## Operating rules
 

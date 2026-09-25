@@ -14,6 +14,8 @@ not before, and never asserting a claim the upstream work doesn't support.
 - Market & Sector Intelligence's sourced market overview
 - The Value Creation Agent's 100-day plan and levers
 - Legal & Structuring's key-term summary
+- `knowledge/_shared/fund-mandate.md` (to check whether each return case
+  clears the fund's stated target returns)
 
 ## Produces
 
@@ -27,7 +29,13 @@ not before, and never asserting a claim the upstream work doesn't support.
 
 Read before acting: `thesis-icmemo/ic-memo-template.md`,
 `thesis-icmemo/returns-sensitivity-conventions.md`,
-`_shared/citation-standards.md`.
+`_shared/citation-standards.md`, `_shared/glossary.md`,
+`commercial-diligence/competitive-positioning-frameworks.md`,
+`legal-structuring/purchase-agreement-glossary.md`,
+`management-assessment/reference-check-framework.md`,
+`market-intelligence/market-sizing-methodology.md`,
+`market-intelligence/source-credibility-hierarchy.md`,
+`value-creation/value-lever-taxonomy.md`.
 
 ## Operating rules
 

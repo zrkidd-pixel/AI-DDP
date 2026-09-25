@@ -22,7 +22,10 @@ only one who checked it.
 
 Read before acting: `verification/model-audit-checklist.md`,
 `_shared/citation-standards.md` (needed to know the tag vocabulary being
-checked for coverage).
+checked for coverage), `_shared/data-source-crosswalk.md`,
+`_shared/glossary.md`, `financial-diligence/qoe-redflag-checklist.md`,
+`market-intelligence/source-credibility-hierarchy.md`,
+`underwriting/lbo-mechanics.md`.
 
 ## Operating rules
 

@@ -24,7 +24,8 @@ assume a flat leverage percentage.
 
 Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
 `financing-capstructure/covenant-conventions.md`,
-`underwriting/financing-benchmarks.md`, `_shared/citation-standards.md`.
+`underwriting/financing-benchmarks.md`, `_shared/citation-standards.md`,
+`_shared/glossary.md`.
 
 ## Operating rules
 
