@@ -12,30 +12,33 @@ phase, and every decision is saved so the work can be reviewed later.**
 
 ## Quick start
 
-1. **Copy `knowledge/_shared/fund-mandate.md`** into your deal and fill it
-   in (equity check range, sector, geography, return targets). Nothing else
-   should run until this has real numbers in it.
-2. **Create a folder for the deal** with four subfolders —
-   `screening/`, `underwriting/`, `thesis/`, `monitoring/` — then run:
+1. **Set up the deal folder in one command:**
    ```
-   python <path-to-AI-DDP>/engine/aiddp_gate.py init
+   python <path-to-AI-DDP>/engine/aiddp_new_deal.py <your-deal-folder> --harness claude-code
    ```
-   from inside that folder.
-3. **Turn on gate enforcement** for whichever AI tool you use — see
-   `harness/claude-code/`, `harness/codex/`, or `harness/kiro/`. This is a
-   few minutes of setup and it's what makes the gates real instead of just
-   words in a file.
-4. **Tell your AI assistant to start**: *"Using the AI-DDP, act as the
+   (use `--harness codex` for Codex, or leave it off and wire Kiro manually
+   per `harness/kiro/README.md` — its exact hook format isn't confirmed
+   yet). This one command creates the four phase subfolders, sets up the
+   engagement state, and wires the gate hook into your tool — merging
+   safely into an existing `.claude/settings.json` or `.codex/hooks.json`
+   if you already have one, never overwriting it.
+2. **Fill in the fund mandate** — copy `knowledge/_shared/fund-mandate.md`
+   into your deal folder and put in real numbers (equity check range,
+   sector, geography, return targets). This is the one step nobody can
+   automate for you.
+3. **Tell your AI assistant to start**: *"Using the AI-DDP, act as the
    Screening Agent for this deal."* If `CLAUDE.md`, `AGENTS.md`, or
    `.kiro/steering/ai-ddp.md` is loaded in your tool, it already knows what
    that means.
-5. **When a phase is genuinely finished, approve it yourself**, from a real
+4. **When a phase is genuinely finished, approve it yourself**, from a real
    terminal:
    ```
-   python <path-to-AI-DDP>/engine/aiddp_gate.py approve screening
+   python <path-to-AI-DDP>/engine/aiddp_gate.py --root <your-deal-folder> approve screening
    ```
    Until you do, the AI is physically blocked from writing into the next
-   phase's folder.
+   phase's folder. This step is deliberately manual and stays that way — a
+   human typing the approval is the actual point of the framework, not a
+   setup step to streamline away.
 
 That's the whole loop: work happens → you review it → you approve it → the
 next phase unlocks. Repeat through Underwriting, Thesis, and Monitoring.
@@ -88,6 +91,7 @@ AI-DDP/
   knowledge/                    <- the reference material each agent reads
   stages/                       <- the dependency graph, phase by phase
   engine/aiddp_gate.py          <- the gate-enforcement engine
+  engine/aiddp_new_deal.py      <- one-command setup for a new deal
   harness/                      <- setup instructions per AI tool
   .claude/agents/  .codex/agents/  <- ready-to-use subagents for the Underwriting swarm
 ```

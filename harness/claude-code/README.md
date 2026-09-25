@@ -6,6 +6,13 @@ native `PreToolUse` hook, confirmed against
 
 ## Install
 
+**Fastest path:** run `python engine/aiddp_new_deal.py <your-deal-folder>
+--harness claude-code` from the AI-DDP repo — it does everything below
+automatically, including merging safely into an existing
+`.claude/settings.json` if you have one. The manual steps here are what
+that script is actually doing, kept for anyone who wants to understand or
+customize the wiring by hand.
+
 1. Copy the contents of `settings.snippet.json` into your engagement's
    `.claude/settings.json` (project-level) — merge it into the `hooks` key if
    that file already has other hooks configured; don't just overwrite the

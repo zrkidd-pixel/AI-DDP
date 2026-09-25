@@ -9,6 +9,13 @@ one-time trust step.
 
 ## Install
 
+**Fastest path:** run `python engine/aiddp_new_deal.py <your-deal-folder>
+--harness codex` from the AI-DDP repo — it does everything below
+automatically, including merging safely into an existing `.codex/hooks.json`
+if you have one. You'll still need the trust step in item 3 either way. The
+manual steps here are what that script is actually doing, kept for anyone
+who wants to understand or customize the wiring by hand.
+
 1. Copy `hooks.json` from this folder to either:
    - `<engagement-dir>/.codex/hooks.json` (project-level, recommended — scopes
      the hook to this specific deal), or
