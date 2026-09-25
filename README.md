@@ -47,7 +47,15 @@ advance and backfilled with supporting figures.
 | **Thesis** | Synthesize everything above into the actual investment narrative, value-creation plan, and IC memo — written last, not first. |
 | **Monitoring** | Post-close: track actual results against the underwritten plan, with defined triggers that loop back into Underwriting (or Screening) rather than running open-ended. |
 
-See `stages/_dependency-graph.md` for the full pipeline diagram.
+See `stages/_dependency-graph.md` for the full pipeline diagram. Six of the
+Underwriting-phase stages (Financial Diligence, Commercial Diligence,
+Management Assessment, Financing/Capital Structure, Market Intelligence, and
+conditionally Legal & Structuring) can run as a genuine parallel swarm rather
+than one at a time — see `stages/underwriting-swarm.md` for the dispatch
+protocol and how conflicting findings between them get reconciled, and
+`harness/*/README.md` for how to actually trigger it in each tool (real and
+tested for Claude Code and Codex; Kiro's exact custom-agent file format
+isn't confirmed yet, said so explicitly rather than guessed).
 
 ## The 14 agents
 
@@ -100,6 +108,9 @@ AI-DDP/
     composer/
   stages/                       <- the dependency graph: which stage requires,
                                     consumes, and produces what, per phase
+    underwriting-swarm.md       <- parallel-dispatch and conflict-
+                                    reconciliation protocol for the 6
+                                    Underwriting diligence stages
   engine/
     aiddp_gate.py               <- gate-enforcement engine (stdlib Python,
                                     no dependencies, works with any harness)
@@ -107,6 +118,8 @@ AI-DDP/
     claude-code/                   (verified against Claude Code's own hooks docs)
     codex/                         (verified against OpenAI's Codex hooks docs)
     kiro/                          (partially verified -- see its README)
+  .claude/agents/               <- 6 swarm subagent definitions for Claude Code
+  .codex/agents/                <- 6 swarm subagent definitions (TOML) for Codex
 ```
 
 ## How "using the AI-DDP..." actually works

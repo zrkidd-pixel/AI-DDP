@@ -36,6 +36,27 @@ their published schemas.
 current phase/gate status when a session begins — same caveat as above
 applies to its exact field names.
 
+## Swarm dispatch for the Underwriting phase -- not built yet, here's why
+
+`stages/underwriting-swarm.md` defines a real parallel-dispatch protocol for
+the six Underwriting-phase diligence stages. Kiro genuinely supports this:
+its main agent can delegate to multiple custom subagents in parallel when it
+detects independent workstreams, matching against each subagent's
+`description` field, defined under `.kiro/agents/`. That part is confirmed.
+
+**What I could not confirm, after two documentation lookups, is the exact
+file format** for a custom agent definition in `.kiro/agents/` -- extension,
+whether it's markdown+frontmatter (like `.claude/agents/`) or something
+else, and which field actually holds the agent's instructions (Codex calls
+it `developer_instructions`; Claude Code just uses the markdown body; Kiro's
+own field name for this isn't documented anywhere I could reach). Rather
+than guess and hand you six files that might silently fail to load, I'm
+flagging this as unbuilt: **check Kiro's own "Creating custom agents" and
+"Configuration reference" pages, or scaffold one throwaway agent through
+Kiro's UI and copy its field names**, then the six agents can be built the
+same way `.claude/agents/` and `.codex/agents/` were -- thin pointers to
+`agents/<name>.md`, not duplicated content.
+
 ## Install (once field names are confirmed)
 
 1. Copy `aiddp-gate-check.json` into `.kiro/hooks/` in your engagement

@@ -54,6 +54,27 @@ phase/gate status at the start of every session. You (or Claude) shouldn't
 have to remember to ask "what phase are we in" after closing and reopening a
 session; it's surfaced automatically.
 
+## Swarm dispatch for the Underwriting phase
+
+`stages/underwriting-swarm.md` defines a real parallel-dispatch protocol for
+the six Underwriting-phase diligence stages. `.claude/agents/` in this repo
+already has the six subagent definitions Claude Code needs (confirmed
+against Claude Code's own [subagent docs](https://code.claude.com/docs/en/sub-agents)
+-- markdown with YAML frontmatter, `name`/`description` required). To
+actually run the swarm: once a finalist is identified, dispatch the five
+Wave 1 agents (`financial-diligence-agent`, `commercial-diligence-agent`,
+`management-assessment-agent`, `financing-capstructure-agent`,
+`market-intelligence-agent`) as concurrent Task/Agent calls in a single
+turn, wait for all five to return, then run the reconciliation step from
+`stages/underwriting-swarm.md` before handing the combined output to
+Underwriting Agent. `legal-structuring-agent` only joins as Wave 2, once a
+finalist is being seriously pursued.
+
+Each `.claude/agents/*.md` file is a thin pointer, not a duplicate of the
+real rules -- it tells the subagent to go read `agents/<name>.md` and its
+knowledge-base files as its actual instructions, so there's one source of
+truth instead of the rules drifting between two copies.
+
 ## Known limitation
 
 This only intercepts `Write`/`Edit`/`MultiEdit`-style tool calls with a

@@ -1,5 +1,10 @@
 # Stage Definitions — Underwriting Phase
 
+See `stages/underwriting-swarm.md` for how the parallel stages below
+actually get dispatched concurrently and how conflicting findings between
+them get reconciled before Underwriting Agent starts — this file defines the
+dependency graph, that one defines the runtime protocol.
+
 Seven stages operate in this phase. Six are independent diligence/research
 workstreams that can run in parallel against the same candidate list; the
 seventh (`underwriting`) is the core LBO math and has hard dependencies on
