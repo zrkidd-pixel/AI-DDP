@@ -53,6 +53,16 @@ before doing any deal work.**
    human hasn't said something you could quote as approval, they haven't
    approved it — ask, don't assume, exactly as if `--chat` didn't exist.
 
+6. **Log what actually happened, not just that a gate was approved.** Before
+   (or alongside) asking for approval, run
+   `engine/aiddp_gate.py --root . log "<summary>" --phase <phase>` with a
+   real one-line summary of what this phase actually produced — e.g. "10
+   candidates screened, 2 landed in-band, widened to include Fossil/Movado"
+   — not "done" or "completed successfully." This is what makes
+   `aiddp-state.md` (auto-generated from state.json, regenerated on every
+   save) worth actually reading later. A gate-approval stamp with no
+   content behind it is a checkbox, not an audit trail.
+
 ## Gate enforcement is live in this project
 
 If `.kiro/hooks/aiddp-gate-check.json` has the AI-DDP hooks installed (see

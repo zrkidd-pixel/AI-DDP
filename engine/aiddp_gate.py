@@ -33,8 +33,12 @@ blocked unless both `screening` and `underwriting` are approved. And so on.
 
 State
 -----
-Stored at `.aiddp/state.json` next to wherever `init` was run (typically the
-engagement root, not the whole AI-DDP repo -- run `init` once per deal).
+The source of truth is `.aiddp/state.json`, next to wherever `init` was run
+(typically the engagement root, not the whole AI-DDP repo -- run `init` once
+per deal). A human-readable snapshot, `aiddp-state.md`, is regenerated from
+it on every save -- that's the file an actual person should open to see
+what's going on; never hand-edit it, since it gets overwritten from the
+JSON on the next state change.
 
 The approve command
 --------------------
@@ -62,10 +66,15 @@ from pathlib import Path
 PHASES = ["screening", "underwriting", "thesis", "monitoring"]
 STATE_DIRNAME = ".aiddp"
 STATE_FILENAME = "state.json"
+STATE_MD_FILENAME = "aiddp-state.md"
 
 
 def state_file(root: Path) -> Path:
     return root / STATE_DIRNAME / STATE_FILENAME
+
+
+def state_md_file(root: Path) -> Path:
+    return root / STATE_MD_FILENAME
 
 
 def default_state() -> dict:
@@ -90,10 +99,75 @@ def save_state(root: Path, state: dict) -> None:
     f = state_file(root)
     f.parent.mkdir(parents=True, exist_ok=True)
     f.write_text(json.dumps(state, indent=2), encoding="utf-8")
+    # The rendered markdown is regenerated from state.json on every save, at
+    # this one choke point, so it can never drift from the actual source of
+    # truth -- nobody should ever hand-edit aiddp-state.md directly.
+    state_md_file(root).write_text(render_state_md(state), encoding="utf-8")
 
 
-def append_log(state: dict, event: str) -> None:
-    state["log"].append({"ts": time.strftime("%Y-%m-%dT%H:%M:%S%z"), "event": event})
+def append_log(state: dict, event: str, phase: str | None = None) -> None:
+    state["log"].append({
+        "ts": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+        "event": event,
+        "phase": phase or state.get("current_phase"),
+    })
+
+
+def render_state_md(state: dict) -> str:
+    """Renders a human-readable snapshot of state -- the thing an actual
+    person (or a professor) would want to open, versus state.json which
+    nobody should have to read directly. Regenerated on every save; never
+    hand-edited."""
+    lines = ["# AI-DDP Engagement State", ""]
+    lines.append(f"**Current phase:** {state['current_phase']}")
+    if state["log"]:
+        lines.append(f"**Last updated:** {state['log'][-1]['ts']}")
+    lines.append("")
+
+    lines.append("## Gates")
+    lines.append("")
+    for p in PHASES:
+        g = state["gates"][p]
+        if g["approved"]:
+            method_note = f" via {g['method']}" if g.get("method") else ""
+            note = f" — {g['note']}" if g.get("note") else ""
+            lines.append(f"- [x] **{p.capitalize()}** — approved {g['approved_at']}{method_note}{note}")
+        else:
+            lines.append(f"- [ ] {p.capitalize()}")
+    lines.append("")
+
+    lines.append("## Stage Activity")
+    lines.append("")
+    lines.append("Most recent logged summary per phase (see the full Audit Log below for")
+    lines.append("everything, in order):")
+    lines.append("")
+    for p in PHASES:
+        phase_entries = [e for e in state["log"] if e.get("phase") == p]
+        # Prefer the most recent entry that isn't one of the engine's own
+        # auto-generated bookkeeping messages, so a real work summary isn't
+        # hidden behind "Gate approved" / "Advanced current phase" noise --
+        # both still appear in the full Audit Log below regardless.
+        substantive = [
+            e for e in phase_entries
+            if not e["event"].startswith("Gate '") and not e["event"].startswith("Advanced current phase")
+        ]
+        pick = substantive[-1] if substantive else (phase_entries[-1] if phase_entries else None)
+        if pick:
+            lines.append(f"- **{p.capitalize()}**: {pick['event']} _(at {pick['ts']})_")
+        else:
+            lines.append(f"- **{p.capitalize()}**: no activity logged yet")
+    lines.append("")
+
+    lines.append("## Audit Log")
+    lines.append("")
+    if not state["log"]:
+        lines.append("_(empty)_")
+    for entry in state["log"]:
+        phase_tag = f"[{entry['phase']}] " if entry.get("phase") else ""
+        lines.append(f"- **{entry['ts']}** {phase_tag}— {entry['event']}")
+    lines.append("")
+
+    return "\n".join(lines)
 
 
 def cmd_init(args) -> int:
@@ -158,12 +232,12 @@ def cmd_approve(args) -> int:
     state["gates"][phase]["approved_at"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
     state["gates"][phase]["note"] = note
     state["gates"][phase]["method"] = "chat" if args.chat else "terminal"
-    append_log(state, f"Gate '{phase}' approved. Note: {note}")
+    append_log(state, f"Gate '{phase}' approved. Note: {note}", phase=phase)
 
     idx = PHASES.index(phase)
     if idx + 1 < len(PHASES):
         state["current_phase"] = PHASES[idx + 1]
-        append_log(state, f"Advanced current phase to '{state['current_phase']}'")
+        append_log(state, f"Advanced current phase to '{state['current_phase']}'", phase=phase)
 
     save_state(root, state)
     print(f"Gate '{phase}' approved. Current phase is now '{state['current_phase']}'.")
@@ -173,7 +247,7 @@ def cmd_approve(args) -> int:
 def cmd_log(args) -> int:
     root = Path(args.root).resolve()
     state = load_state(root)
-    append_log(state, args.event)
+    append_log(state, args.event, phase=args.phase)
     save_state(root, state)
     print("Logged.")
     return 0
@@ -298,8 +372,15 @@ def build_parser() -> argparse.ArgumentParser:
                      help="With --chat: the human's own words, recorded verbatim in the log")
     sp.set_defaults(func=cmd_approve)
 
-    sp = sub.add_parser("log", help="Append a freeform event to the audit log")
+    sp = sub.add_parser(
+        "log",
+        help="Append a substantive summary of what actually happened to the audit log "
+             "(not just 'done' -- e.g. '10 candidates screened, 2 in-band, widened to "
+             "include Fossil/Movado')",
+    )
     sp.add_argument("event")
+    sp.add_argument("--phase", default=None, choices=PHASES,
+                     help="Which phase this entry belongs to (default: current phase)")
     sp.set_defaults(func=cmd_log)
 
     sp = sub.add_parser("check-write", help="Check whether a path may be written given current gate state")

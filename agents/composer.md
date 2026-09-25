@@ -41,7 +41,12 @@ widen-search action is legitimately in progress vs. stalled),
    present the gate as ready anyway.
 4. Log every transition and approval, tied to this specific deal/engagement,
    in an append-only record — this is the traceability artifact, not an
-   optional nicety.
+   optional nicety. A log entry that just says a gate was approved is not
+   enough; require the agent whose phase is completing to log a substantive
+   one-line summary of what it actually produced (`engine/aiddp_gate.py log
+   "<summary>" --phase <phase>`) before treating that phase as ready for the
+   gate. `aiddp-state.md` (auto-rendered from state.json) is only as useful
+   as what actually got logged into it.
 5. Never decide on your own that a gate is approved, and never invoke
    `aiddp_gate.py approve --chat` without the human having just typed an
    explicit approval in the conversation. `--chat` exists to record an

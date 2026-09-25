@@ -67,3 +67,15 @@ and every re-underwrite trigger is logged to a persistent, append-only record
 tied to this specific deal/engagement. The log is the traceability artifact a
 firm would actually want to be able to produce later: not just "what did the
 AI conclude," but "what was approved, by whom, and when, at each step."
+
+**A log entry that only records the mechanics of a gate ("approved" at a
+timestamp) is not sufficient on its own.** Before a phase is treated as ready
+for its gate, the agent that did the work logs a real summary of what it
+produced — the specific numbers, decisions, and flags, not "completed
+successfully." `engine/aiddp_gate.py`'s `log --phase <phase>` command is how
+this gets recorded, and `aiddp-state.md` (rendered fresh from `state.json` on
+every save) is where a human reads it back — its "Stage Activity" section
+specifically surfaces the most recent *substantive* entry per phase, skipping
+past the engine's own bookkeeping messages, precisely so this content doesn't
+get buried. A deal whose audit trail is nothing but approval timestamps has
+the same traceability gap this whole mechanism exists to close.

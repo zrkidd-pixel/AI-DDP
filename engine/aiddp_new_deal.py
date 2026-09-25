@@ -29,7 +29,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from aiddp_gate import PHASES, default_state, save_state, state_file  # noqa: E402
+from aiddp_gate import PHASES, append_log, default_state, save_state, state_file  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 GATE_SCRIPT = (REPO_ROOT / "engine" / "aiddp_gate.py").as_posix()
@@ -102,7 +102,9 @@ def init_state(root: Path) -> bool:
     f = state_file(root)
     if f.exists():
         return False
-    save_state(root, default_state())
+    state = default_state()
+    append_log(state, f"Engagement initialized at {root}", phase=PHASES[0])
+    save_state(root, state)
     return True
 
 
@@ -204,8 +206,11 @@ def main() -> int:
     print(f"     the agent will ask you for any field it finds blank and write your answers")
     print(f"     into that file itself.")
     print(f"  2. Tell your AI assistant: \"Using the AI-DDP, act as the Screening Agent for this deal.\"")
-    print(f"  3. When Screening is genuinely done, approve it yourself from a real terminal:")
+    print(f"  3. When Screening is genuinely done, approve it -- say \"approved\" in chat, or")
+    print(f"     run yourself from a real terminal:")
     print(f"     python {GATE_SCRIPT} --root {root} approve screening")
+    print(f"  4. Check progress any time by opening {root / 'aiddp-state.md'}")
+    print(f"     (regenerated automatically -- never hand-edit it).")
     return 0
 
 

@@ -47,6 +47,11 @@ phase, and every decision is saved so the work can be reviewed later.**
 That's the whole loop: work happens → you review it → you approve it → the
 next phase unlocks. Repeat through Underwriting, Thesis, and Monitoring.
 
+**To check where things stand, open `<your-deal-folder>/aiddp-state.md`** —
+current phase, which gates are approved and how, and a running summary of
+what actually got produced at each stage. It's regenerated automatically
+every time anything changes, so it's always current; never hand-edit it.
+
 ---
 
 ## The four phases
