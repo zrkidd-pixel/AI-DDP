@@ -30,10 +30,28 @@ before doing any deal work.**
    sections exactly. If something in the current task matches an escalation
    trigger, stop and ask rather than proceeding.
 5. Do not consider a phase's work "done" until its **Gate criteria** are
-   met. Do not approve a gate yourself under any circumstances — that
-   requires the human to run `engine/aiddp_gate.py approve <phase>` from
-   their own interactive terminal. If you're not sure whether the human has
-   done this, ask, don't assume.
+   met, and never decide on your own that a gate is approved. There are two
+   legitimate ways a gate actually gets approved:
+   - The human runs `engine/aiddp_gate.py approve <phase>` themselves from
+     their own interactive terminal.
+   - The human approves in this conversation (e.g., "approved," "yes, go
+     ahead"). When that happens, you run
+     `engine/aiddp_gate.py approve <phase> --chat --quote "<their exact
+     words>"` yourself — this records the approval so the gate actually
+     opens. Don't just treat the conversation as approved without running
+     this; the folder-write block only lifts once the command has actually
+     run.
+
+   **`--chat` only exists to record an approval a human already gave — it is
+   never a way for you to approve your own gate.** The command has no way to
+   verify anything on its own; it just trusts whatever quote you pass it.
+   That means the actual rule lives entirely in your own behavior: never run
+   `approve --chat` unless the human has just typed an explicit approval
+   word or phrase in this conversation. Don't infer approval from a
+   satisfied-sounding tone, don't decide on your own that the work is good
+   enough to move on, and don't run it preemptively "to save a step." If the
+   human hasn't said something you could quote as approval, they haven't
+   approved it — ask, don't assume, exactly as if `--chat` didn't exist.
 
 ## Gate enforcement is live in this project
 

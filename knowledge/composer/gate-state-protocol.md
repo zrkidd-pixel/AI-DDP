@@ -42,6 +42,24 @@ to the human — it surfaces what's missing instead.** A gate that asks for
 approval before its own prerequisites are met defeats the purpose of having a
 gate at all.
 
+## The two ways a gate actually gets approved
+
+`engine/aiddp_gate.py approve <phase>` requires a real interactive terminal
+and typing the phase name back — the AI cannot do this one, by construction.
+`approve <phase> --chat --quote "<words>"` exists so the AI can *record* an
+approval the human already gave in conversation, without leaving the chat.
+
+These are not two different levels of approval — they're two ways of
+recording the same thing: **a human explicitly said yes.** `--chat` does not
+let the Composer, or any agent, decide on its own that work looks finished
+and move on. The command has no way to verify its own input; it just writes
+down whatever quote it's given. That means the actual safeguard lives
+entirely upstream, in the rule every agent follows: never call `--chat`
+without the human having just typed something you could quote as approval.
+Inferring satisfaction from tone, or advancing "to save the human a step,"
+is exactly the self-approval this framework exists to prevent — `--chat`
+being convenient doesn't change that.
+
 ## Logging
 
 Every phase transition, every gate approval (and who approved it, and when),

@@ -32,15 +32,17 @@ phase, and every decision is saved so the work can be reviewed later.**
    Screening Agent for this deal."* If `CLAUDE.md`, `AGENTS.md`, or
    `.kiro/steering/ai-ddp.md` is loaded in your tool, it already knows what
    that means.
-4. **When a phase is genuinely finished, approve it yourself**, from a real
-   terminal:
-   ```
-   python <path-to-AI-DDP>/engine/aiddp_gate.py --root <your-deal-folder> approve screening
-   ```
-   Until you do, the AI is physically blocked from writing into the next
-   phase's folder. This step is deliberately manual and stays that way — a
-   human typing the approval is the actual point of the framework, not a
-   setup step to streamline away.
+4. **When a phase is genuinely finished, approve it.** Two ways:
+   - Just say so in the conversation — *"approved."* Your AI assistant runs
+     `aiddp_gate.py approve <phase> --chat --quote "approved"` on your
+     behalf and the next phase unlocks.
+   - Or run it yourself, from a real terminal, if you want the stricter
+     version where the AI can't be the one recording it:
+     ```
+     python <path-to-AI-DDP>/engine/aiddp_gate.py --root <your-deal-folder> approve screening
+     ```
+   Until one of these happens, the AI is physically blocked from writing
+   into the next phase's folder.
 
 That's the whole loop: work happens → you review it → you approve it → the
 next phase unlocks. Repeat through Underwriting, Thesis, and Monitoring.
@@ -104,9 +106,17 @@ AI-DDP/
 
 **Enforced, mechanically:** the four phase gates. `engine/aiddp_gate.py`
 tracks state per deal and physically blocks an AI assistant from writing
-into a later phase's folder until a human has approved every phase before
-it. Approving a gate only works from a real interactive terminal and
-requires typing the phase name back — so the AI can't approve its own gate.
+into a later phase's folder until a gate has actually been approved. It
+still cannot approve its own gate — that requirement doesn't go away, it
+just has two legitimate paths now: a real interactive terminal (the AI
+physically can't do this one, since it requires typing the phase name
+back), or `approve --chat`, which the AI runs *only after* you've typed an
+explicit approval in the conversation, never on its own inference. The
+`--chat` path is more convenient, but be clear-eyed about what it's
+actually trading away: the command itself can't verify anything, so the
+guarantee comes entirely from the AI waiting for your literal words rather
+than deciding on its own that the work looks done — a real tradeoff, not a
+loophole nobody noticed.
 
 **Not yet enforced, still just documented:** the finer *within-phase*
 dependencies in `stages/underwriting.md` (for example, that Underwriting's

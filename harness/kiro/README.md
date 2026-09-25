@@ -70,12 +70,17 @@ same way `.claude/agents/` and `.codex/agents/` were -- thin pointers to
 
 ## Approving a gate
 
-Same as the other two harnesses — from a real interactive terminal, never
-through Kiro's agent:
+Same two options as the other two harnesses. From a real interactive
+terminal:
 
 ```
 python /absolute/path/to/AI-DDP/engine/aiddp_gate.py --root <engagement-dir> approve screening
 ```
+
+Or say "approved" in chat and, per `.kiro/steering/ai-ddp.md`, Kiro will run
+`approve <phase> --chat --quote "approved"` on your behalf — only after
+you've said so explicitly, never on its own inference that the work looks
+finished.
 
 ## Known limitation
 

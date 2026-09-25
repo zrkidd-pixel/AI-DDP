@@ -71,7 +71,7 @@ def state_file(root: Path) -> Path:
 def default_state() -> dict:
     return {
         "current_phase": PHASES[0],
-        "gates": {p: {"approved": False, "approved_at": None, "note": None} for p in PHASES},
+        "gates": {p: {"approved": False, "approved_at": None, "note": None, "method": None} for p in PHASES},
         "log": [],
     }
 
@@ -132,29 +132,33 @@ def cmd_approve(args) -> int:
         print(f"Unknown phase '{phase}'. Valid phases: {', '.join(PHASES)}", file=sys.stderr)
         return 1
 
-    if not sys.stdin.isatty():
-        print(
-            "Refusing to approve a gate from a non-interactive context.\n"
-            "`approve` must be run by a human at an actual terminal -- this is "
-            "the mechanism that stops an agent from approving its own gate by "
-            "scripting a call to this file.",
-            file=sys.stderr,
-        )
-        return 1
+    if args.chat:
+        note = args.quote or args.note
+    else:
+        if not sys.stdin.isatty():
+            print(
+                "Refusing to approve a gate from a non-interactive context.\n"
+                "`approve` must be run by a human at an actual terminal, or "
+                "with --chat if the AI is recording an approval given in "
+                "conversation.",
+                file=sys.stderr,
+            )
+            return 1
 
-    typed = input(
-        f"Type the phase name exactly ('{phase}') to confirm human approval: "
-    ).strip()
-    if typed != phase:
-        print("Confirmation did not match. Approval NOT recorded.", file=sys.stderr)
-        return 1
+        typed = input(
+            f"Type the phase name exactly ('{phase}') to confirm human approval: "
+        ).strip()
+        if typed != phase:
+            print("Confirmation did not match. Approval NOT recorded.", file=sys.stderr)
+            return 1
 
-    note = args.note or input("Optional note for the audit log (Enter to skip): ").strip() or None
+        note = args.note or input("Optional note for the audit log (Enter to skip): ").strip() or None
 
     state["gates"][phase]["approved"] = True
     state["gates"][phase]["approved_at"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
     state["gates"][phase]["note"] = note
-    append_log(state, f"Gate '{phase}' approved by human. Note: {note}")
+    state["gates"][phase]["method"] = "chat" if args.chat else "terminal"
+    append_log(state, f"Gate '{phase}' approved. Note: {note}")
 
     idx = PHASES.index(phase)
     if idx + 1 < len(PHASES):
@@ -285,9 +289,13 @@ def build_parser() -> argparse.ArgumentParser:
     sp = sub.add_parser("status", help="Show current phase and gate status")
     sp.set_defaults(func=cmd_status)
 
-    sp = sub.add_parser("approve", help="Approve a phase's gate (human-only, interactive)")
+    sp = sub.add_parser("approve", help="Approve a phase's gate")
     sp.add_argument("phase", choices=PHASES)
     sp.add_argument("--note", default=None)
+    sp.add_argument("--chat", action="store_true",
+                     help="Record an approval given in conversation rather than at a terminal")
+    sp.add_argument("--quote", default=None,
+                     help="With --chat: the human's own words, recorded verbatim in the log")
     sp.set_defaults(func=cmd_approve)
 
     sp = sub.add_parser("log", help="Append a freeform event to the audit log")

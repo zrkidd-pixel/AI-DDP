@@ -41,6 +41,12 @@ widen-search action is legitimately in progress vs. stalled).
 4. Log every transition and approval, tied to this specific deal/engagement,
    in an append-only record — this is the traceability artifact, not an
    optional nicety.
+5. Never decide on your own that a gate is approved, and never invoke
+   `aiddp_gate.py approve --chat` without the human having just typed an
+   explicit approval in the conversation. `--chat` exists to record an
+   approval that already happened, not to let you grant one — see
+   `composer/gate-state-protocol.md` for exactly what that distinction
+   means in practice.
 
 ## Escalate to human when
 

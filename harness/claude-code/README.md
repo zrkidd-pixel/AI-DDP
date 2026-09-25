@@ -43,16 +43,23 @@ customize the wiring by hand.
 
 ## Approving a gate
 
-Run this yourself, from an actual terminal, not through Claude:
+Two ways:
 
+**In the terminal, yourself:**
 ```
 python /absolute/path/to/AI-DDP/engine/aiddp_gate.py --root <engagement-dir> approve screening
 ```
-
 It will ask you to interactively type the phase name back as confirmation.
-This is deliberate — it only succeeds from a real interactive terminal
-session, which an agent's own tool calls are not, so Claude cannot approve
-its own gate by scripting a call to this file.
+This only succeeds from a real interactive terminal session, which Claude's
+own tool calls are not — so this path can never be run by Claude itself.
+
+**In chat, by saying so:** just tell Claude "approved," and per `CLAUDE.md`
+it will run `approve <phase> --chat --quote "approved"` on your behalf. This
+still requires your explicit words in the conversation first — Claude is
+instructed to never call `--chat` on its own inference that the work looks
+done, only to record an approval you actually gave. It's more convenient
+than the terminal path, and it's trusting Claude to follow that instruction
+rather than a mechanism that verifies it independently.
 
 ## SessionStart: automatic status on resume
 

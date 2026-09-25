@@ -55,12 +55,16 @@ stands.
 
 ## Approving a gate
 
-Same as Claude Code — run `approve` yourself from a real interactive
-terminal, never through Codex:
+Same two options as Claude Code. Run it yourself from a real interactive
+terminal:
 
 ```
 python /absolute/path/to/AI-DDP/engine/aiddp_gate.py --root <engagement-dir> approve screening
 ```
+
+Or say "approved" in chat and, per `AGENTS.md`, Codex will run `approve
+<phase> --chat --quote "approved"` on your behalf — only after you've said
+so explicitly, never on its own inference that the work looks finished.
 
 ## Swarm dispatch for the Underwriting phase
 
