@@ -38,7 +38,7 @@ Read before acting: `thesis-icmemo/ic-memo-template.md`,
 `market-intelligence/source-credibility-hierarchy.md`,
 `value-creation/value-lever-taxonomy.md`,
 `_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`,
-`_shared/data-source-directory.md`.
+`_shared/data-source-directory.md`, `_shared/deal-archetypes.md`.
 If `extensions/esg-screening/` is active per the deal's `fund-mandate.md`,
 also read `extensions/esg-screening/esg-screening.opt-in.md`.
 
@@ -62,6 +62,11 @@ also read `extensions/esg-screening/esg-screening.opt-in.md`.
 7. If the returns section would benefit from fund-performance benchmarking
    context, a Preqin benchmark pull per `_shared/data-source-directory.md`
    is worth suggesting — optional, not required for every memo.
+8. If the deal clearly fits one of `_shared/deal-archetypes.md`'s
+   categories (distressed, ownership transition, corporate orphan,
+   privatization), name it explicitly in the sector investment thesis
+   section — it makes the "why should Fund II invest" rationale concrete.
+   Don't force an archetype onto a deal that doesn't clearly fit one.
 
 ## Escalate to human when
 

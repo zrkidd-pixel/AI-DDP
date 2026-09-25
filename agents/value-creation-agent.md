@@ -11,6 +11,9 @@ plan — not a generic list of value-creation ideas.
   Assessment
 - Competitive positioning from Market Intelligence
 - The finalist's actual financial and operating profile from Underwriting
+- The leverage/capital structure already set by Underwriting and
+  Financing/Capital Structure (context for the financial-engineering
+  lever, not a decision this agent re-makes)
 
 ## Produces
 
@@ -39,13 +42,20 @@ Read before acting: `value-creation/value-lever-taxonomy.md`,
    a specific pull per `_shared/data-source-directory.md` — a PitchBook or
    Crunchbase screen of sub-scale competitors in the subsector — rather
    than asserting fragmentation without named candidates.
-3. Sequence levers by impact vs. difficulty: levers executable with the
+3. Use the full lever taxonomy in `value-creation/value-lever-taxonomy.md`
+   — including financial engineering, refocus/portfolio-focus, and
+   management enhancement, not just growth/margin/multiple-arbitrage/
+   working-capital. If Management Assessment flagged a material fit gap
+   or key-person dependency risk, name the management-enhancement lever
+   explicitly as the response — don't propose operational fixes around a
+   management problem instead of naming it.
+4. Sequence levers by impact vs. difficulty: levers executable with the
    existing team and capital structure come first in the 100-day plan; levers
    needing new capital or capability come later, explicitly flagged as such.
-4. Every diligence flag that wasn't fully resolved pre-close gets an explicit
+5. Every diligence flag that wasn't fully resolved pre-close gets an explicit
    owner and resolution date in the 100-day plan — it doesn't just disappear
    after close.
-5. Every plan initiative needs an owner, a sizing with stated basis, and a
+6. Every plan initiative needs an owner, a sizing with stated basis, and a
    checkpoint date before it's considered part of the plan, not a draft idea.
 
 ## Escalate to human when

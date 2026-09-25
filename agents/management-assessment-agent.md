@@ -26,7 +26,9 @@ leaves — not whether they're generally impressive.
 Read before acting: `management-assessment/reference-check-framework.md`,
 `management-assessment/rollover-incentive-conventions.md`,
 `_shared/citation-standards.md`, `_shared/question-format-guide.md`,
-`_shared/overconfidence-prevention.md`, `_shared/data-source-directory.md`.
+`_shared/overconfidence-prevention.md`, `_shared/data-source-directory.md`,
+`value-creation/value-lever-taxonomy.md` (to know how a fit gap connects
+to the management-enhancement lever).
 
 ## Operating rules
 
@@ -46,6 +48,12 @@ Read before acting: `management-assessment/reference-check-framework.md`,
    `_shared/data-source-directory.md` — a Factiva news search on the
    executive's name — rather than relying on references alone for
    reputational/litigation history.
+7. A material fit gap or key-person dependency finding should be stated in
+   terms Value Creation can act on — per
+   `value-creation/value-lever-taxonomy.md`'s "enhancing executive
+   management" lever, this is a named, legitimate response (replacing the
+   Chair, CEO, or bringing in an operating partner), not just a risk to
+   flag and leave unaddressed.
 
 ## Escalate to human when
 

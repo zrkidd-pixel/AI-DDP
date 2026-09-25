@@ -135,6 +135,18 @@ Factiva, LSEG Workspace, PitchBook, Preqin, Crunchbase) — so 11 of the 14
 agents can suggest exactly what to pull, not just that more data would
 help.
 
+The Value Creation Agent's lever taxonomy (`knowledge/value-creation/
+value-lever-taxonomy.md`) is grounded in the academic buyout literature —
+Jenkinson, Kim & Weisbach (2021) and Jensen (1986) — covering financial
+engineering, portfolio refocus, management enhancement, operational
+efficiencies, and scale economies alongside the more familiar growth/
+margin/working-capital levers. A related file,
+`knowledge/_shared/deal-archetypes.md`, covers a different question — not
+what you do to a company after buying it, but why the opportunity exists
+in the first place (distressed, ownership transition, corporate orphan,
+privatization) — used by Thesis to make the "why this deal" rationale
+concrete instead of generic.
+
 ---
 
 ## Extensions: opt-in depth for situational deals
