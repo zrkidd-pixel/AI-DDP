@@ -8,6 +8,25 @@ example as illustrative unless sourced per
 `underwriting/financing-benchmarks.md` — this file defines the *mechanics*,
 not the assumptions.
 
+## Modeling sequence: anchor on debt capacity, not a target return
+
+Build the leverage assumption in this order, not by working backward from a
+target IRR into whatever debt% makes it work:
+
+1. **Start with what lenders will actually lend** — a single sourced
+   Debt/EBITDA figure for this deal's size, sector, and credit conditions
+   (per `underwriting/financing-benchmarks.md`), before building out a full
+   tranche structure. One sourced number is enough to run the mechanics
+   below; the Financing / Capital Structure Agent's detailed tranche mix
+   comes later and refines this starting figure, it doesn't replace the need
+   for it upfront.
+2. **Only then** compute the resulting equity check and returns — leverage
+   is an input sourced from market capacity, not a plug solved for to hit a
+   return target. If the fund's target return isn't cleared at a realistic,
+   sourced leverage level, that is a finding to report (the deal doesn't
+   underwrite at current market terms), not a reason to assume more debt
+   than the market will actually provide.
+
 ## Core formula chain
 
 ```

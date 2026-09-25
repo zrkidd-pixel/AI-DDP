@@ -73,6 +73,17 @@ also read `extensions/esg-screening/esg-screening.opt-in.md`.
    privatization), name it explicitly in the sector investment thesis
    section — it makes the "why should Fund II invest" rationale concrete.
    Don't force an archetype onto a deal that doesn't clearly fit one.
+9. Build the exit narrative against three specific tests, not a generic
+   "write a compelling story" standard `[source: Bain & Company, Global
+   Private Equity Report 2024]`: (a) action-driven evidence — does the memo
+   draw a direct, specific link between management actions already taken
+   and results already achieved, not just an assertion that performance
+   improved; (b) money still on the table — is there a concrete, itemized
+   case for what the next owner can still capture, not a vague gesture at
+   "further upside"; (c) reasons to believe — are there early proof points
+   for any forward-looking initiative, not a purely speculative case. A
+   memo that only asserts future growth without evidence against these
+   three tests should be flagged as weak on this dimension explicitly.
 
 ## Escalate to human when
 

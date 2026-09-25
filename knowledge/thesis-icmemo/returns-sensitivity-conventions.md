@@ -37,6 +37,26 @@ ones most subject to disagreement or uncertainty. Additional sensitivities
 (leverage level, margin achievement) are useful but shouldn't substitute for
 these two.
 
+## The multiple-expansion assumption specifically
+
+Don't assume exit-multiple expansion (or even flat multiples) as a default
+base-case input without stating why. Bain & Company's analysis of buyout
+value-creation drivers (2013-23 deal entries) found that the average deal
+still derives 47% of its enterprise-value growth from multiple expansion
+alone, with margin expansion contributing almost nothing (see
+`value-creation/value-lever-taxonomy.md`) - meaning a base case built the
+way the average historical deal was built is disproportionately exposed to
+a factor the sponsor doesn't control `[source: Bain & Company, Global
+Private Equity Report 2024]`. In a period where rising rates put sustained
+downward pressure on multiples, a base case assuming flat-to-expanding
+multiples needs an explicit justification for why this deal is different,
+not an implicit carryover of historical averages. Cross-check the assumed
+exit multiple's plausibility against `value-creation/value-lever-taxonomy.md`'s
+empirical revenue/margin/multiple split - a plan with no stated
+margin-expansion mechanism leaning entirely on multiple expansion resembles
+an average deal, not the top-quartile profile the fund is presumably
+underwriting to.
+
 ## Comparing to the fund's hurdle
 
 Explicitly state whether the base, downside, and upside cases each clear the

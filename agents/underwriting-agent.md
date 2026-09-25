@@ -58,6 +58,11 @@ Read before acting: `underwriting/lbo-mechanics.md`,
    specific pull per `_shared/data-source-directory.md` — a Capital IQ or
    PitchBook precedent-transactions export for the sector/size band —
    rather than defaulting to an unsourced illustrative premium.
+9. Check `underwriting/financing-benchmarks.md`'s "Last reviewed" date before
+   using any leverage or pricing figure from it. If it's more than ~1
+   quarter old, label it explicitly as a dated historical reference point
+   (with its as-of date) in the memo, not current market — and flag to the
+   Financing / Capital Structure Agent that a fresh figure is needed.
 
 ## Escalate to human when
 

@@ -92,6 +92,38 @@ establishes that the *category* is a real value-creation mechanism in
 general; it does not establish that *this specific deal* actually has that
 opportunity.
 
+## What the empirical split actually looks like
+
+Bain & Company's analysis of global buyout deals (entry years 2013–23,
+DealEdge powered by CEPRES data) decomposes realized enterprise-value
+growth into revenue growth, margin expansion, and multiple expansion
+`[source: Bain & Company, Global Private Equity Report 2024]`. Two findings
+are directly useful when assessing whether a proposed lever mix is
+realistic:
+
+- **For the average deal, margin expansion contributes almost nothing** —
+  indexed to 100 at entry, revenue growth contributed 27.4 and margin
+  expansion only 0.1, against 24.0 from multiple expansion, for enterprise
+  value growth to 151.5 at exit (53% revenue+margin combined vs. 47%
+  multiple expansion). The industry has historically leaned on rising
+  multiples and revenue, not on the operational-efficiency and
+  management-enhancement levers above, despite those levers being
+  available.
+- **Top-quartile deals look different**, not just bigger: revenue growth
+  35%, margin expansion 15%, multiple expansion 50% of value created.
+  Bottom-quartile deals are net negative. Margin expansion specifically —
+  the operational-efficiencies lever above — is the differentiator between
+  an average deal and a top-quartile one, not a nice-to-have addition to a
+  revenue-and-multiple story.
+
+**Use this as a sanity check on a proposed lever mix, not a target to hit
+mechanically:** if a thesis's value-creation plan is entirely revenue growth
+and an assumed exit-multiple re-rating with no stated margin-expansion
+mechanism, that mix resembles the average deal, not a top-quartile one —
+worth naming explicitly to Thesis / IC Memo, especially in a market where
+multiple expansion can't be assumed as a tailwind (see
+`thesis-icmemo/returns-sensitivity-conventions.md`).
+
 ## Sequencing and prioritization
 
 Not every lever should be pursued simultaneously. Prioritize by a rough
@@ -107,3 +139,5 @@ first 100 days.
   (No. w29502). National Bureau of Economic Research.
 - Jensen, M. C. (1986). Agency costs of free cash flow, corporate finance,
   and takeovers. *The American Economic Review*, 76(2), 323-329.
+- Bain & Company, *Global Private Equity Report 2024* (value-creation driver
+  data via DealEdge powered by CEPRES).

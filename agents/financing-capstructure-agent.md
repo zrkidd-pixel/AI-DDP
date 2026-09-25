@@ -66,6 +66,11 @@ Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
 8. Name "covenant-lite" specifically when a structure carries
    incurrence-only covenants — don't describe it vaguely as "fewer
    covenants."
+9. Check `underwriting/financing-benchmarks.md`'s "Last reviewed" date before
+   relying on any figure in it. If it's more than ~1 quarter old, treat it as
+   a dated historical reference point (label it explicitly as such, with its
+   as-of date) rather than current market — and source a fresh figure for
+   the actual recommendation.
 
 ## Escalate to human when
 
