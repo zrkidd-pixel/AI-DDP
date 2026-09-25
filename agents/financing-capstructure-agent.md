@@ -57,6 +57,15 @@ Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
    `_shared/data-source-directory.md` — LSEG Workspace for current credit
    spreads/base rates, or a PitchBook deal-comps export for precedent
    private-market financing terms.
+7. State every tranche's seniority explicitly on the payment-priority
+   waterfall (`financing-capstructure/debt-product-taxonomy.md`'s
+   Seniority section) and, if the collateral structure pledges operating-
+   subsidiary stock rather than the subsidiaries' own assets directly,
+   flag that explicitly — it is not economically equivalent to a direct
+   asset pledge, and the difference matters in a downside scenario.
+8. Name "covenant-lite" specifically when a structure carries
+   incurrence-only covenants — don't describe it vaguely as "fewer
+   covenants."
 
 ## Escalate to human when
 
