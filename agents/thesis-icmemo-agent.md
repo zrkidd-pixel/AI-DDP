@@ -14,8 +14,9 @@ not before, and never asserting a claim the upstream work doesn't support.
 - Market & Sector Intelligence's sourced market overview
 - The Value Creation Agent's 100-day plan and levers
 - Legal & Structuring's key-term summary
-- `knowledge/_shared/fund-mandate.md` (to check whether each return case
-  clears the fund's stated target returns)
+- The deal's own `fund-mandate.md` at the engagement root (not the blank
+  template at `knowledge/_shared/fund-mandate.md`) — to check whether each
+  return case clears the fund's stated target returns
 
 ## Produces
 

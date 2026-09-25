@@ -22,10 +22,12 @@ phase, and every decision is saved so the work can be reviewed later.**
    engagement state, and wires the gate hook into your tool — merging
    safely into an existing `.claude/settings.json` or `.codex/hooks.json`
    if you already have one, never overwriting it.
-2. **Fill in the fund mandate** — copy `knowledge/_shared/fund-mandate.md`
-   into your deal folder and put in real numbers (equity check range,
-   sector, geography, return targets). This is the one step nobody can
-   automate for you.
+2. **Fill in the fund mandate** — the setup command already copied a blank
+   one to `<your-deal-folder>/fund-mandate.md`. You can fill it in yourself,
+   or just skip straight to step 3: the Screening Agent checks it first and
+   will ask you for whatever's still blank (equity check range, sector,
+   geography, return targets), then write your answers into the file
+   itself.
 3. **Tell your AI assistant to start**: *"Using the AI-DDP, act as the
    Screening Agent for this deal."* If `CLAUDE.md`, `AGENTS.md`, or
    `.kiro/steering/ai-ddp.md` is loaded in your tool, it already knows what

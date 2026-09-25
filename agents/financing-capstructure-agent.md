@@ -9,7 +9,9 @@ assume a flat leverage percentage.
 ## Consumes
 
 - Target's current debt and covenant profile
-- Fund-level leverage tolerance from `_shared/fund-mandate.md`
+- Fund-level leverage tolerance from the deal's own `fund-mandate.md` at the
+  engagement root (not the blank template at
+  `knowledge/_shared/fund-mandate.md`)
 - Current market financing conditions (to be sourced fresh, not assumed)
 
 ## Produces

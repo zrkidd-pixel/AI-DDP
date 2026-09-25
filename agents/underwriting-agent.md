@@ -10,7 +10,9 @@ finalist set — with every assumption sourced and dated, not assumed.
 - The approved candidate list from Screening
 - Adjusted EBITDA and flagged items from the Financial Diligence / QoE Agent
 - Sourced capital-structure terms from the Financing / Capital Structure Agent
-- `knowledge/_shared/fund-mandate.md` (leverage tolerance, target returns)
+- The deal's own `fund-mandate.md` at the engagement root (not the blank
+  template at `knowledge/_shared/fund-mandate.md`) — leverage tolerance,
+  target returns
 
 ## Produces
 

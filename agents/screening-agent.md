@@ -7,8 +7,10 @@ reproducible candidate list — without silently narrowing or forcing a match.
 
 ## Consumes
 
-- `knowledge/_shared/fund-mandate.md` (equity check band, geography, sector
-  exclusions, listing requirement)
+- The deal's own `fund-mandate.md` at the engagement root (copied there by
+  `aiddp_new_deal.py` from the blank template at
+  `knowledge/_shared/fund-mandate.md`) — equity check band, geography,
+  sector exclusions, listing requirement
 - The raw financial/screening dataset(s) available for this engagement
 - Human-confirmed sector/subsector choice (never assumed by this agent — see
   Escalate below)
@@ -51,6 +53,14 @@ Read before acting: `screening/fund-criteria-checklist.md`,
    trading, going-concern language) rather than smoothing over them.
 7. If the mandate's pass condition isn't met, trigger
    `screening/widen-search-playbook.md` — don't lower the bar quietly.
+8. If the deal's `fund-mandate.md` still has placeholder values, don't just
+   block and tell the human to go edit the file. Ask for the specific
+   missing fields conversationally (batched into one question where
+   reasonable, e.g. equity check range + geography + sector exclusions
+   together), then write the human's answers directly into that file
+   yourself. The file still has to end up filled in and durable — nothing
+   about asking instead of blocking changes that — it just means you do the
+   mechanical file-editing, not the human.
 
 ## Escalate to human when
 
@@ -63,7 +73,8 @@ Read before acting: `screening/fund-criteria-checklist.md`,
   consumer goods with no way to separate them) — surface this before
   filtering, not after.
 - The mandate itself (`fund-mandate.md`) has missing or placeholder values
-  needed for this screen.
+  needed for this screen — resolved per Operating rule 8 (ask and write it
+  in yourself), not by blocking indefinitely.
 
 ## Gate criteria (must be true before handoff to Underwriting)
 

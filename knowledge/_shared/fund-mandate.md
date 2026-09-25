@@ -5,9 +5,21 @@ Structure Agent, and Thesis / IC Memo Agent — the fixed context each of them
 checks before finalizing its own output, rather than re-deriving fund
 parameters independently.
 
-**This file must be filled in per fund/deal before Screening starts.** An agent
-that finds placeholder values below should treat that as a blocking gap, not a
-default to assume.
+**This copy, at `knowledge/_shared/fund-mandate.md`, is a blank template —
+never fill it in directly or edit it per deal.** `engine/aiddp_new_deal.py`
+copies it into each engagement's root as `fund-mandate.md` when the deal is
+set up; every agent reads and writes that deal-local copy, not this one.
+Keeping this one blank is what stops two deals sharing an AI-DDP checkout
+from overwriting each other's numbers.
+
+**The deal-local copy must have real values before Screening finishes** —
+but nobody has to hand-edit it first. If the Screening Agent finds a
+placeholder value there, its own operating rules say to ask the human for
+that specific field conversationally and write the answer into the file
+itself, rather than blocking and telling the human to go edit it by hand.
+Treating a placeholder as a blocking gap doesn't mean "stop and wait for a
+file edit" — it means "stop and ask a question," the same as any other gap
+in this framework.
 
 ## Fund parameters
 

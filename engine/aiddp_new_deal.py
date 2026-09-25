@@ -106,6 +106,20 @@ def init_state(root: Path) -> bool:
     return True
 
 
+def copy_mandate_template(root: Path) -> bool:
+    """Copies the blank fund-mandate template into the engagement root as a
+    deal-local file, so it's never shared/overwritten across deals that
+    happen to use the same AI-DDP checkout. Returns True if copied, False if
+    a deal-local copy already existed (left as-is -- never overwrite real
+    numbers someone already filled in)."""
+    dest = root / "fund-mandate.md"
+    if dest.exists():
+        return False
+    template = REPO_ROOT / "knowledge" / "_shared" / "fund-mandate.md"
+    dest.write_text(template.read_text(encoding="utf-8"), encoding="utf-8")
+    return True
+
+
 def merge_hooks_into(config_path: Path, new_hooks: dict) -> str:
     """Merges new_hooks into an existing hook-config JSON file's "hooks" key,
     appending to each event's list rather than overwriting, or creates the
@@ -177,11 +191,18 @@ def main() -> int:
     else:
         print(f"Engagement state already existed at {state_file(root)} -- left as-is.")
 
+    if copy_mandate_template(root):
+        print(f"Copied a blank fund mandate to {root / 'fund-mandate.md'}")
+    else:
+        print(f"{root / 'fund-mandate.md'} already existed -- left as-is (not overwritten).")
+
     wire_harness(root, args.harness)
 
     print()
     print("Next steps:")
-    print(f"  1. Fill in knowledge/_shared/fund-mandate.md with this deal's real numbers.")
+    print(f"  1. Either fill in {root / 'fund-mandate.md'} yourself, or just start Screening --")
+    print(f"     the agent will ask you for any field it finds blank and write your answers")
+    print(f"     into that file itself.")
     print(f"  2. Tell your AI assistant: \"Using the AI-DDP, act as the Screening Agent for this deal.\"")
     print(f"  3. When Screening is genuinely done, approve it yourself from a real terminal:")
     print(f"     python {GATE_SCRIPT} --root {root} approve screening")
