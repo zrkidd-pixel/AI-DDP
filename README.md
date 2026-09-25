@@ -80,7 +80,26 @@ between them get resolved. The full phase-to-phase map is in
 
 Every agent has its own rule file in `agents/` — what it needs, what it
 produces, its specific rules, when it stops to ask a human, and what has to
-be true before it hands off to the next agent.
+be true before it hands off to the next agent. Two house-style rules apply
+across all 14: `knowledge/_shared/question-format-guide.md` governs how any
+agent phrases a question to a human, and `knowledge/_shared/overconfidence-
+prevention.md` governs how a judgment call (management fit, competitive
+durability, market sizing) gets stated with confidence proportional to its
+actual evidence — a different discipline than citation-standards.md, which
+only stops *unsourced* claims, not *overstated but sourced* ones.
+
+---
+
+## Extensions: opt-in depth for situational deals
+
+Not every deal needs cross-border tax structuring, ESG-mandate compliance,
+or distressed-specific diligence — but some genuinely do, and baking all of
+it into the core 14 agents permanently would clutter every plain-vanilla
+deal in service of the uncommon one. `extensions/` holds opt-in rule packs
+instead: Screening asks about the trigger conditions during the mandate
+interview, records which apply in the deal's own `fund-mandate.md`, and the
+relevant downstream agents pick up the extra depth automatically. See
+`extensions/README.md` for the full list and how to add a new one.
 
 ---
 
@@ -98,6 +117,9 @@ AI-DDP/
   engine/aiddp_new_deal.py      <- one-command setup for a new deal
   harness/                      <- setup instructions per AI tool
   .claude/agents/  .codex/agents/  <- ready-to-use subagents for the Underwriting swarm
+  extensions/                   <- opt-in rule packs for situational deal
+                                    characteristics (cross-border, ESG,
+                                    distressed) not baked into the core 14
 ```
 
 ---

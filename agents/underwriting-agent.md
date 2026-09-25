@@ -30,7 +30,8 @@ Read before acting: `underwriting/lbo-mechanics.md`,
 `financial-diligence/qoe-redflag-checklist.md`,
 `financing-capstructure/debt-product-taxonomy.md`,
 `legal-structuring/deal-structure-decision-tree.md`,
-`thesis-icmemo/returns-sensitivity-conventions.md`.
+`thesis-icmemo/returns-sensitivity-conventions.md`,
+`_shared/question-format-guide.md`.
 
 ## Operating rules
 

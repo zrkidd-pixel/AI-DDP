@@ -25,7 +25,8 @@ industry.
 ## Knowledge base
 
 Read before acting: `market-intelligence/market-sizing-methodology.md`,
-`market-intelligence/source-credibility-hierarchy.md`.
+`market-intelligence/source-credibility-hierarchy.md`,
+`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`.
 
 ## Operating rules
 

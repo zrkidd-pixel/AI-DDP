@@ -25,7 +25,10 @@ not passive re-reporting of new numbers each period.
 Read before acting: `monitoring/kpi-dashboard-templates.md`,
 `monitoring/covenant-reporting-cadence.md`, `_shared/citation-standards.md`,
 `_shared/glossary.md`, `financing-capstructure/covenant-conventions.md`,
-`value-creation/100-day-plan-template.md`.
+`value-creation/100-day-plan-template.md`,
+`_shared/question-format-guide.md`. If `extensions/esg-screening/` is
+active per the deal's `fund-mandate.md`, also read
+`extensions/esg-screening/esg-screening.opt-in.md`.
 
 ## Operating rules
 

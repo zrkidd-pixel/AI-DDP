@@ -36,6 +36,10 @@ in this framework.
 - **Ownership requirement:** *(e.g., control/majority only, minority permitted)*
 - **ESG / exclusionary screens, if any:** *(fill in)*
 - **LP-imposed restrictions, if any:** *(fill in)*
+- **Active extensions:** *(fill in — none, or a list from `extensions/README.md`'s
+  table, e.g. "cross-border-structuring" if the target has meaningful
+  non-US operations. Screening asks about the trigger conditions for each
+  available extension during the mandate interview.)*
 
 ## Fund-level risk tolerance notes
 

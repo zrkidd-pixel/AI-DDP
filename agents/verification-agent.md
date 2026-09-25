@@ -25,7 +25,10 @@ Read before acting: `verification/model-audit-checklist.md`,
 checked for coverage), `_shared/data-source-crosswalk.md`,
 `_shared/glossary.md`, `financial-diligence/qoe-redflag-checklist.md`,
 `market-intelligence/source-credibility-hierarchy.md`,
-`underwriting/lbo-mechanics.md`.
+`underwriting/lbo-mechanics.md`, `_shared/question-format-guide.md`,
+`_shared/overconfidence-prevention.md`. If `extensions/distressed-
+diligence/` is active per the deal's `fund-mandate.md`, also read
+`extensions/distressed-diligence/distressed-diligence.opt-in.md`.
 
 ## Operating rules
 

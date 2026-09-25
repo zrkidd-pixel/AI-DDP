@@ -25,7 +25,8 @@ leaves — not whether they're generally impressive.
 
 Read before acting: `management-assessment/reference-check-framework.md`,
 `management-assessment/rollover-incentive-conventions.md`,
-`_shared/citation-standards.md`.
+`_shared/citation-standards.md`, `_shared/question-format-guide.md`,
+`_shared/overconfidence-prevention.md`.
 
 ## Operating rules
 

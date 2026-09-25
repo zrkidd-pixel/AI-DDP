@@ -36,7 +36,10 @@ Read before acting: `thesis-icmemo/ic-memo-template.md`,
 `management-assessment/reference-check-framework.md`,
 `market-intelligence/market-sizing-methodology.md`,
 `market-intelligence/source-credibility-hierarchy.md`,
-`value-creation/value-lever-taxonomy.md`.
+`value-creation/value-lever-taxonomy.md`,
+`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`.
+If `extensions/esg-screening/` is active per the deal's `fund-mandate.md`,
+also read `extensions/esg-screening/esg-screening.opt-in.md`.
 
 ## Operating rules
 

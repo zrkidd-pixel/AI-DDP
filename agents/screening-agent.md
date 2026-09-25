@@ -28,7 +28,8 @@ reproducible candidate list — without silently narrowing or forcing a match.
 
 Read before acting: `screening/fund-criteria-checklist.md`,
 `screening/widen-search-playbook.md`, `_shared/data-source-crosswalk.md`,
-`_shared/citation-standards.md`.
+`_shared/citation-standards.md`, `_shared/question-format-guide.md`,
+`extensions/README.md`.
 
 ## Operating rules
 
@@ -57,10 +58,17 @@ Read before acting: `screening/fund-criteria-checklist.md`,
    block and tell the human to go edit the file. Ask for the specific
    missing fields conversationally (batched into one question where
    reasonable, e.g. equity check range + geography + sector exclusions
-   together), then write the human's answers directly into that file
-   yourself. The file still has to end up filled in and durable — nothing
-   about asking instead of blocking changes that — it just means you do the
-   mechanical file-editing, not the human.
+   together — see `_shared/question-format-guide.md`), then write the
+   human's answers directly into that file yourself. The file still has to
+   end up filled in and durable — nothing about asking instead of blocking
+   changes that — it just means you do the mechanical file-editing, not the
+   human.
+9. As part of that same mandate interview, check the target's known
+   characteristics against `extensions/README.md`'s trigger-condition
+   table (non-US operations, LP ESG mandates, distress signals) and ask
+   about any that aren't yet resolved. Record the result in the mandate's
+   "Active extensions" field — even "none apply" is a real, recorded
+   answer, not a skipped question.
 
 ## Escalate to human when
 

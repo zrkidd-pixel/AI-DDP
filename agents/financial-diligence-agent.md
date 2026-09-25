@@ -26,7 +26,11 @@ the model.
 
 Read before acting: `financial-diligence/qoe-redflag-checklist.md`,
 `_shared/citation-standards.md`, `_shared/data-source-crosswalk.md`,
-`commercial-diligence/customer-concentration-frameworks.md`.
+`commercial-diligence/customer-concentration-frameworks.md`,
+`_shared/question-format-guide.md`, `_shared/overconfidence-prevention.md`.
+If `extensions/distressed-diligence/` is active per the deal's
+`fund-mandate.md`, also read
+`extensions/distressed-diligence/distressed-diligence.opt-in.md`.
 
 ## Operating rules
 

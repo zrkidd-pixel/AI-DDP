@@ -27,7 +27,10 @@ assume a flat leverage percentage.
 Read before acting: `financing-capstructure/debt-product-taxonomy.md`,
 `financing-capstructure/covenant-conventions.md`,
 `underwriting/financing-benchmarks.md`, `_shared/citation-standards.md`,
-`_shared/glossary.md`.
+`_shared/glossary.md`, `_shared/question-format-guide.md`. If
+`extensions/cross-border-structuring/` is active per the deal's
+`fund-mandate.md`, also read
+`extensions/cross-border-structuring/cross-border-structuring.opt-in.md`.
 
 ## Operating rules
 

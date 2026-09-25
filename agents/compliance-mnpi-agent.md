@@ -24,7 +24,8 @@ when unclear.
 
 ## Knowledge base
 
-Read before acting: `compliance-mnpi/mnpi-framework.md`.
+Read before acting: `compliance-mnpi/mnpi-framework.md`,
+`_shared/question-format-guide.md`.
 
 ## Operating rules
 

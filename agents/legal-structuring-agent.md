@@ -27,7 +27,10 @@ economics — never finalize structure or give legal/tax advice itself.
 Read before acting: `legal-structuring/deal-structure-decision-tree.md`,
 `legal-structuring/purchase-agreement-glossary.md`,
 `_shared/citation-standards.md`,
-`management-assessment/rollover-incentive-conventions.md`.
+`management-assessment/rollover-incentive-conventions.md`,
+`_shared/question-format-guide.md`. If `extensions/cross-border-
+structuring/` or `extensions/distressed-diligence/` are active per the
+deal's `fund-mandate.md`, also read the corresponding `.opt-in.md` file(s).
 
 ## Operating rules
 
