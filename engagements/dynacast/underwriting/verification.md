@@ -17,3 +17,8 @@ Note: the first workbook build was slightly under-converged on the circular inte
 - Bridge 1 (total equity value: invested equity + EBITDA growth + multiple expansion + debt paydown - entry fees - exit fees) ties to model exit equity (D72) in all three cases, difference 0.0.
 - Bridge 2 (sponsor share at 94.95% entry ownership of each driver, less dilution to the 90% exit ownership) ties to model sponsor proceeds less sponsor equity (D74 - D75), difference 0.0.
 - MOIC turns (five drivers + 1.00x return of capital) sum to the model MOIC in all three cases.
+
+## Sensitivity Analysis tab checks
+- 270 grid cells (3 cases x [entry x exit and exit-year x exit] x [IRR and MOIC], 5x5 and 4x5) recomputed in a separate Python replica; max absolute difference 3e-11.
+- Centre cell of each entry x exit grid and the 2019 row of each exit-year grid equal the case tab IRR (D78) and MOIC (D77); check rows read 0.0000.
+- Grids are closed-form formulas, not Excel Data Tables (deviation from the reference tab's mechanism, explained on the tab): neither entry nor exit multiple changes the debt schedule in this model.
