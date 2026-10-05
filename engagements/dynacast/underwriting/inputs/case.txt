@@ -1,0 +1,1795 @@
+                                                                                                                   ID#170303
+                                                                                                                   PUBILISHED ON
+                                                                                                                   SEPTEMBER 29, 2016
+
+
+
+
+            Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA *
+
+
+           Introduction
+           Having spent two years as an analyst in JPMorgan Chase & Co.’s investment banking
+           Industrials and Transportation Group, followed by two years at Kohlberg and Company,
+           Jonathan Schilowitz graduated from Columbia Business School in May 2012 and landed a job
+           with the Swiss-headquartered, global private markets investment manager Partners Group
+           (PG).
+           PG is a private markets investment manager, serving over 700 institutional investors globally,
+           with $50 billion in assets under management (USD) and more than 800 professionals across 18
+           international offices. The firm focuses on a variety of alternative investments, realizing
+           potential in private markets by financing and developing great companies, desirable real
+           estate, and essential infrastructure.
+           At the time that Schilowitz came on board, PG was focusing for the first time on direct private
+           equity investments in the United States, and with his experience at Kohlberg and Company,
+           Schilowitz was well placed to help the senior management of the firm accomplish this goal.
+           Among the many companies in their sights was Dynacast, a small, but global, company that
+           manufactured high quality metal components. The company was led by a highly skilled
+           management team with solid customer relationships—and operated in an industry with
+           strong barriers to entry.
+
+
+           The Company
+           Headquartered in Charlotte, NC, in 2014 Dynacast was the global market leader in the
+           manufacturing of precision-engineered metal components. Utilizing proprietary die cast and
+           metal injection molding technologies, Dynacast produced over one billion high precision
+           components per year primarily using zinc, aluminum, magnesium and stainless steel. The
+
+            Author affiliation                                                   Copyright information
+            *
+              Adjunct Professor, Finance and Economics and Heilbrunn Center       © 2016 by The Trustees of Columbia University in the City of New
+            for Graham and Dodd Investing; Administrative Director, Private      York.
+            Equity Program, Columbia Business School
+                                                                                 This case is for teaching purposes only and does not represent an
+            Acknowledgements                                                     endorsement or judgment of the material included.
+            The author wishes to thank Dynacast CEO Simon Newman and
+            Jonathan Schilowitz ’12 of Partners Group for sharing insights and   This case cannot be used or reproduced without explicit permission
+            material for this case. The following Columbia Business School       from Columbia CaseWorks. To obtain permission, please visit
+            2016 Private Equity Program Fellows provided research support        www.gsb.columbia.edu/caseworks, or e-mail
+            for this case: Nicolo Della Casa, Gaëlle Gurné, Towson Remmel,       ColumbiaCaseWorks@gsb.columbia.edu.
+            Gauthier Salavert, and Rui Jie (Melody) Xu. Charles Pippen ’17
+            also provided research support for this case.
+
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           company offered robust solutions to many industries including automotive safety and
+           electronics, consumer electronics and healthcare.
+           Dynacast was established in 1926 and competed largely on the basis of its proprietary multi-
+           slide process and conventional tooling techniques, which provided high volume cost
+           advantages that were not available to competitors. Dynacast operated 23 manufacturing
+           facilities in 16 countries and had over 5,500 employees.
+
+
+           The Transaction
+           On December 16, 2014, PG and Kenner & Company announced that they had signed an
+           agreement to acquire a controlling stake in Dynacast International Inc. The transaction had a
+           total enterprise value of $1.1 billion (excluding transaction and financing fees, and debt
+           breakage costs) and was expected to close in February 2015. The transaction would be financed
+           with equity from the buyer consortium and management, as well as debt financing, including:
+              •   $580 million First Lien facilities:
+                     o $530 million First Lien Term Loan (L+4.25%)
+                     o $50 million Revolving Credit Facilities (L+4.00% and unfunded at close)
+              •   $170 million Second Lien Term Loan (L+8.50%)
+              •   $6 million in debt rollover (2.00% annual interest rate)
+              •   $483 million of New Sponsor Equity and Management Rollover Equity
+
+
+           The Process
+           In July 2011, Kenner & Co., a fundless sponsor, led an investor group consisting of Izurium
+           Capital, W Capital Partners, Laurel Crown Partners and Tower Square Capital Partners to
+           acquire Dynacast. Under this ownership, the Company performed very well through the first
+           half of 2014, with revenues growing from $428 million to $650 million and EBITDA from $82
+           million to $124 million. Over the past 18 months, PG had been in contact with Kenner as well
+           as with management. On the basis of PG’s strong conviction about the business, PG submitted
+           a non-binding bid for the company to its board on September 18, 2014.
+           Over the next several weeks, PG held a series of meetings with the selling shareholders and
+           multiple meetings with Dynacast CEO Simon Newman and CFO Adrian Murphy.
+           On November 3, PG reached an agreement with Dynacast’s selling shareholders on a six-week
+           exclusivity period to complete due diligence and negotiate a stock purchase agreement by
+           December 15. At the same time, PG held detailed discussions with potential lenders including
+           JPMorgan Chase, Bank of America, Barclays, UBS and Morgan Stanley. Due diligence efforts
+           were complemented by working together with third-party providers McKinsey & Company
+           (market/competition), KPMG (accounting/tax), Goodwin Procter (legal), TBM Consulting
+           Group (operational consultants), West Monroe Partners (IT), Ramboll Environ
+           (Environmental) and Willis Towers Watson (Benefits and Insurance).
+
+
+
+
+                                                          Dynacast: Solid, Middle Market LBO | Page 2
+                                                                                BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           With the process completed and the due diligence successfully executed to the buyer’s
+           satisfaction, the Purchase Agreement was signed and the Confidential Information
+           Memorandum circulated to the debt investors on January 12, 2015.
+           Click here to watch Schilowitz discuss the due diligence process and the evolution of the deal.
+
+
+           Assignment
+           As Schilowitz, you need to meet with your bankers to explain the transaction. Key to their
+           interests are the valuation, investment thesis, and capital structure. They are also heavily
+           focused on getting to know the highly regarded management team.
+           As Schilowitz and his team consider how to present these issues, they gather the company’s
+           most recent 10K and 10Q reports and comparables data, and sit down to present their key
+           assumptions with regard to:
+              •   The basis for the valuation of the Company (quantified in a free cash flow forecast),
+                  considering a range of methodologies
+              •   The investment thesis and risks of the transaction
+              •   The due diligence questions Schilowitz might have for this transaction
+           Finally, in a casual elevator conversation, PG senior management asks Schilowitz what the key
+           numbers and expected returns are for this transaction. Use a paper-LBO to justify Schilowitz’s
+           answer.
+
+
+           See Exhibits 1-10 to complete the assignment.
+
+
+
+
+            Page 3 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 1
+           Transaction Press Release (12/17/14)
+
+           Partners Group to acquire Dynacast, a leading global manufacturer of precision engineered
+           components
+           Partners Group, the global private markets investment manager, has signed an agreement to
+           acquire a controlling stake in Dynacast International on behalf of its clients. The transaction
+           has an overall enterprise value of USD 1.1 billion and is expected to close in February 2015.
+           Founded nearly 80 years ago, Dynacast International is a global manufacturer of small, highly
+           complex metal components. The company uses proprietary precision die-casting and metal
+           injection molding (MIM) technologies to produce customized, high-volume components with
+           complex shapes and tight tolerances. Dynacast is headquartered in Charlotte, North Carolina,
+           and has 23 manufacturing plants in 16 countries worldwide, which serve a diverse client base
+           including blue-chip customers across the automotive, telecommunications, computing,
+           consumer electronics, and healthcare industries.
+           Dynacast was acquired in 2011 by a consortium of investors including Izurium Capital
+           Management, W Capital Partners, Laurel Crown Partners, Kenner & Company, Babson
+           Capital Management, Macquarie Capital and certain members of management. Since its
+           acquisition in 2011, Dynacast has experienced considerable growth and has expanded its
+           footprint and penetrated new markets with its broad range of product offerings while
+           strengthening its product portfolio with its recent acquisition of Kinetics Climax Inc.
+           Partners Group is acquiring Dynacast from exiting financial investors and is joined in the
+           acquisition by Kenner & Company, an existing shareholder, and the company’s management
+           team, which will both roll over significant equity stakes into the new transaction. Following
+           the close of the acquisition, Partners Group and Kenner & Company will work closely with
+           Dynacast’s management team to support the company in the next phase of its global growth
+           plans.
+           Simon Newman, Chief Executive Officer of Dynacast, states: “Dynacast has a long and rich
+           history of continuously refining our proprietary manufacturing technologies, in-house tooling
+           expertise and innovative design processes to manufacture highly complex metal components
+           in a fast, repeatable and precise manner to provide greater value to our customers. With the
+           investment led by Partners Group, we have the strategic support and capital backing to enter
+           into the next phase of growth for our company.”
+           Joel Schwartz, Managing Director at Partners Group in New York, adds: “We are really
+           looking forward to working with Simon and the rest of Dynacast’s management team in this
+           next stage of the company’s development. Dynacast already has a truly differentiated position
+           as a global supplier in the precision metal components marketplace and we see exciting
+           potential for further expansion. We believe our global platform and deep network of industry
+           relationships make us the ideal partner to back management’s vision for the business going
+
+
+                                                           Dynacast: Solid, Middle Market LBO | Page 4
+                                                                                  BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           forward, particularly through our assistance with acquisitions and with the deepening of the
+           company’s integrated, worldwide approach.”
+           The transaction has fully committed financing from JPMorgan Chase Bank, N.A., Barclays and
+           Macquarie Capital and is subject to regulatory approvals and customary closing conditions.
+           J.P. Morgan Securities LLC, Barclays, Macquarie Capital, Goodwin Procter LLP and KPMG
+           LLP are advising Partners Group on the transaction.
+           Morgan Stanley and Co. LLC served as exclusive financial advisor to Dynacast while
+           Hunton & Williams LLP and Davis Polk & Wardwell LLP served as legal counsel to Dynacast
+           with respect to the transaction.
+
+
+
+
+            Page 5 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 2
+           Company Overview (2013 Form 10K)
+           Dynacast International Inc. (formerly KDI Holdings, Inc.) was formed by affiliates of Kenner &
+           Company, Inc. (“Kenner”) and their co-investors as a Delaware corporation in 2011. On
+           July 19, 2011, Dynacast acquired from Melrose plc and certain of its subsidiaries (“Melrose”)
+           the outstanding equity of the entities (the “Dynacast Group”) that prior thereto had conducted
+           the business of Dynacast and its subsidiaries described in this Form 10-K (the “Dynacast
+           business”). In this Form 10-K, we refer to the Dynacast Group prior to the acquisition of the
+           Dynacast business (the “Acquisition”) as the “Predecessor Company” and we refer to
+           Dynacast and its consolidated subsidiaries following the Acquisition as the “Successor
+           Company.” As used in this Form 10-K, the terms the “Company,” “Dynacast,” “we,” “us,”
+           and “our” generally refer, with respect to the period after July 19, 2011, to Dynacast
+           International Inc. and its wholly-owned subsidiaries and, with respect to the periods prior to
+           and including July 19, 2011, to the Dynacast Group.
+           The Acquisition, along with the payment of related fees and expenses, was financed with the
+           following (such financing, together with the Acquisition, the “Transactions”): the Senior
+           Secured First Lien Credit Facilities (the “Senior Secured Credit Facilities”) consisting of a
+           $50.0 million term loan (the “term loan”), $50.0 million revolving credit facility (the “revolving
+           credit facility”), $350.0 million of our 9.25% Senior Secured Second Lien Notes (the “Notes”),
+           $53.0 million of redeemable preferred stock and $170.0 million of common stock and related
+           warrants.
+           Company Overview
+           We are a global manufacturer of small engineered precision die cast components. We serve
+           customers in automotive safety and electronics, consumer electronics, telecommunications,
+           healthcare, hardware, computer and peripherals and many other industries. Our customers
+           range from large multinational companies to small family-owned businesses. We manage our
+           business primarily on a geographical basis through three reportable segments—Asia Pacific,
+           Europe and North America—each of which is comprised of the facilities located within the
+           applicable geographic region.
+           Our extensive engineering expertise and use of specialized manufacturing technologies enable
+           us to design and manufacture customized, small, high precision components with complex
+           geometries in a cost-effective manner. Through our proprietary multi-slide die casting
+           manufacturing technology, we have developed extensive know-how in the die casting of small
+           components. We also have expertise in small component conventional die casting methods,
+           which employ similar manufacturing techniques as our multi-slide manufacturing process
+           and achieve comparable high tolerances, complexity and quality in our finished components.
+           The small components we manufacture generally fit in the palm of a hand. We use zinc,
+           aluminum and magnesium alloys, which have many preferred physical and mechanical
+           characteristics for customer applications. Most products we manufacture are customized
+           orders. During 2013, at certain of our facilities, we began to offer metal injection molding
+
+
+                                                             Dynacast: Solid, Middle Market LBO | Page 6
+                                                                                    BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           (“MIM”). Through the addition of MIM, we believe that we will be able to expand our ability
+           to die-cast components using a wider variety of metals. The MIM process is suitable for die
+           casting using stainless steel, titanium and copper.
+           We believe the threat of large tonnage competitors is low due to their lack of technological
+           expertise and manufacturing capabilities for small components. We benefit from well-
+           established and long-term relationships with our diversified customer base. On average, the
+           length of our relationship with the majority our top 10 customers is greater than 15 years. We
+           believe that we are the sole source supplier to our customers for many of the products that we
+           manufacture.
+           We believe we are the only company in the small component die casting market that can
+           provide a full range of engineered solutions on a global basis. We believe we are well
+           positioned to secure additional business from our current customers through our 22 facilities
+           in 16 countries across North America, Europe and Asia.
+           History and Development
+           The operating history of the Dynacast business dates back to the original company’s founding
+           in the United States in 1926. The original company engaged in the manufacture of small die
+           cast components in the U.S. and Canada. In the 1960s, the original company’s business was
+           acquired by a U.K. textile company with operations in the U.S. Subsequently, operations
+           expanded to Europe and Asia. In 1999, the original company’s business was acquired by a
+           U.K. private equity firm which, in turn, sold the business to Melrose in 2005. Melrose owned
+           the Dynacast business until it was sold in the Acquisition.
+           Market Overview
+           Die casting is a metallurgical fabrication process used to mass produce precision engineered
+           parts in many different applications and across multiple industries. According to the North
+           American Die Casting Association and our management, die casting of small-sized precision
+           parts has several advantages compared to other metallurgical processes:
+              •   Cost savings. Die casting is a cost-effective process for manufacturing metal
+                  components. The high volume nature of die casting offers production scale efficiencies.
+                  Furthermore, multi-slide die casting production can further reduce costs by combining
+                  several components into a single die cast component, allowing for the manufacture of
+                  complex parts in a single process.
+              •   High speed production. Die casting generates complex shapes within closer tolerances
+                  than many other mass production processes. Little or no machining is required and
+                  millions of identical castings can be produced before additional tooling is required.
+              •   Dimensional accuracy and stability. Die casting produces heat resistant parts that are
+                  durable and dimensionally stable, while maintaining close tolerances.
+              •   Strength-to-weight ratio. Die cast parts are stronger than those produced by many
+                  alternative processes such as plastic injection molding. In addition, because die
+                  castings do not consist of separate parts welded or fastened together, the strength is
+                  that of the alloy rather than the joining process.
+
+            Page 7 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+              •    Multiple finishing techniques. Die cast parts can be produced with smooth or textured
+                   surfaces and are easily plated or finished with minimum surface preparation.
+               • Simplified assembly. Die castings provide integral fastening elements, such as bosses and
+                   studs. Holes can be cored and made to tap drill sizes, or external threads can be cast.
+           The market can be segmented by the metal alloy that serves as the base of the casted part. Die
+           casting employs only non-ferrous metals. Commonly used non-ferrous metals for die casting
+           include zinc, aluminum, and magnesium. As discussed above, the MIM process is suitable for
+           die casting stainless steel, titanium and copper.
+              • Zinc. Given its strength and hardness, high thermal conductivity, low cost, superb
+                dimensional accuracy and stability, zinc is a preferred metal for small, high precision
+                components and a good alternative to machined, pressed, stamped and fabricated
+                components.
+              • Aluminum. Aluminum is the most widely used non-ferrous metal alloy in die casting.
+                Given its high strength-to-weight ratio, aluminum is a commonly used alternative to
+                steel. TechNavio’s analysts forecast the global aluminum die casting market to grow at
+                a compound annual growth rate of 11.89% over the period 2012-2016. One of the key
+                factors contributing to this market growth is the increasing need for superior-quality
+                products. The global aluminum die casting market has also been witnessing the
+                increase in outsourcing of manufacturing activities to the Asia Pacific region.
+              • Magnesium. Small magnesium components are typically used in non-automotive
+                applications, most commonly in electronic devices, given its high strength-to-weight
+                ratio (higher than aluminum) and its properties of electromagnetic impulse shielding
+                and thermal conductivity.
+           Segments
+           We have three reportable geographic segments: Asia Pacific, Europe and North America. Each
+           of the segments is a supplier of die cast parts and components. Each segment also earns
+           revenue from the sale of tools developed for specific die cast parts, including multi-slide zinc,
+           conventional zinc and conventional aluminum die casting.
+           Asia Pacific
+           Our Asia Pacific segment operates eight manufacturing facilities in China, India, Indonesia,
+           Malaysia, Singapore and South Korea. For the years ended December 31, 2013 and 2012, the
+           Asia Pacific reportable segment’s net sales were $236.0 and $206.3 million and operating
+           income was $36.3 and $28.9 million, respectively. For the period July 20, 2011 through
+           December 31, 2011 (the “Successor 2011 Period”), the Asia Pacific reportable segment had net
+           sales of $75.2 million and operating income of $8.5 million. For the period January 1, 2011
+           through July 19, 2011 (the “Predecessor 2011 Period”), the Asia Pacific reportable segment had
+           net sales of $80.2 million and operating income of $13.2 million. Total assets for the Asia Pacific
+           reportable segment were $306.2 and $291.8 million as of December 31, 2013 and 2012,
+           respectively.
+           Europe
+
+
+                                                             Dynacast: Solid, Middle Market LBO | Page 8
+                                                                                     BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Our Europe segment operates eight manufacturing facilities in Austria, France, Germany,
+           Italy, Slovenia, Spain and the United Kingdom. For the years ended December 31, 2013 and
+           2012, the Europe reportable segment’s net sales were $184.3 and $170.6 million and operating
+           income was $22.7 and $21.9 million, respectively. For the Successor 2011 Period, the Europe
+           reportable segment had net sales of $78.3 million and operating income of $13.4 million. For
+           the Predecessor 2011 Period, the Europe reportable segment had net sales of $110.8 million
+           and operating income of $22.6 million. Total assets for the Europe reportable segment were
+           $422.8 and $414.1 million as of December 31, 2013 and 2012, respectively.
+           North America
+           Our North America segment operates six manufacturing facilities in Canada, Mexico and the
+           United States. For the years ended December 31, 2013 and 2012, the North America reportable
+           segment’s net sales were $159.7 and $142.5 million and operating income was $26.1 and $23.1
+           million, respectively. For the Successor 2011 Period, the North America reportable segment
+           had net sales of $58.3 million and operating income of $8.7 million (as recast, as discussed in
+           more detail in Note 2 to the audited consolidated and combined financial statements contained
+           under Item 8 of Part II in this Form 10-K). For the Predecessor 2011 Period, the North American
+           reportable segment had net sales of $75.9 million and operating income of $8.9 million. Total
+           assets for North America were $206.8 and $192.1 million (as recast) as of December 31, 2013
+           and 2012, respectively.
+           Our facilities position us to meet the growing demands of large multinational corporate
+           customers. We are focused on aligning our manufacturing sites and production capacity with
+           our customer base to help increase revenue and improve response time to customer demand.
+           Recently, we expanded our presence in Batam, Indonesia (2013); Cuautitlan Izcalli, Mexico
+           (2013); Dongguan, China (2013); Elgin, Illinois (2013); Lake Forest, California (2012); Shanghai,
+           China (2012); Weiner Nuestadt, Austria (2012); and Melaka, Malaysia (2011). See “Properties”
+           under Item 2 of Part I of this Form 10-K.
+           We derive a large portion of our revenue from each of the regions in which we operate. This
+           global footprint allows us to transfer capacity within and between regions as needed. Most of
+           our facilities provide both multi-slide and conventional die casting as well as a wide range of
+           value added services (e.g., polishing, coating) and secondary operations (e.g., computer
+           numerical controlled (“CNC”) machining, tapping, tumbling).
+           Presence in Asia
+           We have had a presence in Asia since 1979 when we opened our first facility in Singapore.
+           Since then we have invested significantly in Asia and developed high quality manufacturing
+           facilities which enable us to produce components with the same precision and tolerance
+           requirements as in our European and North American manufacturing facilities. Through our
+           existing facilities in China, India, Indonesia, Malaysia, Singapore and South Korea, we believe
+           that Dynacast has developed the largest network of precision die casting facilities in the Asia
+           region.
+
+
+
+            Page 9 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Growth in Asia, particularly in China, has been in direct response to customer demands,
+           particularly from established multinational corporations (“MNCs”) in the region. We see
+           opportunity to replicate the success of our Shanghai facility in more regions in China.
+           International Business Development Group
+           The International Business Development Group (the “IBD Group”) was established in early
+           2010 and includes five dedicated global sales managers, each having a sales target with global
+           multinational accounts. Each IBD Group manager is charged with building a portfolio of
+           business that generates at least $15.0 million per year in revenue. Revenue from target
+           accounts frequently exceeds $500,000 annually.
+           The IBD Group is responsible for:
+              •   Organizing global account teams who provide direct service and continuity to MNCs;
+              •   Capturing MNC accounts seeking to discuss concepts and commercial terms in one
+                  region while manufacturing in our lower-cost facilities around the world; and
+               • Coordinating with local plant General Managers to maintain current information on
+                  local trends.
+           We also use our global network of facilities to win business from locally-based customers. If
+           one of our facilities is operating near capacity and cannot provide a customer with a
+           competitive price, quotes can be internally re-bid to our facilities with spare capacity. This
+           allows us to offer the most competitive price to our customers and avoid losing business to
+           competitors.
+           The IBD Group has already made significant progress capturing global accounts, highlighting
+           the importance and the growth potential of the IBD Group’s work.
+           We actively target MNCs and currently have more than 50 accounts that are either current IBD
+           customers or prospective IBD customers at December 31, 2013. Management expects
+           continued strong performance from the IBD Group as the managers further develop their
+           customer relationships and grow their coverage network.
+           Focus on Small-Sized Die Cast Components
+           We built and developed our proprietary technology and tooling capabilities with a focus on
+           small die cast components. This accumulated knowledge has resulted in an established and
+           leading position for us in our market with better quality machines, higher product quality, and
+           extensive design and engineering skills. We have the ability to produce more complex parts
+           with our proprietary multi-slide die casting than our competitors at a lower cost.
+           Proprietary Multi-Slide Technology
+           Our proprietary multi-slide technology was introduced in 1936 and we continually improve
+           this technology. Our multi-slide machines are currently developed and manufactured in our
+           German facility. In order to protect our technology, a strategic decision was made in 1968 to
+           discontinue selling our machines externally, thus keeping technological innovations out of the
+           public domain. In 2007 we acquired the Techmire technology from which we sell a small
+
+
+                                                          Dynacast: Solid, Middle Market LBO | Page 10
+                                                                                  BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           number of machines annually to only original equipment manufacturers and existing
+           Techmire customers.
+           While our proprietary multi-slide technology is unpatented, we believe it would be
+           challenging for anyone to replicate it, as the technology has been built on decades of
+           experience. We do have certain patents on our Techmire technology.
+           We have developed multi-slide die casting machines that allow us to:
+              •   manufacture more complex components than would otherwise be possible through
+                  conventional die casting or alternative manufacturing methods;
+               • combine components, thereby reducing secondary machining and eliminating
+                  assembly operations;
+               • reduce secondary machining and scrap that does not have excess metal, which reduces
+                  costly secondary machining; and
+               • replicate tight tolerances to standards at high volumes without costly additional
+                  operations due to high quality tooling, precision construction and relatively low wear-
+                  and-tear.
+           We have established a seamless manufacturing approach by integrating our proprietary
+           multi-slide technology and our in-house tooling capabilities. This integrated approach allows
+           us to produce components at a higher quality standard and create a natural barrier against
+           technology transfer and customer exit. In-house machine development lowers our total capital
+           expenditure spending as we incur only costs of machine components and assembly form.
+           Conventional Die Casting
+           In addition to our proprietary multi-slide die casting process, we also have expertise in
+           conventional die casting methods. We use our advanced computer-aided engineering
+           capabilities and expertise related to multi-slide die casting to differentiate ourselves from
+           competitors in the conventional die casting market. Since we operate smaller tonnage
+           machines, we avoid greater levels of competition and pricing pressure associated with
+           conventional die casting in the large component sector.
+           Die Casting Capabilities in Zinc, Aluminum and Magnesium
+           We manufacture more than one billion small-sized die cast components per year. We have the
+           capability to die cast components in zinc, aluminum and magnesium. We derived
+           approximately 39.1% of our 2013 revenue from zinc components utilizing multi-slide
+           technology and 27.3% utilizing conventional zinc die casting. Aluminum castings accounted
+           for approximately 19.8% of our revenues in 2013. In 2012, in response to customer demand we
+           began aluminum die casting at our manufacturing facility in Austria to capture the European
+           market, which accounted for $6.0 million in sales in 2013. Magnesium castings accounted for
+           approximately 1.8% of our revenues in 2013. We believe the primary opportunity for growth
+           in magnesium is in precision die casting of consumer electronics parts, primarily in Asia.
+           Metal Injection Molding
+
+
+
+            Page 11 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           In 2013 we introduced MIM into our product line at our manufacturing facilities in Elgin,
+           Illinois and Singapore/Indonesia. Our Indonesia facility will provide ancillary services to
+           Singapore’s MIM operation. MIM is a metallurgic fabrication process that allows complex
+           parts to be produced in stainless steel, titanium and other specialized alloys for applications
+           where enhanced fatigue and corrosion resistance is required. MIM is complementary to our
+           proprietary multi-slide and conventional die casting processes in zinc, aluminum and
+           magnesium and is similarly cost-effective for small, intricate, high volume products.
+           Customer Base
+           Our top 10 customers accounted for approximately 36.4% of 2013 net sales. Our largest
+           customer accounted for approximately $46.4 million, or 8.0%, of net sales for the year ended
+           December 31, 2013. Sales to the automotive safety and electronics, consumer electronics,
+           telecommunications and healthcare end markets represented 38.2%, 20.6%, 7.6% and 7.3%,
+           respectively, of our 2013 revenues. Sales to the hardware, computer and peripherals and
+           tooling end markets accounted for 17.8% of our 2013 net sales.
+           Flexible and Cost Efficient Business Model
+           Our business model provides us with operational flexibility, sharing best practices and quality
+           performance among our facilities. In addition to a quick time to market response, the seamless
+           integration of our multi-slide machines and associated tooling allows for minimal set-up time
+           for tooling changes (between 30 and 45 minutes). Through reduced set-up times, we respond
+           promptly and efficiently to increases in demand, which in turn allows us to benefit from
+           increases in customer activity. In addition, through just-in-time manufacturing processes, we
+           maintain a low level of inventory (with an average inventory turnover over the last three fiscal
+           years of approximately 36 days).
+           Well-Invested Business with Low Capital Requirements
+           We align our production capacity with the needs of our customer base. During the year ended
+           December 31, 2013, we invested a significant portion of the approximately $39.7 million in total
+           capital expenditures on new facilities and machinery in order to be strategically situated to
+           capture higher sales volumes. Notably, we require little infrastructure spending, with a
+           majority of our expansion capital expenditures focused on adding new production equipment.
+           For fiscal year 2014, we have budgeted approximately $29.2 million in capital expenditures of
+           which $2.4 million is attributable to MIM.
+           Organizational Structure; Workforce
+           Our organizational structure is built around local facilities led by General Managers who are
+           highly motivated and focused on delivering a set business plan. The average tenure of our
+           General Managers is approximately 15 years.
+           We operate under a highly decentralized organizational structure with each of the General
+           Managers in our North America reportable segment reporting directly to our Chief Executive
+           Officer, while the General Managers in our Asia Pacific and Europe reportable segments report
+           directly to the respective Executive Vice-President for each region. Senior management
+
+                                                           Dynacast: Solid, Middle Market LBO | Page 12
+                                                                                   BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           provides critical centralized sales and marketing coordinating functions, analyzes key
+           performance indicators and reviews and implements best practices and financial controls.
+           We have been able to promote the General Managers of our facilities internally. For example,
+           most facilities in the Asia Pacific region are led by managers previously at Dynacast Singapore.
+           These managers transferred manufacturing standards developed in the Singapore facility to
+           the new Asian plants, establishing similar organizational structures and operations.
+           Employees
+           As of December 31, 2013, we had approximately 5,510 employees worldwide, some of whom
+           are covered by collective bargaining agreements or are located in countries which have
+           collective arrangements decreed by statute.
+           In-House Tooling Expertise
+           We believe we are one of the few die cast component manufacturers that has full in-house
+           tooling design and build capabilities. We have the ability to build tooling in all of our facilities
+           and maintain a dedicated tooling facility in Germantown, Wisconsin that can supply tooling
+           to our plants globally.
+           Suppliers
+           We have excellent working relationships with a limited number of suppliers of metal alloys
+           and providers of finishing services. This past year, we purchased over 49,000 tons of metal
+           alloys from locally-based suppliers in the proximity of each of our manufacturing facilities,
+           reducing transportation costs. Given the volume of purchasing, we enjoy benefits of scale
+           securing certain volume purchase discounts from our vendors, and have significantly more
+           leverage than our smaller competitors.
+           Each of our manufacturing facilities has a network of local partners that work very closely
+           with us to deliver additional value-added services for manufactured components. Through
+           these local partnerships, we can provide a greater breadth of service to our customers.
+           Competition
+           Our competition is generally fragmented. We compete principally with companies providing
+           similar services on a regional and local level and to some extent with those customers with in-
+           house manufacturing capabilities. We face different competitors in each country or region
+           where they may have a greater operational presence. Competitive factors include price,
+           service, geographic coverage and overall performance (e.g. timeliness, accuracy and
+           flexibility). We believe that our principal competitive advantages include an approach
+           reflecting long-term business partnership and reliability, innovative specialized solutions,
+           ability to provide a full range of solutions on a global basis, product quality and conformity to
+           customer specifications, design and engineering capabilities, product development, timeliness
+           of delivery and price.
+           Backlog
+
+
+
+            Page 13 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           A significant proportion of our customers are not contractually obligated to purchase products
+           and services from us, and place purchase orders as needed to fulfill their anticipated product
+           demand schedules. Our products are highly specialized and specific to each customer’s
+           individual requirements, so we do not attempt to anticipate customer demand and do not
+           commence manufacturing products until we receive a purchase order from the customer. In
+           addition, our larger customers operate under a “just-in-time” delivery system, whereby
+           purchase orders are not placed until the customer is confident that our products are required.
+           Accordingly, the value of unshipped orders is not material.
+           Seasonality
+           Certain of our manufacturing facilities have seasonal fluctuations. Sales in the European
+           region are generally weaker in the third quarter as many of our European customers and our
+           manufacturing facilities themselves are closed for several weeks for the summer holiday.
+           Likewise, sales in the Asia Pacific region are generally stronger in the consumer electronics
+           end market during the third and fourth quarters as our customers prepare for the holiday
+           season.
+           Working Capital
+           We manufacture products to customer specifications that usually must be readily available to
+           meet our customers’ rapid delivery requirements. Therefore, we maintain an adequate level
+           of working capital to support our business needs and our customers’ requirements. Such
+           working capital requirements are not, however, in the opinion of management, materially
+           different from those experienced by our competitors. We believe our sales and payment terms
+           are competitive in and appropriate for the regions in which we compete.
+           Environmental Health & Safety
+           Our operations are subject to environmental and health and safety laws and regulations which
+           govern the discharge of pollutants into the air and water, as well as the handling and disposal
+           of solid and hazardous wastes. We believe that our operations are currently in substantial
+           compliance with applicable environmental laws and regulations and that the costs of
+           continuing compliance will not have a material effect on our financial condition or results of
+           operations. See also “Risk Factors—We are subject to various environmental, health and safety
+           laws and regulations and have related compliance expenditures and liabilities which may
+           result in significant costs.”
+           Patents and Other Proprietary Rights
+           Most of the technology used in our business is unpatented, but is protected by trade secrets
+           and nondisclosure and confidentiality agreements. Our name recognition is a valuable asset
+           that we protect with trademark registrations and applications, and registered domain names
+           worldwide. We are not currently engaged in any intellectual property litigation, nor are there
+           any intellectual property claims pending either by or against us.
+           Source: Company 10-K
+
+
+
+                                                          Dynacast: Solid, Middle Market LBO | Page 14
+                                                                                  BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 3
+           Consolidated Income Statements, Unaudited
+           (IN MILLIONS OF DOLLARS)
+
+                                                     September 30,       September 30,     September 30,        September 30,
+                                                         2014                2013              2014                 2013
+            Net sales                                      $ 157.0             $ 146.0           $ 465.5              $ 428.8
+            Costs of goods sold                             (117.6)             (110.9)           (354.1)              (324.1)
+              Gross margin                                     39.4                35.1             111.4                104.7
+            Operating expenses:
+              Selling, general and
+                                                                (18.0)            (16.4)            (52.9)               (50.2)
+              administrative expense
+                 Total operating expenses                       (18.0)            (16.4)            (52.9)               (50.2)
+                 Operating income                                 21.4              18.7              58.5                 54.5
+            Other income (expense):
+              Interest expense                                  (11.6)            (11.9)            (34.5)               (36.4)
+              Other expense, net                                 (0.2)             (0.3)             (2.8)                (4.5)
+                 Income before income taxes                        9.6               6.5              21.2                 13.6
+            Income tax expense                                   (1.1)             (3.4)             (8.4)               (10.6)
+            Net income                                             8.5               3.1              12.8                  3.0
+            Less: net income attributable to
+                                                                 (0.1)             (0.1)             (0.3)                (0.2)
+            non-controlling interests
+            Net income attributable to
+                                                               $ 8.4             $ 3.0            $ 12.5                $ 2.8
+            controlling stockholders
+
+           FOR THE YEAR ENDED
+           (IN MILLIONS OF DOLLARS)
+                                                                             December 31,        December 31,
+                                                                                 2013                2012
+            Net sales                                                               $ 580.0             $ 519.4
+            Costs of goods sold                                                       (441.7)             (398.0)
+              Gross margin                                                              138.3               121.4
+            Operating expenses:
+              Selling, general and administrative expense                              (68.9)                 (62.1)
+              Transaction costs                                                             -                  (0.6)
+              Restructuring expense                                                         -                  (0.5)
+                  Total operating expenses                                             (68.9)                 (63.2)
+                  Operating income                                                       69.4                   58.2
+            Other income (expense):
+              Interest expense                                                         (47.9)                 (48.7)
+              Other (expense) income                                                    (5.7)                  (3.2)
+                  Income before income taxes                                             15.8                    6.3
+            Income tax expense                                                         (14.6)                  (6.9)
+            Net income                                                                    1.2                  (0.6)
+            Less: net income attributable to non-controlling interests                  (0.4)                  (0.3)
+            Less: Series A preferred stock dividends and accretion                          -                  (0.2)
+            Net income attributable to controlling stockholders                        $ 0.8                 $ (1.1)
+
+           Source: Company 10-K
+
+
+
+
+            Page 15 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 4
+           Consolidated Balance Sheet, Unaudited (as of 09/30/14)
+           (IN MILLIONS OF DOLLARS)
+                                                                            September 30,      December 31,
+                                                                                2014               2013
+            Assets
+            Current assets
+                Cash and cash equivalents                                          $ 40.3             $ 36.8
+                Accounts receivable, net                                            108.0               97.0
+                Inventory, net                                                       49.7               45.0
+                Prepaids and other assets                                            18.0               15.2
+                Deferred income taxes                                                 5.9                4.9
+                  Total current assets                                              221.9              198.9
+            Property and equipment, net                                             153.3              148.7
+            Intangible assets, net                                                  240.8              249.0
+            Goodwill                                                                264.4              246.7
+            Deferred financing costs, net                                            13.4               15.7
+            Deferred income taxes                                                     4.3                5.1
+            Other assets                                                              4.3                4.6
+                  Total assets                                                    $ 902.4            $ 868.7
+            Liabilities and Equity
+            Current liabilities
+                Accounts payable                                                   $ 65.6              $67.7
+                Income taxes payable                                                  6.2                5.8
+                Accrued expenses and other liabilities                               54.0               53.4
+                Accrued interest                                                      6.9               15.0
+                Deferred revenue                                                     12.4               12.2
+                Current portion of accrued pension and retirement                     0.7                0.8
+                benefit obligations
+                Current portion of long-term debt                                     19.5               5.6
+                Deferred income taxes                                                  0.6               0.4
+                  Total current liabilities                                          165.9             160.9
+            Accrued interest and dividends                                            17.9              17.9
+            Accrued pension and retirement benefit obligations                        21.1              22.5
+            Long-term debt, net                                                      413.5             384.7
+            Mandatorily redeemable preferred stock                                    53.0              53.0
+            Warrants                                                                  21.7              15.6
+            Deferred income taxes                                                     67.9              68.9
+            Other liabilities                                                         15.0               9.7
+                  Total liabilities                                                  776.0             733.2
+            Puttable common stock                                                      1.5               1.5
+            Equity
+                Common stock                                                           0.2                0.2
+                Additional paid-in capital                                          167.5              167.5
+                Accumulated foreign currency translation adjustment, net            (32.0)             (10.5)
+                Unrealized loss on cash flow hedges, net                             (0.5)              (0.2)
+                Cumulative unrealized pension loss, net                              (2.2)              (2.3)
+                Accumulated deficit                                                 (12.3)             (24.8)
+                  Total equity attributable to controlling stockholders             120.7              129.9
+            Non-controlling interests                                                  4.2                4.1
+                Total equity                                                        124.9              134.0
+                Total liabilities and equity                                      $ 902.4            $ 868.7
+
+           Source: Company 10-K
+
+
+
+
+                                                                   Dynacast: Solid, Middle Market LBO | Page 16
+                                                                                            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 5
+           Consolidated Statements of Cash Flows, Unaudited
+           (IN MILLIONS OF DOLLARS)
+                                                                                  Nine Months Ended
+                                                                            September 30,    September 30,
+                                                                                2014             2013
+            Cash flows from operating activities
+            Net income                                                             $ 12.8            $ 3.0
+            Adjustments to reconcile net income to cash provided by
+               operating activities:
+               Depreciation and amortization                                         29.4              25.5
+               Amortization of deferred financing costs                                3.0               3.7
+               Deferred income taxes                                                 (6.4)             (2.2)
+               Change in fair value of warrants                                        6.1               4.8
+               Accrued dividends on mandatorily redeemable preferred                   5.3               6.2
+               stock
+               Gain on insurance receivable                                          (2.3)                -
+               Other                                                                 (0.6)              0.3
+            Changes in operating assets and liabilities:
+               Accounts receivable                                                   (8.7)           (10.3)
+               Inventory                                                             (0.9)            (1.4)
+               Prepaids and other assets                                               1.7            (1.9)
+               Accounts payable                                                      (0.6)            (7.7)
+               Income taxes payable                                                    4.6              2.8
+               Accrued expenses                                                        5.7             10.3
+               Accrued interest and dividends                                        (8.1)            (8.1)
+               Other                                                                 (4.6)              6.6
+                  Net cash flows provided by operating activities                    36.4              31.6
+            Cash flows from investing activities
+            Business acquisition                                                    (45.1)                -
+            Capital expenditures                                                    (22.9)           (26.8)
+            Settlement of derivative contracts                                       (0.4)                0
+                  Cash flows used in investing activities                           (68.4)           (26.7)
+            Cash flows from financing activities
+            Proceeds from term loan                                                  45.0                  -
+            Draws on revolver                                                            -               9.0
+            Repayments on revolver                                                       -             (9.0)
+            Draw on line of credit facility                                            4.8               2.4
+            Repayment on line of credit facility                                     (4.8)             (2.4)
+            Proceeds from ERP loan                                                       -               5.8
+            Debt issuance costs                                                      (0.8)             (0.6)
+            Dividends paid to non-controlling interests                              (0.1)             (0.1)
+            Dividends paid to holders of mandatorily redeemable preferred            (5.3)                 -
+            stock
+            Repayments on long-term debt                                             (1.9)             (8.1)
+                  Net cash flows used in financing activities                        36.9              (3.0)
+            Effect of exchange rate changes on cash and cash equivalents             (1.4)             (0.1)
+                  Net change in cash and cash equivalents                              3.5               1.8
+            Cash and cash equivalents
+            Beginning of period                                                      36.8             28.0
+            End of period                                                          $ 40.3           $ 29.8
+
+
+
+
+            Page 17 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 5 (continued)
+           (IN MILLIONS OF DOLLARS)
+                                                                                     For the Year ended
+                                                                              December 31, 2013 December 31, 2012
+           Cash flows from operating activities
+           Net income (loss)                                                  $              1.2 $            (0.6)
+           Adjustments to reconcile net income (loss) to net cash provided by
+             operating activities:
+              Depreciation and amortization                                                 34.7              32.6
+              Amortization of deferred financing costs                                       4.6               3.6
+              Change in fair value of derivatives                                            0.1              (0.3)
+              Deferred income taxes                                                         (2.2)             (4.6)
+              Change in fair value of warrants                                               6.1               3.4
+              Beneficial conversion value of Series A preferred stock                        —                 0.9
+              Accrued dividends on mandatorily redeemable preferred stock                    8.0               8.5
+              Other                                                                          1.7               0.6
+           Changes in operating assets and liabilities:
+              Accounts receivable                                                           (8.7)            (20.0)
+              Inventory                                                                     (8.0)             (3.4)
+              Prepaid and other assets                                                      (4.3)             (1.4)
+              Accounts payable                                                               5.1              14.0
+              Income taxes payable                                                           4.7               0.4
+              Accrued expenses                                                               4.3               0.3
+              Other                                                                          6.0              (1.6)
+
+                 Net cash flows provided by operating activities                         53.3                 32.4
+           Cash flows from investing activities
+           Capital expenditures                                                         (39.7)               (22.0)
+           Settlements of derivative contracts                                            0.1                  1.6
+
+                Net cash flows used in investing activities                             (39.6)               (20.4)
+
+           Cash flows from financing activities
+           Draws on revolver                                                              9.0                 24.5
+           Repayments on revolver                                                        (9.0)               (24.5)
+           Draws on credit facility                                                       4.9                  —
+           Repayments on credit facility                                                 (4.9)                 —
+           Proceeds from ERP loan                                                         5.8                  —
+           Debt issuance costs                                                           (0.6)                (1.2)
+           Dividends paid to non-controlling interests                                   (0.2)                (0.3)
+           Repayments on long-term debt                                                  (8.1)                (5.0)
+           Dividends paid to holders of mandatorily redeemable preferred stock           (1.8)                 —
+
+                Net cash flows used in financing activities                              (4.9)                (6.5)
+
+           Effect of exchange rate changes on cash and cash equivalents                   —                    1.4
+                 Net change in cash and cash equivalents                                  8.8                  6.9
+
+           Cash and cash equivalents
+           Beginning of year/period                                                      28.0                 21.1
+
+           End of year/period                                                    $       36.8     $           28.0
+
+
+           Source: Company 10-K
+
+
+
+
+                                                                   Dynacast: Solid, Middle Market LBO | Page 18
+                                                                                         BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 6
+           Consolidated EBITDA Reconciliations
+           (IN MILLIONS OF DOLLARS)
+                                                       North                                                       North
+                                Europe     Asia       America     Corporate        Total     Europe      Asia     America    Corporate      Total
+            Sales                $154.4    $181.4       $129.7      $      --     $465.5      $138.3    $169.1     $121.4      $      --   $428.8
+            Net income           $ 19.4    $ 23.5       $ 3.9       $ (34.0)      $ 12.8      $ 16.6    $ 20.6     $ 5.7       $ (39.9)    $ 3.0
+             Income taxes           5.8       5.8         17.2        (20.4)         8.4         2.8       5.0       16.6        (13.8)      10.6
+             Interest expense       1.0       0.1          0.1          33.3        34.5         1.3       0.1          --         35.0      36.4
+             Other (exp.)
+                                  (5.1)      (0.2)          --           8.1         2.8       (2.9)      (0.1)         --          7.5       4.5
+             income
+            Oper. Income           21.1      29.2         21.2        (13.0)        58.5        17.8      25.6        22.3        (11.2)     54.5
+             Depreciation &
+                                   11.4      10.8          7.1           0.1        29.4        10.1       9.5         5.8          0.1      25.5
+             amortization
+            EBITDA                 32.5      40.0         28.3        (12.9)        87.9        27.9      35.1        28.1        (11.1)     80.0
+             Non-controlling
+             interests in            --      (0.9)          --             --       (0.9)      (0.1)      (0.6)         --            --     (0.7)
+             EBITDA
+             Management
+                                     --         --          --           1.9         1.9           --        --         --          1.9       1.9
+             fees
+             Transaction
+                                     --         --          --           1.4         1.4           --        --      (0.9)            --     (0.9)
+             costs
+            Adj. EBITDA         $ 32.5     $ 39.1      $ 28.3        $ (9.6)      $ 90.3     $ 27.8     $ 34.5     $ 27.2       $ (9.2)    $ 80.3
+
+                                                                                 For the Year Ended
+                                                 December 31, 2013                                            December 31, 2012
+                                            Asia     North                                                        North
+                                Europe     Pacific  America     Corporate           Total    Europe      Asia    America Corporate          Total
+            Net sales            $184.3    $236.0     $159.7           $ --        $580.0     $170.6    $206.3    $142.5            $ --   $519.4
+            Net income            $19.8     $30.8      $23.9      $ (73.3)           $1.2      $18.5     $25.5     $21.6       $ (66.2)     $(0.6)
+             Income taxes           5.0        5.2       2.2           2.2           14.6        4.5       3.2        1.6         (2.4)        6.9
+             Interest expense       1.7        0.2         --         46.0           47.9        1.7       0.2          --         50.2      52.1
+             Other (exp.)
+                                   (3.8)     (0.3)           --           9.8         5.7       (3.5)     (0.1)      (0.3)          3.7      (0.2)
+             income
+            Oper. Income           22.7       35.9        26.1         (15.3)        69.4       21.2      28.8        22.9        (14.7)     58.2
+             Depreciation &
+                                   13.8       12.9         7.9            0.1        34.7       12.5      12.8         7.1          0.2      32.6
+             amortization
+            EBITDA                 36.5       48.8        34.0         (15.2)       104.1       33.7      41.6        30.0        (14.5)     90.8
+             Non-controlling
+             interests in
+             EBITDA                (0.1)     (1.0)           --             --       (1.1)      (0.1)     (0.8)         --            --     (0.9)
+             Management
+             fees                     --         --          --           2.5         2.5          --        --         --          2.5       2.5
+             Impact of change
+             in accounting
+             principle as
+             applied to prior
+             periods                  --         --       (0.9)             --       (0.9)         --        --         --            --        --
+             Restruct. Sever.         --         --          --             --          --       0.5         --         --            --      0.5
+             Transaction
+             costs                    --        --           --            --           --       0.4         --         --           0.2      0.6
+            Adj. EBIDTA           $36.4     $47.8        $33.1        $(12.7)      $104.6      $34.5     $40.8      $30.0        $(11.8)    $93.5
+
+
+
+           Source: Company 10-K.
+
+
+
+
+            Page 19 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 7
+           Enterprise Value Football Field (as of 11/19/14)
+
+
+
+
+                        LBO Analysis       $942                 $1,128
+
+
+                 Trading Comparables                   $1,142                           $1,489
+
+
+
+
+                                    $800          $1,000        $1,200         $1,400      $1,600
+                                                      Equity Value ($ in millions)
+
+
+
+
+           Source: Partners Group
+
+
+
+
+                                                           Dynacast: Solid, Middle Market LBO | Page 20
+                                                                                   BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+            Exhibit 8
+            Trading Comps (as of 11/19/14)
+                                                                                                             Market    T12M EV /    T12M    Est curr yr   Next-yr   T12M
+                                                                       Stock Price     52-wk     52-wk        cap.      EBITDA       P/E       P/E         P/E       P/S   P/B
+              #    Ticker            Name             Country          (Issue curr.)    low       high      (USD m)       (x)        (x)        (x)         (x)      (x)   (x)
+              1    PCP US            Precision Castpt  United States          232.5     215.1      275.1      33,143         11.8    18.4       17.0       14.8      3.4    2.8
+              2    LEG US            Leggett & Platt   United States           41.0       28.8       41.5      5,648         19.6    24.8       22.6       19.8      1.5    4.6
+              3    TKR US            Timken Co         United States           42.7       36.0       50.0      3,786          9.2    17.9       16.9       13.6      1.0    2.3
+              4    KMT US            Kennametal Inc    United States           40.1       37.4       52.4      3,175         10.1    17.4       14.2       12.3      1.1    1.7
+              5    B US              Barnes Group Inc  United States           36.8       29.5       40.9      2,004         10.0    16.4       15.8       14.7      1.6    1.7
+              6    ROLL US           Rbc Bearings Inc  United States           62.8       50.0       69.0      1,467         13.3    23.0       27.1       18.9      3.3    2.9
+              7    TRS US            Trimas Corp       United States           31.7       23.7       40.6      1,436         10.0    17.0       16.6       13.8      1.0    2.4
+              8    KALU US           Kaiser Aluminum   United States           73.0       65.6       81.6      1,299          7.5    16.0       21.4       16.2      1.0    1.2
+              9    RTI US            Rti Intl Metals   United States           24.0       21.7       36.1        736         10.2    37.7       23.7       16.2      0.9    0.9
+                   METAL & DIE CASTING MEDIAN                                                                  2,004         10.1    17.9       17.0       14.8      1.1    2.3
+                   METAL & DIE CASTING AVERAGE                                                                 5,855         11.3    21.0       18.9       15.6      1.6    2.3
+              10   IEX US            Idex Corp         United States           76.6      65.9       81.8       6,080         12.4    21.9       21.6       19.7      2.9    3.8
+              11   CSL US            Carlisle Cos Inc  United States           90.7      71.5       90.9       5,817         11.3    23.9       22.4       18.5      1.8    2.7
+              12   CR US             Crane Co          United States           61.1      55.0       77.0       3,601         10.9    16.9       13.7       12.5      1.2    2.9
+              13   ATU US            Actuant Corp-A    United States           31.0      28.5       39.3       2,011          9.2    16.2       14.8       12.8      1.6    2.0
+              14   MEI US            Methode Elec      United States           38.3      23.1       41.9       1,463         12.3    14.3       17.7       15.3      1.8    3.5
+              15   GB US             Greatbatch Inc    United States           49.0      38.0       51.6       1,225         12.5    20.3       20.7       18.8      1.7    2.0
+              16   SMA US            Symmetry Medical  United States            9.4       7.8       11.1         354         13.6    62.2       17.3       14.6      0.9    1.3
+                   SPECIALTY MANUFACTURING MEDIAN                                                              2,011         12.3    20.3       17.7       15.3      1.7    2.7
+                   SPECIALTY MANUFACTURING AVERAGE                                                             2,936         11.7    25.1       18.3       16.1      1.7    2.6
+
+                   TOTAL MEDIAN                                                                                2,007        11.1     18.2      17.5        15.1      1.5    2.4
+                   TOTAL AVERAGE                                                                               4,578        11.5     22.8      18.6        15.8      1.7    2.4
+
+            Source: Partners Group
+
+
+
+
+                                Page 21 | Dynacast: Solid, Middle Market LBO
+                                BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 9
+           Directors and Executive Officers
+           The following table sets forth our executive officers and directors. The respective age of each
+           individual in the table below is as of January 1, 2014:
+
+
+                     Name               Age                              Position
+
+           Simon J. Newman               51           President, Chief Executive Officer and Director
+           Adrian Murphy                 53           Secretary, Treasurer and Chief Financial Officer
+           David Angell                  42                   Executive Vice President - Asia
+           Josef Ungerhofer              50                 Executive Vice President - Europe
+           Thomas Fort                   33                               Director
+           Jeffrey L. Kenner             70                         Director (Chairman)
+           Stephen E. Paul               46                               Director
+           Larry T. Solari               71                               Director
+           Stephen Wertheimer            63                               Director
+
+
+           Each of the persons listed above has been a member of the Board of Directors or an executive
+           officer of Dynacast since the closing of the Transactions on July 19, 2011, except for Mr. Kenner,
+           who has been a director of Dynacast since its incorporation on May 11, 2011 and
+           Mr. Ungerhofer who has been an executive officer of Dynacast since January 1, 2013.
+           With respect to our non-employee directors, Messrs. Kenner and Solari are affiliates of Kenner,
+           Mr. Wertheimer is an affiliate of W Capital Partners, Mr. Fort is a partner of Izurium Capital
+           Advisers Europe LLP and Mr. Paul is a principal of Laurel Crown Partners, LLC. Each of these
+           individuals was elected as a director pursuant to a security holders’ agreement. See “Certain
+           Relationships and Related Party Transactions.”
+           The principal occupations and positions for at least the past five years of the directors and
+           executive officers named above are as follows:
+           Simon J. Newman
+           Simon J. Newman is a Director, and the President and Chief Executive Officer of Dynacast.
+           Prior to the Transactions, he was the Chief Executive Officer of the Dynacast business of
+           Melrose, a position he held since 2002. Mr. Newman joined Dynacast in 1979 and has served
+           in a number of capacities, spending time in all areas of the business, including, Finance,
+           Quality, Engineering, Customer Service, Manufacturing and Sales. After successfully
+           managing and building a new facility in California he was promoted to the position of VP
+           Operations for the SPM group, a plastics company acquired by Dynacast. He spent two years
+           in this role before becoming the President of Dynacast North America, a position he held
+           before becoming the CEO in 2002. Mr. Newman studied Mechanical Engineering in England
+           and after relocating to the United States in 1991, he continued his studies and graduated with
+           a BS degree in Operations Management.
+
+
+
+                                                            Dynacast: Solid, Middle Market LBO | Page 22
+                                                                                     BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Adrian Murphy
+           Adrian Murphy is the Secretary, Treasurer and Chief Financial Officer of Dynacast. Prior to
+           the Transactions, he was the Executive Vice President and Chief Financial Officer of the
+           Dynacast business of Melrose, a position he held since 2005. Mr. Murphy initially joined
+           Dynacast in 1990 to lead a reorganization project in New York and was subsequently
+           appointed as the Group Financial Controller in Dynacast’s head office in England. Following
+           Dynacast’s acquisition of the SPM group, a plastics company, Mr. Murphy relocated to
+           California where he held the position of Vice President of Finance in the new SPM division.
+           Mr. Murphy left Dynacast in 1997 and prior to re-joining served as the Divisional Chief
+           Financial Officer at Linamar Corporation. Mr. Murphy qualified as a chartered accountant
+           with Price Waterhouse & Co. in Manchester, England and has a Bachelor of Commerce degree
+           from the University of Liverpool.
+
+
+           David J. Angell
+           David Angell is the Executive Vice President—Dynacast Asia Pacific. Mr. Angell has served
+           in this position since 2003. Mr. Angell joined Dynacast in 1993 as a management trainee. He
+           spent two years in this role prior to relocating to the USA where he held various management
+           roles in Sales and Engineering. He was appointed General Manager of Dynacast Lake Forest
+           in 1999. In 2000, Mr. Angell relocated to South Carolina where he was also responsible for the
+           Dynacast facilities in Texas and Mexico. Mr. Angell earned a Master’s degree in Mechanical
+           Engineering from the University of Birmingham.
+
+
+           Josef Ungerhofer
+           Josef Ungerhofer, is the Executive Vice President—Dynacast Europe. Mr. Ungerhofer joined
+           Dynacast in 1989 and during his career at Dynacast Mr. Ungerhofer has held a variety of
+           positions including sales engineer and sales manager, with part time responsibility for
+           engineering prior to being promoted to General Manager of our facility in Austria in 2000. He
+           currently serves as General Manager of our facility in Austria (a position he has held since
+           2000) as well as Executive Vice President – Europe effective January 2013. Prior to joining
+           Dynacast, Mr. Ungerhofer worked as supervisor for Huick, a felt manufacturer for paper
+           machines, and also as a Manager of Tooling and Engineering for NSW, a mass producer of
+           fasteners. Mr. Ungerhofer holds a degree in mechanical engineering (Ing.) and attended the
+           Warwick Business School in London and St. Gallen Management & Business School in
+           Switzerland.
+
+
+           Thomas Fort
+           Thomas Fort is a partner of Izurium Capital Advisers Europe LLP (“Izurium”), a position he
+           has held since 2009. Mr. Fort is focused on the sourcing and execution of European and
+           U.S. deal opportunities. From 2006 to 2009, Mr. Fort was an associate in the London office of
+           Francisco Partners, where he focused notably on the execution of software and hardware
+           transactions in Continental Europe. Prior to Francisco Partners, he worked for J.P. Morgan
+
+
+            Page 23 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Investment Bank in their French & Benelux Financial Institutions Group, where he
+           participated in a number of M&A transactions in the banking sector and was involved in
+           capital raising on behalf of global banking groups. Mr. Fort holds an MSc in Management from
+           HEC Paris and is a graduate from Institut d’Etudes Politiques de Paris (Sciences-Po).
+
+
+           Jeffrey L. Kenner
+           Jeffrey L. Kenner is President of Kenner, a New York-based private equity investment firm.
+           The firm’s principal objective is to acquire ownership positions in private operating companies
+           that need capital for growth or liquidity for current shareholders. Prior to forming Kenner in
+           1986, Mr. Kenner was President of the venture capital affiliate of an investment firm with
+           whom he was employed since 1979. He began his career as a management consultant with
+           Price Waterhouse & Co. He currently serves or has served on the boards of directors of Atrium
+           Companies, Inc., a national window manufacturer, and Pace Industries, Inc., an aluminum die
+           casting company. Mr. Kenner graduated from Lehigh University with degrees in Industrial
+           Engineering and Business Administration. After graduating from Lehigh, he served in the
+           U.S. Marine Corps and then attended Harvard Business School’s Executive Education
+           Program in Financial Management. Mr. Kenner is a member of the Board of Trustees of Reed
+           College in Portland, Oregon and is a Trustee of National Public Radio.
+
+
+           Stephen E. Paul
+           Stephen E. Paul is a Managing Principal of Laurel Crown Partners, LLC (“Laurel”), a private
+           investment company, a position he has held since 2001 and President of The Louis Berkman
+           Investment Company, a position he has held since January 2013. Prior to joining Laurel and
+           The Louis Berkman Company, Mr. Paul was a Vice President of Business Development of
+           eToys, Inc. and an Associate at Donaldson, Lufkin & Jenrette, Inc. Mr. Paul serves on several
+           boards of directors including Ampco-Pittsburgh Corporation, a public company, Pittsburgh
+           Steelers Sports, Inc., Summit Reheis Investor Holdings, LLC and Native Foods Holdings
+           Corporation. Mr. Paul was a director of Morton’s Restaurant Group, a public company, until
+           February 2011. In addition, he is a Trustee of The Loomis Chaffee School. Mr. Paul is a
+           graduate of Cornell University and earned an M.B.A. from Harvard Business School.
+
+
+           Larry T. Solari
+           Larry T. Solari is a partner of Kenner, a position he has held since 2002. Prior to joining Kenner,
+           Mr. Solari was the Chairman and Chief Executive Officer of BSI Holdings, Inc. (“BSI”) from
+           1998 to 2001. Prior to starting BSI, Mr. Solari was the Chairman and Chief Executive Officer of
+           Sequentia, Inc. and President of the Building Materials Group of Domtar, Inc. Mr. Solari was
+           President of the Construction Products Group of Owens-Corning from 1986 to 1994 and held
+           various other positions with Owens-Corning since 1966. Mr. Solari serves on or has served on
+           the boards of directors of Beazer Homes, USA, a public company, Pacific Coast Building
+           Products, Inc., Atrium Companies, Inc., TruStile Doors, LLC, Performance Contracting Group,
+           Pace Industries, Inc. and Cascade Windows (to October 2012). Mr. Solari earned a Bachelor of
+
+
+                                                            Dynacast: Solid, Middle Market LBO | Page 24
+                                                                                     BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Science degree in Industrial Management and a Master of Business Administration degree
+           from San Jose State University and is a graduate of Stanford University’s Management
+           Program.
+
+
+           Stephen Wertheimer
+           Stephen N. Wertheimer is a Managing Director and a founding partner of W Capital Partners
+           (“W Capital”). Prior to the founding of W Capital in 2001, Mr. Wertheimer was the head of
+           Paine Webber’s Asia investment banking division in Tokyo, held senior roles at CRT Capital
+           Group, founded Water Capital Management and was a tax structured international finance
+           specialist at First Chicago and Bank of America. Steve is a member of the International Council
+           of Advisors of The National Geographic Society. Mr. Wertheimer holds a MBA from the
+           Kellogg School of Management at Northwestern University and a BS in Finance from Indiana
+           University. Mr. Wertheimer has served on numerous boards of directors and is currently a
+           director of El Paso Electric, a public company, MooseJaw and World Kitchen.
+
+
+           Source: Company 10-K
+
+
+
+
+            Page 25 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Exhibit 10
+           Risk Factors
+           Various risks and uncertainties could affect our business. The risks and uncertainties described
+           below are not intended to be exhaustive but represent the risks that we believe are material
+           based on current information. If any of the risks described below or elsewhere in this Form 10-
+           K or our other filings with the SEC, or other risks and uncertainties not presently known to us
+           or which we currently deem immaterial, actually occur, our business, financial condition,
+           results of operations, liquidity or access to the capital markets could be materially adversely
+           affected. All forward-looking statements made by us or on our behalf are qualified by the risks
+           described below.
+           Economic conditions could have a material adverse effect on our business, results of
+           operations and liquidity.
+           Our business is impacted by economic conditions in North America, Europe and Asia. The
+           global recession, particularly in Europe, had, and may in the future have, a negative effect on
+           our results of operations and liquidity. Reduced sales in Europe led to restructuring efforts by
+           us in the region. Throughout Europe, despite signs of recovery from the recession, economic
+           uncertainty continues and demand for our products remains unpredictable. Any resulting
+           cost-cutting and further downsizing actions implemented by us also could have a negative
+           economic effect on our suppliers and third party contractors, possibly increasing our costs
+           and/or limiting availability of these sources. In addition, certain fixed costs in Europe could
+           make it difficult to adjust our fixed costs base to the extent necessary, or to make such
+           adjustments on a timely basis, which could impact our profitability. Restructuring programs
+           beyond those already completed could also be required. A significant downturn, whether in
+           Europe or elsewhere, could also result in impairment of our goodwill or other intangible
+           assets, which could be material to our consolidated financial statements.
+           Any inability on our part to borrow or to meet our financial maintenance covenants in our
+           Senior Secured Credit Facilities would affect our financing flexibility and could have a
+           material adverse effect on our business, financial condition and results of operations.
+           The future availability of bank borrowings under the revolving credit facility of the Senior
+           Secured Credit Facilities is based on our ability to meet financial maintenance covenants,
+           which could be materially impacted by negative economic trends. Failure to meet the financial
+           maintenance covenants could materially impact the availability and interest rate of future
+           borrowings.
+           Disruptions, uncertainty or volatility in the credit markets may adversely impact the
+           availability of credit already arranged and the availability and cost of credit in the future.
+           These market conditions may limit our ability to replace, in a timely manner, maturing
+           liabilities and access the capital necessary to grow and maintain our business. Accordingly,
+           we may be forced to delay raising capital or pay unattractive interest rates, which could
+           increase our interest expense, decrease our profitability and significantly reduce our financial
+           flexibility.
+
+                                                           Dynacast: Solid, Middle Market LBO | Page 26
+                                                                                   BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           We generally do not have long-term customer agreements and, to the extent one or more of our
+           sales to particular end markets are impacted by sector downturns in that end market, we will
+           experience reduced sales volumes.
+           The industry in which we compete is generally characterized by specialized, individual orders
+           from customers. A significant portion of our customers are not contractually obligated to
+           purchase products or services from us. Most customer orders are for specific product runs,
+           and repeat business largely depends on our customers’ satisfaction with our products.
+           Although our business does not depend on any one customer, we cannot be sure that any
+           particular customer will continue to do business with us for any period of time. We also
+           depend to some extent on sales to certain end markets; to the extent these end markets
+           experience downturns, our business, financial condition and results of operations may be
+           adversely affected.
+           We are dependent on key customers, the loss of which may adversely affect our business.
+           We rely on several customers. Our top 10 customers accounted for approximately 36.4% of our
+           net sales (inclusive of pass-through metal costs) during the year ended December 31, 2013. Our
+           largest customer accounted for $46.4 million or 8.0%, of net sales for the year ended December
+           31, 2013. Due to competitive pressures and changes in our customers’ programs and program
+           life-cycles, there is always the risk of losing key customers or programs. Customer order
+           volumes are dependent upon their markets and may be subject to delays or cancellations.
+           As a result of dependence on our key customers, we could experience a material adverse effect
+           on our business, financial condition and results of operations if any of the following were to
+           occur:
+              •    the loss of any key customer, in whole or in part;
+              •    the insolvency or bankruptcy of any key customer;
+              •    a declining end market in which customers reduce orders or demand reduced prices;
+                   or
+               • a strike or work stoppage at a key customer facility, which could affect both their
+                   suppliers and customers.
+           If any of our key customers become insolvent or file for bankruptcy, our ability to recover
+           accounts receivable from that customer would be adversely affected and any payments we
+           received in the preference period prior to a bankruptcy filing may be potentially recoverable
+           by the bankruptcy estate of such customer. That scenario, as well as any one or more of the
+           other factors enumerated above, could adversely impact our business, financial condition and
+           results of operations.
+           We operate in a highly competitive industry.
+           The markets in which we sell our products, while generally fragmented, are highly
+           competitive. We believe that our principal competitive advantages include an approach
+           reflecting long-term business partnership and reliability, innovative specialized solutions,
+           product quality and conformity to customer specifications, design and engineering
+           capabilities, product development, timeliness of delivery and price. If we cannot remain at the
+
+            Page 27 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           forefront of these areas in our markets, our ability to remain competitive will be eroded. We
+           will be adversely affected if our competitors develop products that are superior to our
+           products or adapt more quickly than we do to evolving customer requirements.
+           Competitive pressures arise from existing competitors, other companies that may enter our
+           existing or future markets and, in some cases, our customers, which may decide to internally
+           produce items we sell. While competition is generally fragmented, we compete with
+           companies providing similar services on a regional and local basis and to some extent with
+           customers with in-house manufacturing capabilities. We cannot assure you that we will be
+           able to compete successfully with existing or new competitors. Failure to compete successfully
+           could have a material adverse effect on our business, financial condition and results of
+           operations.
+           The loss of key executives could adversely impact our ability to successfully compete globally
+           and may adversely impact our business, financial condition and results of operations.
+           Our success depends upon the efforts, abilities and expertise of our executive officers and
+           other senior managers, including Simon J. Newman, our President and Chief Executive
+           Officer, Adrian Murphy, our Chief Financial Officer, David Angell, Executive Vice President-
+           Asia and Josef Ungerhofer, Executive Vice President-Europe. Mr. Newman has served in a
+           number of technical, operational and management roles at Dynacast since 1979, through which
+           he has developed significant industry experience and important relationships with our
+           employees, customers and suppliers. Mr. Murphy, who first joined Dynacast in 1990, has
+           served in various financial and management positions throughout the Dynacast business in
+           the U.S., Canada and the United Kingdom. Since beginning his career with Dynacast in 1993,
+           Mr. Angell has been responsible for operation, management and expansion of numerous
+           Dynacast facilities and has developed essential experience and relationships while managing
+           Dynacast’s Asian operations. Mr. Ungerhofer joined Dynacast in 1989. During his career at
+           Dynacast, Mr. Ungerhofer held management positions in engineering and sales prior to being
+           promoted to General Manager of our Austrian manufacturing facility in 2000, a position he
+           currently still holds in addition to his European region responsibilities.
+           The loss of the services of Messrs. Newman, Murphy, Angell or Ungerhofer could result in
+           significant disruptions to our operations, which could have a material adverse effect on our
+           business, financial condition and results of operations. It would be very difficult to replace the
+           knowledge, skills, experience and relationships developed by Messrs. Newman, Murphy,
+           Angell or Ungerhofer over the course of their careers with Dynacast. In addition, we may not
+           be successful in attracting and retaining qualified personnel to replace Messrs. Newman,
+           Murphy, Angell or Ungerhofer and the integration of replacement personnel could be costly
+           and time consuming, could cause additional disruptions to our business, and could be
+           unsuccessful.
+           If we pursue strategic acquisitions or investments, we may not be able to successfully
+           consummate favorable transactions or successfully integrate acquired businesses.
+
+
+
+
+                                                            Dynacast: Solid, Middle Market LBO | Page 28
+                                                                                    BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           From time to time we may evaluate potential acquisition or investment opportunities in
+           complementary businesses, products or technologies. Such transactions, if any, will be
+           accompanied by the risks commonly encountered in acquisitions of businesses, including,
+           among other things, integration costs, significant managerial challenges and lack of synergies.
+           We may not successfully overcome these risks or any other problems encountered in
+           connection with such transactions, including the inability to integrate an acquired business’s
+           operations, IT technologies, services and products into our business, diversion of
+           management’s attention, the assumption of unknown liabilities, increases in our indebtedness,
+           the failure to achieve the strategic objectives of those acquisitions and other unanticipated
+           problems, some or all of which could materially and adversely affect us. The process of
+           integrating operations could cause an interruption of, or loss of momentum in, key competitive
+           and marketing activities. Any delays or difficulties encountered in connection with any
+           acquisition and the integration of operations could have a material adverse effect on our
+           business, financial condition and results of operations.
+           The raw materials used in our production processes are subject to price fluctuations that, if
+           we cannot pass along such costs to customers, could adversely affect our business, financial
+           condition and results of operations.
+           Our supply of raw materials, including zinc, aluminum and magnesium, for our business
+           could be interrupted for a variety of reasons, including pricing. Prices for raw materials
+           necessary for production have fluctuated significantly in the past and significant increases
+           could adversely affect our results of operations and profit margins. We have agreements with
+           the vast majority of our customers to pass through changes in the price of zinc, aluminum and
+           magnesium. Since metal prices are typically set each month proactively based upon the
+           previous month’s metal index, there may be a lag-effect in a rising or falling market. If we are
+           unable to pass along the cost of raw materials to customers for any reason, we will be exposed
+           to potentially significant raw material commodity pricing risks which could materially and
+           adversely affect our business, financial condition and results of operations.
+           The energy costs involved in our production processes and transportation are subject to
+           fluctuations that are beyond our control and could significantly increase our costs of
+           production.
+           Our manufacturing process and the transportation of raw materials, components and finished
+           goods are energy intensive. Our manufacturing processes are dependent on adequate supplies
+           of electricity and natural gas. A substantial increase in the cost of transportation fuel, natural
+           gas or electricity could have a material adverse effect on our results of operations. We may
+           experience higher than anticipated fuel and energy costs in the future, which could adversely
+           affect our results of operations. In addition, a disruption or curtailment in fuel and energy
+           supply, for any reason, could have a material adverse effect on our production and sales, and
+           accordingly could materially and adversely affect our business, financial condition and results
+           of operations.
+           Potential product liability risks exist from the products that we sell.
+
+
+            Page 29 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           Our business exposes us to potential product liability risks that are inherent in the design,
+           manufacture and sale of specialized cast and machined mechanical components and, where
+           applicable, the products of third-party vendors that we use. We cannot assure you that we will
+           be able to maintain our insurance on acceptable terms or that our insurance will provide
+           adequate protection against all potential liabilities. In the event of one or more claims against
+           us, a lack of sufficient insurance coverage could have a material adverse effect on our business,
+           financial condition and results of operations. The defense of one or more significant claims,
+           even if successful, would absorb a large amount of management’s time and our resources and
+           distract key personnel from the day to day running of our operations. Moreover, even if we
+           maintain adequate insurance, any successful claim could have a material adverse effect on our
+           business, financial condition and results of operations.
+           Some of our employees belong to labor unions, and strikes or work stoppages, as well as labor
+           protection laws in various countries in which we operate, could adversely affect our
+           operations.
+           Some of the countries in which we operate, or may in the future operate, may have laws
+           favorable to organized labor, which may make it difficult for us to rationalize or downsize
+           operations. Many of the employees at our Peterborough, Canada facility belong to labor
+           unions. In addition, most of our employees in Europe are represented by government-
+           mandated works councils, which generally must approve changes in conditions of
+           employment, including restructuring initiatives and changes in salaries and benefits. We may
+           not be able to maintain constructive relationships with these labor unions or works councils
+           and we may be unable to timely extend or renegotiate our collective bargaining agreements as
+           they expire.
+           In 2010, we experienced a minor work stoppage at our facility in France. That disruption did
+           not involve all employees at the facility and it did not have a material impact on our business.
+           We cannot guarantee that we will not have future disruptions, which could materially
+           adversely affect our operations. If our unionized workers were to engage in a strike, work
+           stoppage or other slowdown, or other employees were to become unionized, we could
+           experience a significant disruption of our operations and higher ongoing labor costs, which
+           could have a material adverse effect on our business, financial condition and results of
+           operations. In addition, a significant dispute could divert our management’s attention and
+           otherwise hinder our ability to conduct our business.
+           We operate and source internationally, which exposes us to the risks of doing business abroad.
+           Our operations are subject to the risks of doing business abroad, including the following:
+              •   fluctuations in currency exchange rates;
+              •   limitations on ownership;
+              •   limitations and expense associated with the repatriation of earnings;
+              •   political, social and economic instability and disruptions, including the threat of global
+                  terrorism;
+              •   import and export controls;
+
+
+                                                           Dynacast: Solid, Middle Market LBO | Page 30
+                                                                                   BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+              •    labor unrest and current and changing regulatory environments;
+              •    disadvantages of competing against companies from countries that are not subject to
+                   U.S. laws and regulations, including the U.S. Foreign Corrupt Practices Act (“FCPA”);
+                • difficulties in staffing and managing multinational operations;
+                • regulatory risk;
+                • limitations on our ability to enforce legal rights and remedies; and
+                • adverse tax consequences.
+            In addition, we may face obstacles in the People’s Republic of China, including a cumbersome
+           bureaucracy and significant political, economic and legal risks which may adversely affect our
+           operations in that country. We also could be adversely affected by violations of the FCPA and
+           similar worldwide anti-bribery laws. The FCPA and similar anti-bribery laws in other
+           jurisdictions generally prohibit companies and their intermediaries from making improper
+           payments to non-U.S. officials for the purpose of obtaining or retaining business. We operate
+           in many parts of the world that have experienced governmental corruption to a greater or
+           lesser degree and, in certain circumstances, strict compliance with anti-bribery laws may
+           conflict with local customs and practices and impact our ability to compete as effectively in
+           these regions. We cannot assure you that our internal controls and procedures always will
+           protect us from the reckless or criminal acts committed by our employees or agents. If we are
+           found to be liable for FCPA violations (either due to our own acts or our inadvertence or due
+           to the acts or inadvertence of others), we could be subject to United States federal criminal or
+           civil penalties or other sanctions, which could have a material adverse effect on our business.
+           Any of the events enumerated above could have an adverse effect on our operations in the
+           future by reducing the demand for our products and services, decreasing the prices at which
+           we can sell our products or otherwise having an adverse effect on our business, financial
+           condition and results of operations.
+           Strengthening of the U.S. dollar, as well as other foreign currency exchange rate fluctuations,
+           could materially impact our results of operations.
+           In 2013, approximately 83.0% of our net sales originated outside the United States. We
+           translate sales and other results denominated in foreign currencies into U.S. dollars for our
+           consolidated financial statements. This translation is based on average exchange rates during
+           a reporting period. During times of a strengthening U.S. dollar, our reported international
+           sales and earnings have been reduced when foreign currencies translated into fewer U.S.
+           dollars. This risk will increase if foreign sales and expenses increase.
+           Separately, while we generally manufacture in the same geographic markets as our products
+           are sold, our sales are more concentrated in U.S. dollars and in Euros than our expenses which
+           are typically denominated in local currency, and therefore our profit margins and earnings
+           could be reduced due to fluctuations or adverse trends in foreign currency exchange rates.
+           While we employ financial instruments to hedge certain of these exposures, this does not
+           insulate us completely from currency fluctuation effects.
+
+
+
+
+            Page 31 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           We are subject to various environmental, health and safety laws and regulations and have
+           related compliance expenditures and liabilities which may result in significant costs.
+           Our operations and properties are subject to foreign, federal, state and local environmental,
+           health and safety laws and regulations, particularly with respect to the use, handling,
+           treatment, storage, discharge and disposal of wastes and other regulated materials used or
+           generated in our manufacturing processes, release of pollutants into the air, soil and water,
+           and the remediation of contaminated sites. Our failure to comply with applicable
+           environmental laws and regulations and permit requirements could result in civil or criminal
+           fines or penalties or enforcement actions, including regulatory or judicial orders enjoining or
+           curtailing operations or requiring corrective measures, installation of pollution control
+           equipment or remedial actions.
+           We may be required to incur costs relating to the investigation or remediation of property,
+           including property where we have disposed of our waste, and for claims alleging personal
+           injury or damages to property or natural resources. Some environmental laws and regulations
+           impose strict, and in some cases joint and several, liability on present and former owners,
+           operators or users of sites for costs of investigation and remediation of contaminated sites, as
+           well as those entities that send regulated materials to the sites. We cannot assure you that we
+           have been or will be at all times in complete compliance with such laws, regulations and
+           permits. In addition, we occasionally evaluate various alternatives with respect to our
+           facilities, including possible dispositions or closures. Investigations undertaken in connection
+           with these activities may lead to discoveries of contamination that must be remediated, and
+           closures of facilities may trigger compliance requirements that are not applicable to operating
+           facilities. Consequently, we cannot assure you that existing or future circumstances, the
+           development of new facts or the failure of third parties to address contamination at current or
+           former facilities or properties will not require significant expenditures by us.
+           Environmental laws are complex, change frequently and have historically become more
+           stringent over time. Although our costs of complying with environmental, health and safety
+           laws, and our liabilities arising from releases of, or exposure to, regulated materials have not
+           to date had a materially adverse effect on our business, financial position, results of operations
+           or cash flows, there can be no assurance that this will continue to be the case in the future.
+           Enactment of new laws and regulations, stricter enforcement of existing requirements,
+           discovery of presently unknown conditions or accidental releases of regulated materials could
+           cause us to incur costs which could be material.
+           Operating problems in our business may adversely affect our business, financial condition
+           and results of operations.
+           We are subject to the usual hazards associated with manufacturing and the related storage and
+           transportation of raw materials, products and waste, including explosions, fires, leaks,
+           discharges, inclement weather, natural disasters, personnel injuries or fatalities, mechanical
+           failure, unscheduled downtime and transportation interruption or calamities. The occurrence
+
+
+
+
+                                                            Dynacast: Solid, Middle Market LBO | Page 32
+                                                                                    BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           of material operating problems at one or more of our facilities may have a material adverse
+           effect on our operations as a whole, both during and after the period of operational difficulties.
+           Adverse credit market conditions may significantly affect our access to capital, cost of capital
+           and ability to meet liquidity needs.
+           Disruptions, uncertainty or volatility in the credit markets may adversely impact our ability
+           to access credit already arranged and the availability and cost of credit to us in the future.
+           Market conditions may limit our ability to replace, in a timely manner, maturing liabilities and
+           access the capital necessary to grow and maintain our business. Accordingly, we may be forced
+           to delay raising capital or pay unattractive interest rates, which could increase our interest
+           expense, decrease our profitability and significantly reduce our financial flexibility.
+           Longer-term disruptions in the capital and credit markets as a result of uncertainty, changing
+           or increased regulation, reduced alternatives or failures of significant financial institutions
+           could adversely affect our access to liquidity needed for our business. Any disruption could
+           require us to take measures to conserve cash until the markets stabilize or until alternative
+           credit arrangements or other funding for our business needs can be arranged. Such measures
+           could include deferring capital expenditures and reducing or eliminating future share
+           repurchases or other discretionary uses of cash. Overall, our business, financial condition and
+           results of operations could be materially adversely affected by disruptions in the credit
+           markets.
+           The financial information of the Predecessor Company is not representative of our financial
+           condition, future results of operations or future cash flows nor does it reflect what our
+           financial condition, results of operations or cash flows would have been as a stand-alone
+           company during the periods presented.
+           The Predecessor Company financial information included in this Form 10-K is not
+           representative of our future financial condition, future results of operations or future cash
+           flows nor does it reflect what our financial condition, results of operations or cash flows would
+           have been as a stand-alone company during the Predecessor Company period presented. This
+           is primarily because:
+              •   Our historical combined financial information has been derived from the financial
+                  statements and accounting records of Melrose and reflects assumptions and allocations
+                  made by Melrose. Those assumptions and allocations may be different from the
+                  comparable expenses we would have incurred as a stand-alone company;
+              •   Prior to the Acquisition, the Dynacast business was not owned by a single legal entity
+                  and, accordingly, historical consolidated financial information does not exist;
+              •   Certain general corporate expenses were historically allocated to the Predecessor
+                  Company period by Melrose that, while reasonable, may not be indicative of the actual
+                  expenses that would have been incurred had we been operating as a stand-alone
+                  company, nor are they indicative of the costs that will be incurred in the future as a
+                  stand-alone company;
+
+
+
+            Page 33 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+              •   The Predecessor Company’s working capital requirements historically were satisfied
+                  as part of Melrose’s corporate-wide cash management policies. Since becoming a
+                  stand-alone company, we no longer rely on Melrose for working capital. In connection
+                  with the transactions, we incurred a large amount of indebtedness and will therefore
+                  assume significant debt service costs. As a result, our cost of debt and capitalization
+                  will be significantly different from that reflected in the Predecessor Company’s
+                  historical combined financial information; and
+               • Following the Acquisition, we have experienced increases in our costs, including the
+                  cost to establish an appropriate accounting and reporting system, debt service
+                  obligations, providing healthcare and other costs of being a stand-alone company.
+           See “Management’s Discussion and Analysis of Financial Condition and Results of
+           Operations” in Part II, Item 7, and our audited consolidated and combined financial
+           statements and the related notes thereto included in Part II, Item 8, of this Form 10-K.
+           We have a limited history as a stand-alone company
+           The Dynacast business was operated under Melrose prior to July 19, 2011. On July 19, 2011, as
+           a result of the Acquisition, we became an independent, stand-alone company. There is a
+           significant degree of difficulty inherent in the process of transitioning from a subset of a larger
+           corporate parent to becoming a stand-alone company, including effecting this process while
+           carrying on our ongoing operations and separating our corporate infrastructure from
+           Melrose’s, including systems, insurance, accounting, legal, finance and tax.
+           Our failure to continue to operate as a stand-alone company could have an adverse effect on
+           our business, financial condition and results of operations. This ongoing process could cause
+           an interruption of, or loss of momentum in, the activities of one or more of our businesses.
+           Members of our senior management may be required to devote considerable amounts of time
+           to this process, which will decrease the time they will have to manage their respective
+           businesses, service existing customers, attract new customers and develop new products or
+           strategies. If our senior management is not able to manage this process effectively, or if any
+           significant business activities are interrupted as a result of this process, our business could
+           suffer.
+           If we fail to maintain effective internal control over financial reporting, we may not be able
+           to accurately report our financial results which could have a material adverse effect on our
+           operations and investor confidence in our business.
+           As an SEC-reporting company, we are required to maintain effective disclosure controls and
+           procedures and internal control over financial reporting, to disclose, on a quarterly basis,
+           changes made in our internal control and procedures that, or that are reasonably likely to,
+           materially affect internal control over financial reporting, and, beginning with our fiscal year
+           ending December 31, 2013, to provide an annual assessment of the effectiveness of our internal
+           control over financial reporting. If we fail to maintain effective internal control over financial
+           reporting, we may not be able to accurately report our financial results which could have a
+           material adverse effect on our operations and investor confidence in our business.
+
+
+                                                            Dynacast: Solid, Middle Market LBO | Page 34
+                                                                                     BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           A group of investors, including Kenner, controls us and their interests may conflict with or
+           differ from ours.
+           Certain affiliates of Kenner and their co-investors have the power to elect all of our directors.
+           Therefore, these stockholders have the ability to prevent any transaction that requires the
+           approval of our Board of Directors, including the approval of significant corporate
+           transactions such as mergers and the sale of substantially all of our assets. The directors elected
+           by these stockholders have the ability to control decisions affecting our corporate structure,
+           including the issuance of additional capital stock, the implementation of stock repurchase
+           programs and the declaration of dividends. The interests of these stockholders could conflict
+           with, or differ from, the interests of holders of the Notes. For example, if we encounter financial
+           difficulties or are unable to pay our debts as they mature, the interests of these stockholders
+           might conflict with the noteholders’ interests. Furthermore, the concentration of ownership
+           held by these stockholders could delay, defer or prevent a change of control or impede a
+           merger, takeover or other business combination. Additionally, these stockholders are in the
+           business of making or advising on investments in companies they hold, and may from time to
+           time in the future acquire interests in or provide advice to businesses that directly or indirectly
+           compete with certain portions of our business or are suppliers or customers of ours. These
+           stockholders may also pursue acquisitions that may be competitive with, or complementary
+           to, our business, and, as a result, those acquisition opportunities may not be available to us. So
+           long as these stockholders continue to own a significant amount of the outstanding shares of
+           our common stock, they will continue to be able to strongly influence or effectively control our
+           decisions.
+           Our business, financial condition and results of operations may be adversely affected by
+           various legal and regulatory proceedings.
+           We are subject to legal and regulatory proceedings, lawsuits and claims in the normal course
+           of our business and we could become subject to additional proceedings, lawsuits or claims in
+           the future, some of which could be material. Any proceedings, lawsuits or claims initiated by
+           or against us, whether successful or not, may be time consuming and require significant
+           amounts of management time, result in costly litigation and damage awards, require us to
+           change our business practices or products, result in diversion of significant operations
+           resources or otherwise harm our business and future financial results. The outcome of existing
+           proceedings, lawsuits and claims may differ from our expectations because the outcomes of
+           litigation, including regulatory matters, are often difficult to reliably predict. Various factors
+           or developments can lead us to change estimates of liabilities and related insurance receivables
+           where applicable, or make such estimates for matters previously not susceptible to reasonable
+           estimates, such as a significant judicial ruling or judgment, a significant settlement, significant
+           regulatory developments, or changes in applicable law. A future adverse ruling, settlement,
+           or unfavorable development could result in charges that could have a material adverse effect
+           on our business, financial condition or results of operations in any particular period.
+           Our level of indebtedness could adversely affect our financial flexibility.
+
+
+
+            Page 35 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           We have a significant amount of consolidated indebtedness. As of December 31, 2013, our total
+           consolidated indebtedness was $390.3 million (excluding mandatorily redeemable preferred
+           stock and the warrants issued to its purchaser) and $47.1 million was available for borrowing
+           under our revolving credit facility (after giving effect to $2.9 million of outstanding letters of
+           credit). Our level of indebtedness increases the risk that we may be unable to generate cash
+           sufficient to pay amounts due in respect of our indebtedness. Our indebtedness could have
+           other important consequences to noteholders and significant effects on our business.
+           For example, our indebtedness could:
+              •   make it more difficult for us to satisfy our obligations;
+              •   increase our vulnerability to adverse changes in general economic, industry and
+                  competitive conditions;
+               • require us to dedicate a substantial portion of our cash flows from operations to make
+                  payments on our indebtedness, thereby reducing the availability of our cash flows to
+                  fund working capital, capital expenditures and other general corporate purposes;
+               • limit our flexibility in planning for, or reacting to, changes in our business and the
+                  industry in which we operate;
+               • restrict us from taking advantage of opportunities to grow our business;
+               • place us at a competitive disadvantage compared to our competitors that have less
+                  indebtedness; and
+               • limit our ability to borrow additional funds for working capital, capital expenditures,
+                  acquisitions, debt service requirements, execution of our business strategy or other
+                  general corporate purposes on satisfactory term or at all.
+           In addition, the indenture governing the Notes contains, and the agreements evidencing or
+           governing our Senior Secured Credit Facilities and our other and future indebtedness may
+           contain, restrictive covenants that may limit our ability to engage in activities that may be in
+           our long-term best interests, dispose of assets or cause us to make non-strategic divestitures.
+           Our failure to comply with those covenants could result in an event of default which, if not
+           cured or waived, could result in the acceleration of all of our indebtedness.
+           To service our indebtedness, we will require a significant amount of cash. Our ability to
+           generate cash depends on many factors beyond our control.
+           Our ability to make payments on and to refinance our indebtedness and to fund planned
+           capital expenditures and key marketing initiatives will depend on our ability to generate cash
+           in the future. This, to a certain extent, is subject to general economic, financial, competitive,
+           legislative, regulatory and other factors that are beyond our control. We cannot assure you
+           that our business will generate sufficient cash flow from operations, that currently anticipated
+           cost savings and operating improvements will be realized on schedule or that future
+           borrowings will be available to us under the Senior Secured Credit Facilities in an amount
+           sufficient to enable us to pay interest on our indebtedness or to fund our other liquidity needs.
+           The borrowings under our Senior Secured Credit Facilities bear interest at variable rates and
+           other indebtedness we may incur could likewise be variable-rate indebtedness. If market rates
+           increase, variable-rate indebtedness will create higher debt service requirements, which could
+
+                                                            Dynacast: Solid, Middle Market LBO | Page 36
+                                                                                    BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+           further adversely affect our cash flow. If our leverage ratio increases, the aggregate interest
+           rates we are charged under our Senior Secured Credit Facilities could increase by 25 basis
+           points. We do not hedge our interest rate exposure.
+           If our cash flows and capital resources are insufficient to fund our debt service obligations, we
+           may be forced to reduce or delay capital expenditures or expansion initiatives, sell material
+           assets or operations, obtain additional equity capital or refinance all or a portion of our
+           indebtedness on or before maturity. In the absence of such operating results and resources, we
+           could face substantial cash flow problems and might be required to sell material assets or
+           operations to meet our debt service and other obligations. The indenture governing the Notes,
+           the terms of our Senior Secured Credit Facilities and the terms of any future debt instruments
+           we may enter into contain or may contain restrictions on our ability to dispose of assets, which,
+           in addition to prevailing market conditions, may restrict or prohibit our ability to sell assets to
+           generate cash. We cannot assure you as to the timing of such asset sales or the proceeds which
+           we could realize from such sales and we cannot assure you that we will be able to refinance
+           any of our indebtedness on commercially reasonable terms or at all.
+           Despite restrictions in the indenture governing the Notes and our Senior Secured Credit
+           Facilities, we and our subsidiaries may still be able to incur additional indebtedness and other
+           obligations. This could create significant leverage and related risks.
+           We and our subsidiaries may be able to incur a significant amount of additional indebtedness
+           and other obligations in the future pursuant to the indenture governing the Notes and the
+           terms of our Senior Secured Credit Facilities, including additional secured indebtedness.
+           Although covenants under the indenture governing the Notes and our Senior Secured Credit
+           Facilities limits our ability and the ability of our present and future subsidiaries to incur
+           additional indebtedness, the terms of such indenture permit us to incur additional
+           indebtedness. To the extent that we incur additional indebtedness or such other obligations,
+           the risk associated with the additional indebtedness described above, including our possible
+           inability to service our debt, will increase.
+           Restrictive covenants in the indenture governing the Notes and in the terms of our Senior
+           Secured Credit Facilities may limit our current and future operations, particularly our ability
+           to respond to changes in our business or to pursue our business strategies.
+           The indenture governing the Notes and in the terms of our Senior Secured Credit Facilities
+           contain, and any future indebtedness of ours may contain, a number of restrictive covenants
+           that impose significant operating and financial restrictions, including restrictions on our
+           ability to take actions that we believe may be in our best interest. Among other things, the
+           indenture limits our ability to:
+              •   incur additional indebtedness and issue disqualified stock and preferred stock;
+              •   pay dividends on or make distributions in respect of our membership interests or
+                  capital stock or make certain other restricted payments or investments;
+              •   create or incur liens;
+              •   sell certain assets;
+
+
+            Page 37 | Dynacast: Solid, Middle Market LBO
+            BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+               • place restrictions on the ability of restricted subsidiaries to make payments to us;
+               • enter into transactions with our affiliates;
+               • consolidate, merge or sell all or substantially all of our assets; and
+               • limit the ability of our restricted subsidiaries to guarantee indebtedness.
+           In addition to a minimum interest coverage ratio, our Senior Secured Credit Facilities require
+           us to maintain a maximum total leverage ratio.
+           A breach of the covenants or restrictions under the indenture governing the Notes could result
+           in a default. Such default may allow the creditors to accelerate the related debt and may result
+           in the acceleration of any other debt to which a cross-acceleration or cross-default provision
+           applies, including the Senior Secured Credit Facilities. In the event our lenders or noteholders
+           accelerate the repayment of our borrowings, we cannot assure that we and our subsidiaries
+           would have sufficient assets to repay such indebtedness.
+           The restrictions contained in the indenture governing the Notes and in the terms of the Senior
+           Secured Credit Facilities could adversely affect our ability to:
+              •    finance our operations;
+              •    make needed capital expenditures;
+              •    make strategic acquisitions or investments or enter into alliances;
+              •    withstand a future downturn in our business or the economy in general;
+              •    engage in business activities, including future opportunities and expansion, that may
+                   be in our best interest; and
+               • plan for or react to market conditions or otherwise execute our business strategies.
+           Our ability to obtain future financing or to sell assets could be adversely affected because a
+           very large majority of our assets have been secured as collateral for the benefit of the holders
+           of the Notes and the lenders under our Senior Secured Credit Facilities. In addition, our
+           financial results, our indebtedness and our credit ratings could adversely affect the availability
+           and terms of our financing.
+           Our ability to meet our obligations under our debt, in part, depends on the earnings and cash
+           flows of our subsidiaries and the ability of our subsidiaries to pay dividends or advance or
+           repay funds to us.
+           We conduct the vast majority of our business operations through our subsidiaries. The ability
+           of these subsidiaries to make dividend payments, make loans or pay royalties, etc. to us will
+           be affected by, among other factors, the obligations of these entities to their creditors,
+           requirements of corporate and other law, and restrictions contained in agreements entered
+           into by or relating to these entities. In addition, our foreign subsidiaries may be subject to
+           currency controls, repatriation restrictions, withholding tax obligations on payments to us and
+           other limits, and we may be subject to U.S. income tax on distributions from our foreign
+           subsidiaries, even after taking into account foreign tax credits.
+           Source: Company 10-K
+
+
+
+
+                                                            Dynacast: Solid, Middle Market LBO | Page 38
+                                                                                    BY MARGARET CANNELLA*
+
+
+Authorized for use only in Private Equity by Emmanuel Yimfor from September 2026 to October 2026.
+
